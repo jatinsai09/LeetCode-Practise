@@ -25,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3433-count-mentions-per-user](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3433-count-mentions-per-user) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1143-longest-common-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
