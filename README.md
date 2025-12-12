@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3433-count-mentions-per-user](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3531-count-covered-buildings) |
 ## Hash Table
 |  |
@@ -14,5 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [3433-count-mentions-per-user](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3531-count-covered-buildings) |
+## Math
+|  |
+| ------- |
+| [3433-count-mentions-per-user](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3433-count-mentions-per-user) |
+## Simulation
+|  |
+| ------- |
+| [3433-count-mentions-per-user](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3433-count-mentions-per-user) |
 <!---LeetCode Topics End-->
