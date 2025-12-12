@@ -37,9 +37,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
