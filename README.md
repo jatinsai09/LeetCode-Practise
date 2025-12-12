@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0020-valid-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0142-linked-list-cycle-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
