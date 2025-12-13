@@ -5,6 +5,7 @@ public:
                                    vector<bool>& isActive) {
         int n = code.size();
         vector<string> res;
+        vector<int> ind;
         set<string> s = {"electronics", "grocery", "pharmacy", "restaurant"};
 
         for (int i = 0; i < n; i++) {
@@ -18,15 +19,20 @@ public:
                     }
                 }
                 if (yes) {
-                    res.push_back(businessLine[i][0] + code[i]);
+                    ind.push_back(i);
                 }
             }
         }
 
-        sort(begin(res), end(res));
+        sort(begin(ind), end(ind), [&](int i, int j) {
+            if (businessLine[i] != businessLine[j]) {
+                return businessLine[i] < businessLine[j];
+            }
+            return code[i] < code[j];
+        });
 
-        for (auto& s : res) {
-            s = s.substr(1);
+        for (auto& i : ind) {
+            res.push_back(code[i]);
         }
 
         return res;
