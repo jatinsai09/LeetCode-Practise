@@ -5,9 +5,9 @@ public:
     int numberOfWays(string s) {
         ll n = s.size(), res = 1, seats = 0, plants = 0;
 
-        for (int i = 0, j = 0; i < n; i++) {
+        for (int i = 0; i < n; i++) {
             if (s[i] == 'S') {
-                if (++seats > 2 && seats % 2) {
+                if (++seats > 1 && seats % 2) {
                     res *= (plants + 1);
                     res %= mod;
                 }
