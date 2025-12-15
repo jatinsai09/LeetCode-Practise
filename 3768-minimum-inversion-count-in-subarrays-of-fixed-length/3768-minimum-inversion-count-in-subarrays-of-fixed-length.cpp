@@ -3,10 +3,9 @@ class Solution {
 public:
     long long minInversionCount(vector<int>& nums, int k) {
         ll n = nums.size();
-        int bits[n + 1];
-        memset(bits, 0, sizeof(bits));
+        vector<int> bits(n + 1);
 
-        vector<int> unq(begin(nums), end(nums));
+        vector<int> unq = nums;
         sort(begin(unq), end(unq));
         unq.erase(unique(begin(unq), end(unq)), end(unq));
 
@@ -42,8 +41,8 @@ public:
         ll res = cur;
         for (int i = k; i < n; i++) {
             {
-                update(a[i - k], -1);
                 cur -= query(a[i - k] - 1);
+                update(a[i - k], -1);
             }
             {
                 cur += (k - 1) - query(a[i]);
