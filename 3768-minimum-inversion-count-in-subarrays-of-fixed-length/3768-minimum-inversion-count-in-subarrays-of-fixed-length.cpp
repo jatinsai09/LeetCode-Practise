@@ -11,9 +11,7 @@ public:
 
         vector<int> a(n);
         for (int i = 0; i < n; i++) {
-            int val =
-                lower_bound(begin(unq), end(unq), nums[i]) - begin(unq) + 1;
-            a[i] = val;
+            a[i] = lower_bound(begin(unq), end(unq), nums[i]) - begin(unq) + 1;
         }
 
         auto update = [&](int ind, int val) -> void {
