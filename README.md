@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0204-count-primes) |
@@ -173,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0496-next-greater-element-i) |
 | [0853-car-fleet](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0853-car-fleet) |
 | [1019-next-greater-node-in-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1019-next-greater-node-in-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
