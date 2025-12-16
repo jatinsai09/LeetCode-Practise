@@ -13,10 +13,11 @@ public:
             int time = 1, got = 0;
 
             for (auto &w: weights) {
-                got += w;
-                if (got > limit) {
+                if (got + w > limit) {
                     time++;
                     got = w;
+                } else {
+                    got += w;
                 }
             }
 
