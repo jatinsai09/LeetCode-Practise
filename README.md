@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0496-next-greater-element-i) |
 | [0853-car-fleet](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0853-car-fleet) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1019-next-greater-node-in-linked-list) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -179,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0046-permutations) |
+## Binary Search
+|  |
+| ------- |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
