@@ -30,7 +30,7 @@ public:
 
             res.push_back(root->val);
 
-            for (auto &child: root->children) {
+            for (const auto &child: root->children) {
                 traverse(child);
             }
         };
