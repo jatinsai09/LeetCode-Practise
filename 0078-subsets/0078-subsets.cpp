@@ -5,8 +5,7 @@ public:
         vector<vector<int>> allSubsets;
         vector<int> res;
 
-        function<void(int, vector<int>)> f = [&](int i,
-                                                 vector<int> res) -> void {
+        function<void(int)> f = [&](int i) -> void {
             if (i == n) {
                 allSubsets.push_back(res);
                 return;
@@ -14,14 +13,14 @@ public:
 
             // pick
             res.push_back(nums[i]);
-            f(i + 1, res);
+            f(i + 1);
 
             // not pick
             res.pop_back();
-            f(i + 1, res);
+            f(i + 1);
         };
 
-        f(0, res);
+        f(0);
 
         return allSubsets;
     }
