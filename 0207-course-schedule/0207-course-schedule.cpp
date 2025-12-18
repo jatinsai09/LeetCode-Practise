@@ -7,8 +7,7 @@ public:
             adj[p[0]].push_back(p[1]);
         }
 
-        int indegree[num];
-        memset(indegree, 0, sizeof(indegree));
+        vector<int> indegree(num);
         for (int u = 0; u < num; u++) {
             for (const auto& v : adj[u]) {
                 indegree[v]++;
@@ -34,7 +33,7 @@ public:
                 }
             }
         }
-        
+
         return c == num;
     }
 };
