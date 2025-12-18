@@ -4,7 +4,7 @@ public:
         vector<vector<string>> res;
         vector<string> b(n, string(n, '.'));
 
-        vector<int> c(n), md(2 * n + 1), od(2 * n - 1);
+        vector<int> c(n), md(2 * n - 1), od(2 * n - 1);
 
         function<void(int)> f = [&](int row) -> void {
             if (row == n) {
