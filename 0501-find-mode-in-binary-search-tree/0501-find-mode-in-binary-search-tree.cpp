@@ -13,8 +13,8 @@ class Solution {
 public:
     vector<int> findMode(TreeNode* root) {
         vector<int> res;
-        unordered_map<int, int> f;
-        int mxc = 0;
+        TreeNode* prevNode = nullptr;
+        int mxc = 0, cur = 0;
 
         function<void(TreeNode*)> inorder = [&](TreeNode* node) -> void {
             if (!node) {
@@ -23,16 +23,21 @@ public:
 
             inorder(node->left);
 
-            int c = ++f[node->val];
+            if (!prevNode || node->val != prevNode->val) {
+                cur = 1;
+            } else {
+                cur++;
+            }
 
-            if (c > mxc) {
-                mxc = c;
+            if (cur > mxc) {
+                mxc = cur;
                 res.clear();
                 res.push_back(node->val);
-            } else if (c == mxc) {
+            } else if (cur == mxc) {
                 res.push_back(node->val);
             }
 
+            prevNode = node;
             inorder(node->right);
         };
 
