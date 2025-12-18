@@ -5,10 +5,7 @@ public:
         vector<int> mvs = {0, 1, 0, -1, 0};
 
         function<bool(int, int)> isSafe = [&](int i, int j) -> bool {
-            if (i < 0 || i >= n || j < 0 || j >= m) {
-                return false;
-            }
-            return true;
+            return (i >= 0 && i < n && j >= 0 && j < m);
         };
 
         function<void(int, int)> dfs = [&](int i, int j) -> void {
