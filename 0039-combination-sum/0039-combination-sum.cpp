@@ -17,6 +17,11 @@ public:
                 return;
             }
 
+            if (i && candidates[i - 1] == candidates[i]) {
+                f(i + 1);
+                return;
+            }
+
             v.push_back(candidates[i]);
             target -= candidates[i];
             f(i);
