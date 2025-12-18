@@ -1,8 +1,6 @@
 class Solution {
 public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        sort(begin(candidates), end(candidates));
-
         int n = candidates.size();
         vector<vector<int>> res;
         vector<int> v;
@@ -17,18 +15,15 @@ public:
                 return;
             }
 
-            if (i && candidates[i - 1] == candidates[i]) {
-                f(i + 1);
-                return;
-            }
+            f(i + 1);
 
             v.push_back(candidates[i]);
             target -= candidates[i];
-            f(i);
 
-            v.pop_back();
+            f(i);
+            
             target += candidates[i];
-            f(i + 1);
+            v.pop_back();
         };
 
         f(0);
