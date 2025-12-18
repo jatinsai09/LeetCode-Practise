@@ -11,37 +11,37 @@
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-        ios_base::sync_with_stdio(0);
-        cin.tie(0);
-        cout.tie(0);
-
-        if (!head || !head->next) {
+        if (!head->next) {
             return true;
         }
 
-        ListNode *slow = head, *fast = head, *prev, *temp;
+        ListNode* slow = head;
+        ListNode* fast = head;
 
         while (fast && fast->next) {
             slow = slow->next;
             fast = fast->next->next;
         }
 
-        prev = nullptr;
-        while (slow) {
-            temp = slow->next;
-            slow->next = prev;
-            prev = slow;
-            slow = temp;
+        ListNode* prev = nullptr;
+        ListNode* cur = slow;
+        while (cur) {
+            ListNode* nextNode = cur->next;
+            cur->next = prev;
+            prev = cur;
+            cur = nextNode;
         }
 
-        fast = head, slow = prev;
+        slow = prev, fast = head;
+
         while (slow) {
-            if (fast->val != slow->val) {
+            if (slow->val != fast->val) {
                 return false;
             }
-            fast = fast->next;
             slow = slow->next;
+            fast = fast->next;
         }
+
         return true;
     }
 };
