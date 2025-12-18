@@ -30,7 +30,8 @@ public:
             }
 
             ListNode* cur = prevGroupEnd->next;
-            ListNode* start = prevGroupEnd->next;
+            ListNode* start = cur;
+            
             ListNode* nextGroupStart = kth->next;
             ListNode* prev = nextGroupStart;
 
