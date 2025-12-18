@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0496-next-greater-element-i) |
 | [3531-count-covered-buildings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3606-coupon-code-validator) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0387-first-unique-character-in-a-string) |
 | [1143-longest-common-subsequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1143-longest-common-subsequence) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3606-coupon-code-validator](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3606-coupon-code-validator) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0387-first-unique-character-in-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -252,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
