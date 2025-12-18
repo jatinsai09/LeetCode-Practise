@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0226-invert-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0993-cousins-in-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0226-invert-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0993-cousins-in-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0226-invert-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0993-cousins-in-binary-tree) |
 ## Doubly-Linked List
 |  |
@@ -266,4 +269,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0098-validate-binary-search-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
