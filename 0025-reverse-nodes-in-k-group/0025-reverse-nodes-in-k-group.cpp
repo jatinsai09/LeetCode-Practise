@@ -22,7 +22,7 @@ public:
         while (1) {
             ListNode* kth = prevGroupEnd;
 
-            for (int i = 0; i < k && kth; i++) {
+            for (int i = 1; i <= k && kth; i++) {
                 kth = kth->next;
             }
             if (kth == nullptr) {
@@ -31,7 +31,7 @@ public:
 
             ListNode* cur = prevGroupEnd->next;
             ListNode* start = cur;
-            
+
             ListNode* nextGroupStart = kth->next;
             ListNode* prev = nextGroupStart;
 
