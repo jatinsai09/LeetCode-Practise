@@ -6,13 +6,14 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+ * right(right) {}
  * };
  */
 class Solution {
 public:
     int rangeSumBST(TreeNode* root, int low, int high) {
-        if(!root) {
+        if (!root) {
             return 0;
         }
 
@@ -21,9 +22,13 @@ public:
             cur += root->val;
         }
 
-        int leftSum = rangeSumBST(root->left, low, high);
-        int rightSum = rangeSumBST(root->right, low, high);
+        if (low < root->val) {
+            cur += rangeSumBST(root->left, low, high);
+        }
+        if (high > root->val) {
+            cur += rangeSumBST(root->right, low, high);
+        }
 
-        return cur + leftSum + rightSum;
+        return cur;
     }
 };
