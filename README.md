@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0136-single-number) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0200-number-of-islands) |
 ## Monotonic Stack
 |  |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0074-search-a-2d-matrix) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Memoization
 |  |
