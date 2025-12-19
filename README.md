@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0020-valid-parentheses) |
+| [0171-excel-sheet-column-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0171-excel-sheet-column-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0387-first-unique-character-in-a-string) |
 | [1143-longest-common-subsequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1143-longest-common-subsequence) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
