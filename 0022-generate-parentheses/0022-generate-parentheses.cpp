@@ -4,19 +4,19 @@ public:
         vector<string> res;
         string s;
 
-        function<void(int, int)> f = [&](int op, int cl) -> void {
-            if (op == 0 && cl == 0) {
+        function<void(int, int)> f = [&](int open, int close) -> void {
+            if (open + close == 0) {
                 res.push_back(s);
             }
 
-            if (op) {
+            if (open) {
                 s.push_back('(');
-                f(op - 1, cl);
+                f(open - 1, close);
                 s.pop_back();
             }
-            if (cl > op) {
+            if (close > open) {
                 s.push_back(')');
-                f(op, cl - 1);
+                f(open, close - 1);
                 s.pop_back();
             }
         };
