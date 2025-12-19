@@ -19,7 +19,7 @@ public:
                 open++;
                 s.pop_back();
             }
-            if (close > open) {
+            if (close != open) {
                 s.push_back(')');
                 close--;
 
