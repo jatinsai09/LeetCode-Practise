@@ -13,8 +13,7 @@
 class Solution {
 public:
     int getMinimumDifference(TreeNode* root) {
-        int res = 1e6;
-        TreeNode* prev = nullptr;
+        int res = 1e6, prev = -1;
 
         function<void(TreeNode*)> inorder = [&](TreeNode* root) -> void {
             if (!root) {
@@ -23,10 +22,10 @@ public:
 
             inorder(root->left);
 
-            if (prev) {
-                res = min(res, root->val - prev->val);
+            if (prev != -1) {
+                res = min(res, root->val - prev);
             }
-            prev = root;
+            prev = root->val;
 
             inorder(root->right);
         };
