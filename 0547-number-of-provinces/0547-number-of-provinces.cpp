@@ -14,10 +14,10 @@ public:
             }
         };
 
-        for (int i = 0; i < n; i++) {
-            if (!vis[i]) {
+        for (int u = 0; u < n; u++) {
+            if (!vis[u]) {
                 p++;
-                dfs(i);
+                dfs(u);
             }
         }
 
