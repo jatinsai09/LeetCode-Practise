@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0739-daily-temperatures](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0853-car-fleet) |
+| [0897-increasing-order-search-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0897-increasing-order-search-tree) |
 | [1019-next-greater-node-in-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1019-next-greater-node-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Design
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0897-increasing-order-search-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0547-number-of-provinces) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0785-is-graph-bipartite](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0785-is-graph-bipartite) |
+| [0897-increasing-order-search-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0993-cousins-in-binary-tree) |
 | [2092-find-all-people-with-secret](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2092-find-all-people-with-secret) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0897-increasing-order-search-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0993-cousins-in-binary-tree) |
 ## Doubly-Linked List
@@ -313,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0098-validate-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0897-increasing-order-search-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0938-range-sum-of-bst) |
 ## Graph
 |  |
