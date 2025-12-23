@@ -36,7 +36,7 @@ public:
         if (mx > k - mx + 1) {
             res += k - mx;
         }
-        
+
         return res;
     }
 };
