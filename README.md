@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0200-number-of-islands) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0217-contains-duplicate) |
 | [0853-car-fleet](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0853-car-fleet) |
 | [2054-two-best-non-overlapping-events](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2054-two-best-non-overlapping-events) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0234-palindrome-linked-list) |
 ## Stack
