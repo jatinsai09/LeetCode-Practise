@@ -4,12 +4,12 @@ public:
         int n = a.size(), i = 0, j = 1;
         vector<int> res(n);
 
-        for (int k = 0; k < n; k++) {
-            if (a[k] > 0) {
-                res[i] = a[k];
+        for (const auto& it: a) {
+            if (it > 0) {
+                res[i] = it;
                 i += 2;
             } else {
-                res[j] = a[k];
+                res[j] = it;
                 j += 2;
             }
         }
