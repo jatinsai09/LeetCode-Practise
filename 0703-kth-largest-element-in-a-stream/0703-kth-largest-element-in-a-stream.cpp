@@ -6,7 +6,7 @@ public:
         lim = k;
         for(const auto& i : nums){
             pq.push(i);
-            if(pq.size() > k){
+            if(pq.size() > lim){
                 pq.pop();
             }
         }
