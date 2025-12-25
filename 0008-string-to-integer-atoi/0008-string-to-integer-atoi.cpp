@@ -16,14 +16,13 @@ public:
         }
 
         while (i < n) {
-            if (isdigit(s[i])) {
-                a = a * 10 + (s[i++] - '0');
-
-                if (a > INT_MAX) {
-                    return (sign == 1 ? INT_MAX : INT_MIN);
-                }
-            } else {
+            if (!isdigit(s[i])) {
                 return a * sign;
+            }
+
+            a = a * 10 + (s[i++] - '0');
+            if (a > INT_MAX) {
+                return (sign == 1 ? INT_MAX : INT_MIN);
             }
         }
 
