@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0217-contains-duplicate) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0540-single-element-in-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
