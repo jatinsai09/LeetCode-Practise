@@ -1,7 +1,7 @@
 class MedianFinder {
 public:
-    priority_queue<int> maxh;
-    priority_queue<int, vector<int>, greater<int>> minh;
+    priority_queue<int> maxh; // first half
+    priority_queue<int, vector<int>, greater<int>> minh; // second half
     bool even = true;
 
     MedianFinder() {
@@ -11,14 +11,14 @@ public:
     }
 
     void addNum(int num) {
-        if (even) {
+        if (even) { // element must go into first half
             minh.push(num);
 
             maxh.push(minh.top());
             minh.pop();
-        } else {
+        } else { // element must into second half
             maxh.push(num);
-            
+
             minh.push(maxh.top());
             maxh.pop();
         }
