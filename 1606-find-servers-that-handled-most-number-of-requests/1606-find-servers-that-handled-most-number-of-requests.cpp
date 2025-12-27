@@ -20,7 +20,7 @@ public:
             }
 
             if (!free.empty()) {
-                auto server = lower_bound(begin(free), end(free), i % k);
+                auto server = free.lower_bound(i % k);
 
                 if (server == free.end()) {
                     server = free.begin();
