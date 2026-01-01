@@ -10,8 +10,9 @@ public:
             for (int i = 0; i < 3; i++) {
                 for (int j = 0; j < 3; j++) {
                     int num = grid[r + i][c + j];
-                    if (num < 1 || num > 9 || st.count(num))
+                    if (num < 1 || num > 9 || st.count(num)) {
                         return false;
+                    }
                     st.insert(num);
                 }
             }
