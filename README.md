@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0560-subarray-sum-equals-k) |
+| [0756-pyramid-transition-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0840-magic-squares-in-grid) |
 | [2402-meeting-rooms-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2402-meeting-rooms-iii) |
 | [3531-count-covered-buildings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3531-count-covered-buildings) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0171-excel-sheet-column-number) |
 | [0282-expression-add-operators](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0282-expression-add-operators) |
 | [0387-first-unique-character-in-a-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0387-first-unique-character-in-a-string) |
+| [0756-pyramid-transition-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0338-counting-bits) |
+| [0756-pyramid-transition-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0756-pyramid-transition-matrix) |
 ## Matrix
 |  |
 | ------- |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0090-subsets-ii) |
 | [0282-expression-add-operators](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0282-expression-add-operators) |
+| [0756-pyramid-transition-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0756-pyramid-transition-matrix) |
 ## Binary Search
 |  |
 | ------- |
