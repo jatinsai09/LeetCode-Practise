@@ -28,10 +28,12 @@ public:
                 }
             }
 
-            if (grid[r][c] + grid[r + 1][c + 1] + grid[r + 2][c + 2] != sum)
+            if (grid[r][c] + grid[r + 1][c + 1] + grid[r + 2][c + 2] != sum) {
                 return false;
-            if (grid[r][c + 2] + grid[r + 1][c + 1] + grid[r + 2][c] != sum)
+            }
+            if (grid[r][c + 2] + grid[r + 1][c + 1] + grid[r + 2][c] != sum) {
                 return false;
+            }
 
             return true;
         };
