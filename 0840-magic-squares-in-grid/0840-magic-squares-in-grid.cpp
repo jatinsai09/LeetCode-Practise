@@ -19,11 +19,13 @@ public:
 
             for (int k = 0; k < 3; k++) {
                 if (grid[r][c + k] + grid[r + 1][c + k] + grid[r + 2][c + k] !=
-                    sum)
+                    sum) {
                     return false;
+                }
                 if (grid[r + k][c] + grid[r + k][c + 1] + grid[r + k][c + 2] !=
-                    sum)
+                    sum) {
                     return false;
+                }
             }
 
             if (grid[r][c] + grid[r + 1][c + 1] + grid[r + 2][c + 2] != sum)
