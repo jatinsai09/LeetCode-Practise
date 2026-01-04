@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1019-next-greater-node-in-linked-list) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1390-four-divisors) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1901-find-a-peak-element-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1901-find-a-peak-element-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0509-fibonacci-number) |
 | [0840-magic-squares-in-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0840-magic-squares-in-grid) |
+| [1390-four-divisors](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1390-four-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
