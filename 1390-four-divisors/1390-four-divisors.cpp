@@ -9,7 +9,8 @@ public:
                 if (i % d) {
                     continue;
                 }
-                if (!ld) {
+
+                if (ld == 0) {
                     ld = d;
                 } else {
                     ld = 0;
