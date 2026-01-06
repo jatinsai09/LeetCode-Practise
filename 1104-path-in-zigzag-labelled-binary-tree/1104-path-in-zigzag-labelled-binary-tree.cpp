@@ -6,8 +6,8 @@ public:
         int h = log2(label);
 
         while(h) {
-            int l = pow(2, h - 1), r = pow(2, h) - 1;
-            label = l + (r - label / 2);
+            int pl = pow(2, h - 1), cr = pow(2, h + 1) - 1;
+            label = pl + (cr - label) / 2;
 
             res.push_back(label);
             h--;
