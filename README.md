@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0509-fibonacci-number) |
 | [0840-magic-squares-in-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0840-magic-squares-in-grid) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1390-four-divisors](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1390-four-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0993-cousins-in-binary-tree) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0993-cousins-in-binary-tree) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Doubly-Linked List
 |  |
