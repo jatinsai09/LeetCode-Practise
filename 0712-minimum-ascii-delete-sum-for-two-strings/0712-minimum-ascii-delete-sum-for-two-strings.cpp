@@ -2,7 +2,6 @@ class Solution {
 public:
     int minimumDeleteSum(string s1, string s2) {
         int m = s1.size(), n = s2.size();
-
         vector<vector<int>> dp(m + 1, vector<int>(n + 1, 0));
 
         for (int i = 1; i <= m; i++) {
