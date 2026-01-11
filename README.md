@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0118-pascals-triangle) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0509-fibonacci-number) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0145-binary-tree-postorder-traversal) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0840-magic-squares-in-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0840-magic-squares-in-grid) |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0853-car-fleet) |
