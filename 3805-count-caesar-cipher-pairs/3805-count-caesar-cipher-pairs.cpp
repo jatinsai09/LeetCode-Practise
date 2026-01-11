@@ -6,16 +6,17 @@ public:
         unordered_map<string, ll> f;
 
         for (int i = 0; i < n; i++) {
-            for (int j = 0; j < 26; j++) {
-                string got = "";
-                for (int k = 0; k < m; k++) {
-                    int key = words[i][k] - 'a';
-                    int newKey = (key + j) % 26;
-                    got += char('a' + newKey);
-                }
-                res += f[got];
+            int df = words[i][0] - 'a';
+            for (int j = 0; j < m; j++) {
+                int key = words[i][j] - 'a';
+                int newKey = (key - df + 26) % 26;
+                words[i][j] = 'a' + newKey;
             }
             f[words[i]]++;
+        }
+
+        for (auto &[p, f]: f) {
+            res += f * (f - 1) / 2; 
         }
 
         return res;
