@@ -6,17 +6,19 @@ public:
         unordered_map<string, ll> f;
 
         for (int i = 0; i < n; i++) {
-            int df = words[i][0] - 'a';
-            for (int j = 0; j < m; j++) {
-                int key = words[i][j] - 'a';
-                int newKey = (key - df + 26) % 26;
-                words[i][j] = 'a' + newKey;
+            string label = "";
+            for (int j = 1; j < m; j++) {
+                int del = words[i][j] - words[i][j - 1];
+                if (del < 0) {
+                    del = del + 26;
+                }
+                label += ('a' + del);
             }
-            f[words[i]]++;
+            f[label]++;
         }
 
-        for (auto &[p, f]: f) {
-            res += f * (f - 1) / 2; 
+        for (auto &[label, freq]: f) {
+            res += freq * (freq - 1) / 2; 
         }
 
         return res;
