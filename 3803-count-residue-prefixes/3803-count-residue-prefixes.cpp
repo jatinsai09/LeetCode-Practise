@@ -11,7 +11,7 @@ public:
             if (d > 2) {
                 return res;
             }
-            res += ((i + 1) % 3 == d % 3);
+            res += ((i + 1) % 3 == d);
         } 
         return res;
     }
