@@ -39,7 +39,7 @@ public:
                 int e = arr[st.top()];
                 st.pop();
 
-                int nse = i, pse = st.empty() ? -1 : st.top();
+                int nse = i, pse = (st.empty() ? -1 : st.top());
 
                 maxi = max(maxi, e * (nse - pse - 1));
             }
