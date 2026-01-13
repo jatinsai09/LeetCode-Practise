@@ -7,8 +7,7 @@ public:
         auto f = [&](double line) -> double {
             double aAbove = 0, aBelow = 0;
             for (int i = 0; i < n; i++) {
-                int x = squares[i][0], y = squares[i][1];
-                int l = squares[i][2];
+                int x = squares[i][0], y = squares[i][1], l = squares[i][2];
                 double total = (double)l * l;
 
                 if (line <= y) {
