@@ -36,6 +36,6 @@ public:
             }
         }
 
-        return hi;
+        return lo;
     }
 };
