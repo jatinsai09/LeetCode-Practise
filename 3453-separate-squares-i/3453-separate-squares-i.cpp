@@ -16,6 +16,7 @@ public:
                 } else {
                     double aboveHeight = (y + l) - line;
                     double belowHeight = line - y;
+                    
                     aAbove += l * aboveHeight;
                     aBelow += l * belowHeight;
                 }
