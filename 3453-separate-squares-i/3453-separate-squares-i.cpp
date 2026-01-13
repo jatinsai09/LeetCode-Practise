@@ -24,7 +24,7 @@ public:
             return aAbove - aBelow;
         };
 
-        for (int i = 0; i < 50; i++) {
+        while (hi - lo > 1e-5) {
             double mid = (lo + hi) / 2.0;
             double diff = f(mid);
 
