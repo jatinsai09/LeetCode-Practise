@@ -25,7 +25,7 @@ public:
             return aAbove - aBelow;
         };
 
-        for (int i = 0; i < 60; i++) {
+        for (int i = 0; i < 50; i++) {
             double mid = (lo + hi) / 2.0;
             double diff = f(mid);
 
