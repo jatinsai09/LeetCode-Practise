@@ -19,7 +19,7 @@ public:
         TreeNode* cur = root;
         TreeNode* last = NULL;
 
-        while ((cur) || (!st.empty())) {
+        while (cur || !st.empty()) {
             if (cur) {
                 st.push(cur);
                 cur = cur->left;
