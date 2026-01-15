@@ -14,12 +14,12 @@ public:
         for (int i = 1; i < n; i++) {
             hash[i] = i;
             for (int prev = 0; prev < i; prev++) {
-                if (nums[prev] % nums[i] == 0 && dp[prev] + 1 > dp[i]) {
+                if (nums[prev] % nums[i] == 0 && dp[prev] + 1 >= dp[i]) {
                     dp[i] = 1 + dp[prev];
                     hash[i] = prev;
                 }
             }
-            if (dp[i] > maxi) {
+            if (dp[i] >= maxi) {
                 maxi = dp[i];
                 lastind = i;
             }
