@@ -6,14 +6,15 @@ public:
         cout.tie();
 
         int n = nums.size();
-        sort(begin(nums), end(nums));
+        sort(rbegin(nums), rend(nums));
+
         int maxi = 1, lastind = 0;
         vector<int> dp(n, 1), hash(n);
 
         for (int i = 1; i < n; i++) {
             hash[i] = i;
             for (int prev = 0; prev < i; prev++) {
-                if (nums[i] % nums[prev] == 0 && dp[prev] + 1 > dp[i]) {
+                if (nums[prev] % nums[i] == 0 && dp[prev] + 1 > dp[i]) {
                     dp[i] = 1 + dp[prev];
                     hash[i] = prev;
                 }
