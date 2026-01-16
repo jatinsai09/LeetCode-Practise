@@ -9,9 +9,6 @@ public:
         hFences.push_back(1);
         hFences.push_back(m);
 
-        vFences.push_back(1);
-        vFences.push_back(n);
-
         for (int i = 0; i < hFences.size(); i++) {
             for (int j = 0; j < hFences.size(); j++) {
                 if (i == j) {
@@ -20,6 +17,9 @@ public:
                 st.insert(abs(hFences[i] - hFences[j]));
             }
         }
+
+        vFences.push_back(1);
+        vFences.push_back(n);
 
         for (int i = 0; i < vFences.size(); i++) {
             for (int j = 0; j < vFences.size(); j++) {
