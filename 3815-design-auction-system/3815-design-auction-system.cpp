@@ -33,7 +33,7 @@ public:
     }
 
     int getHighestBidder(int itemId) {
-        if(!st.count(itemId) || st[itemId].empty()) { // if this item has no active bids presnt
+        if(!st.count(itemId) || st[itemId].empty()) { // if this item has no active bids present
             return -1;
         }
         return st[itemId].rbegin()->second; // return user who holds the highest bid for this item
