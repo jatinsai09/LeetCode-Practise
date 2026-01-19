@@ -5,19 +5,19 @@ public:
         vector<vector<int>> res;
         vector<int> path;
 
-        function<void(int)> dfs = [&](int u) -> void {
+        auto dfs = [&](auto&& f, int u) -> void {
             path.push_back(u);
             if (u == n - 1) {
                 res.push_back(path);
             } else {
                 for (auto& v : graph[u]) {
-                    dfs(v);
+                    f(f, v);
                 }
             }
             path.pop_back();
         };
 
-        dfs(0);
+        dfs(dfs, 0);
         return res;
     }
 };
