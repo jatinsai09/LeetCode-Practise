@@ -6,16 +6,13 @@ public:
         vector<int> path;
 
         function<void(int)> dfs = [&](int u) -> void {
-            if (u == n - 1) {
-                path.push_back(u);
-                res.push_back(path);
-                path.pop_back();
-                return;
-            }
-
             path.push_back(u);
-            for (auto& v : graph[u]) {
-                dfs(v);
+            if (u == n - 1) {
+                res.push_back(path);
+            } else {
+                for (auto& v : graph[u]) {
+                    dfs(v);
+                }
             }
             path.pop_back();
         };
