@@ -4,7 +4,7 @@ public:
         int n = row.size(), swaps = 0;
         vector<int> pos(n);
 
-        // Map each person to their seat number (position)
+        // Map each person to their seat number (current position)
         for (int i = 0; i < n; i++) {
             pos[row[i]] = i;
         }
