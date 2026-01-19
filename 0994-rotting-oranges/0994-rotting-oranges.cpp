@@ -26,13 +26,13 @@ public:
             }
         }
 
-        int maxt = 0, c1 = 0;
+        int maxt = 0, rotten = 0;
         while (!q.empty()) {
-            int sz = q.size();
             pair<pair<int, int>, int> p = q.front();
+            q.pop();
             int t = p.second;
             maxt = max(t, maxt);
-            q.pop();
+
             for (int i = 0; i < 4; i++) {
                 int dr = p.first.first + dir[i];
                 int dc = p.first.second + dir[i + 1];
@@ -41,15 +41,11 @@ public:
                     vis[dr][dc] == 1) {
                     vis[dr][dc] = 2;
                     q.push({{dr, dc}, t + 1});
-                    c1++;
+                    rotten++;
                 }
             }
-            t++;
-        }
-        if (fresh != c1) {
-            return -1;
         }
 
-        return maxt;
+        return (fresh == rotten ? maxt : -1);
     }
 };
