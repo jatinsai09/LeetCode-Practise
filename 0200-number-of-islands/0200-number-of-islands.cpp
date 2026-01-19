@@ -15,7 +15,7 @@ public:
 
             grid[i][j] = 'v';
             for (int d = 1; d <= 4; d++) {
-                dfs(i + mvs[d - 1], j + mvs[d]);
+                dfs(i + mvs[d], j + mvs[d - 1]);
             }
         };
 
