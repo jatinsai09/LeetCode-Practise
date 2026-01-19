@@ -4,11 +4,11 @@ public:
         int n = isConnected.size(), p = 0;
         vector<int> vis(n);
 
-        function<void(int)> dfs = [&](int u) -> void {
+        auto dfs = [&](auto&& dfs, int u) -> void {
             vis[u] = 1;
             for (int v = 0; v < n; v++) {
                 if (!vis[v] && isConnected[u][v]) {
-                    dfs(v);
+                    dfs(dfs, v);
                 }
             }
         };
@@ -16,7 +16,7 @@ public:
         for (int u = 0; u < n; u++) {
             if (!vis[u]) {
                 p++;
-                dfs(u);
+                dfs(dfs, u);
             }
         }
 
