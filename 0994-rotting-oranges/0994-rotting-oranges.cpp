@@ -31,11 +31,12 @@ public:
             pair<pair<int, int>, int> p = q.front();
             q.pop();
             int t = p.second;
+            int ri = p.first.first, ci = p.first.second;
             maxt = max(t, maxt);
 
             for (int i = 0; i < 4; i++) {
-                int dr = p.first.first + dir[i];
-                int dc = p.first.second + dir[i + 1];
+                int dr = ri + dir[i];
+                int dc = ci + dir[i + 1];
 
                 if (dr >= 0 && dr < r && dc >= 0 && dc < c &&
                     vis[dr][dc] == 1) {
