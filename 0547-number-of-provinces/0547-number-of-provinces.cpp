@@ -1,9 +1,8 @@
 class Solution {
 public:
     int findCircleNum(vector<vector<int>>& isConnected) {
-        int n = isConnected.size();
+        int n = isConnected.size(), p = 0;
         vector<int> vis(n);
-        int p = 0;
 
         function<void(int)> dfs = [&](int u) -> void {
             vis[u] = 1;
