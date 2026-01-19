@@ -5,7 +5,7 @@ public:
         cin.tie(0);
         cout.tie(0);
 
-        vector<int> dir = {-1, 0, 1, 0, -1};
+        vector<int> dir = {0, -1, 0, 1, 0};
 
         int r = grid.size(), c = grid[0].size();
         int vis[r][c];
