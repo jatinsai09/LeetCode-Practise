@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1971-find-if-path-exists-in-graph](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1971-find-if-path-exists-in-graph) |
 | [2092-find-all-people-with-secret](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2092-find-all-people-with-secret) |
 ## Binary Tree
 |  |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1971-find-if-path-exists-in-graph](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1971-find-if-path-exists-in-graph) |
 | [2092-find-all-people-with-secret](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2092-find-all-people-with-secret) |
 ## Prefix Sum
 |  |
@@ -559,4 +561,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0797-all-paths-from-source-to-target) |
+| [1971-find-if-path-exists-in-graph](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
