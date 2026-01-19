@@ -8,40 +8,42 @@ public:
         vector<int> dir = {0, -1, 0, 1, 0};
 
         int r = grid.size(), c = grid[0].size();
-        int vis[r][c];
-
-        queue<pair<pair<int, int>, int>> q;
+        vector<int> vis(r * c);
+ 
+        queue<pair<int, int>> q;
         int fresh = 0;
         for (int i = 0; i < r; i++) {
             for (int j = 0; j < c; j++) {
+                int key = i * c + j;
                 if (grid[i][j] == 2) {
-                    vis[i][j] = 2;
-                    q.push({{i, j}, 0});
+                    vis[key] = 2;
+                    q.push({key, 0});
                 } else if (grid[i][j] == 1) {
                     fresh++;
-                    vis[i][j] = 1;
+                    vis[key] = 1;
                 } else {
-                    vis[i][j] = 0;
+                    vis[key] = 0;
                 }
             }
         }
 
         int maxt = 0, rotten = 0;
         while (!q.empty()) {
-            pair<pair<int, int>, int> p = q.front();
+            pair<int, int> p = q.front();
             q.pop();
-            int t = p.second;
-            int ri = p.first.first, ci = p.first.second;
+            int t = p.second, key = p.first;
+            int ri = key / c, ci = key % c;
             maxt = max(t, maxt);
 
             for (int i = 0; i < 4; i++) {
                 int dr = ri + dir[i];
                 int dc = ci + dir[i + 1];
+                int nkey = dr * c + dc;
 
                 if (dr >= 0 && dr < r && dc >= 0 && dc < c &&
-                    vis[dr][dc] == 1) {
-                    vis[dr][dc] = 2;
-                    q.push({{dr, dc}, t + 1});
+                    vis[nkey] == 1) {
+                    vis[nkey] = 2;
+                    q.push({nkey, t + 1});
                     rotten++;
                 }
             }
