@@ -22,7 +22,7 @@ public:
                 // Swap second person with the required partner
                 swap(row[i + 1], row[partnerIndex]);
 
-                // Update the pos
+                // Update the positions after swap
                 pos[req] = i + 1;
                 pos[got] = partnerIndex;
             }
