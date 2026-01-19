@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0983-minimum-cost-for-tickets) |
 | [0986-interval-list-intersections](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0986-interval-list-intersections) |
+| [0997-find-the-town-judge](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1019-next-greater-node-in-linked-list) |
 | [1048-longest-string-chain](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1048-longest-string-chain) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0997-find-the-town-judge](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0997-find-the-town-judge) |
 | [1048-longest-string-chain](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1048-longest-string-chain) |
 | [1763-longest-nice-substring](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1763-longest-nice-substring) |
 | [2402-meeting-rooms-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2402-meeting-rooms-iii) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0765-couples-holding-hands](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0765-couples-holding-hands) |
 | [0797-all-paths-from-source-to-target](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0841-keys-and-rooms) |
+| [0997-find-the-town-judge](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
