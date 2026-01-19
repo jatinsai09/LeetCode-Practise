@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0547-number-of-provinces) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0785-is-graph-bipartite](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0797-all-paths-from-source-to-target) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0938-range-sum-of-bst) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0090-subsets-ii) |
 | [0282-expression-add-operators](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0282-expression-add-operators) |
 | [0756-pyramid-transition-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0756-pyramid-transition-matrix) |
+| [0797-all-paths-from-source-to-target](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0797-all-paths-from-source-to-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0797-all-paths-from-source-to-target) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -552,4 +555,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0223-rectangle-area) |
 | [1266-minimum-time-visiting-all-points](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+## Graph Theory
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
