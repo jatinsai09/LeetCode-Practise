@@ -4,14 +4,6 @@ public:
         int m = t1.size(), n = t2.size();
         vector<vector<int>> dp(m + 1, vector<int>(n + 1));
 
-        for (int j = 0; j <= n; j++) {
-            dp[0][j] = 0;
-        }
-
-        for (int i = 0; i <= m; i++) {
-            dp[i][0] = 0;
-        }
-
         for (int i = 1; i <= m; i++) {
             for (int j = 1; j <= n; j++) {
                 if (t1[i - 1] == t2[j - 1]) {
