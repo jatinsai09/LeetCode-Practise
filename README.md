@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2402-meeting-rooms-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2402-meeting-rooms-iii) |
 | [2653-sliding-subarray-beauty](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2653-sliding-subarray-beauty) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Linked List
 |  |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1901-find-a-peak-element-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1975-maximum-matrix-sum) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2304-minimum-path-cost-in-a-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
