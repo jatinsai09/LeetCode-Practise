@@ -4,7 +4,7 @@ public:
         if (l >= r) {
             return;
         }
-        int pivot = nums[l + (r - l) / 2], i = l, j = r;
+        int pivot = nums[l + rand() % (r - l + 1)], i = l, j = r;
         while (i <= j) {
             while (nums[i] < pivot) {
                 i++;
