@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0217-contains-duplicate) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0118-pascals-triangle) |
+| [0198-house-robber](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0509-fibonacci-number) |
