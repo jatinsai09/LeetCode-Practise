@@ -1,9 +1,10 @@
 class Solution {
 public:
     int MaxNonAdjSum(vector<int>& nums) {
+        int n = nums.size();
         int prev2 = 0, prev = nums[0], cur = nums[0];
 
-        for (int i = 1; i < nums.size(); i++) {
+        for (int i = 1; i < n; i++) {
             int pick = nums[i] + prev2, notpick = prev;
 
             cur = max(pick, notpick);
