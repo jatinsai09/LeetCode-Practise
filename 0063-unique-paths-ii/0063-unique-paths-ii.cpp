@@ -11,14 +11,8 @@ public:
 
         vector<int> cur(m, 0);
         cur[0] = 1;
-        for (int j = 1; j < m; j++) {
-            cur[j] = (grid[0][j] == 1 ? 0 : cur[j - 1]);
-        }
-
-        for (int i = 1; i < n; i++) {
-            if (grid[i][0]) {
-                cur[0] = 0;
-            }
+        for (int i = 0; i < n; i++) {
+            cur[0] = (grid[i][0] ? 0 : cur[0]);
             for (int j = 1; j < m; j++) {
                 cur[j] += cur[j - 1];
                 if (grid[i][j]) {
