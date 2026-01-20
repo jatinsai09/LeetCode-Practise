@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0073-set-matrix-zeroes) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0118-pascals-triangle) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0074-search-a-2d-matrix) |
