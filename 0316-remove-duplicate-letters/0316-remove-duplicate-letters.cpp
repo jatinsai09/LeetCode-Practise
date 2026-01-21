@@ -1,7 +1,6 @@
 class Solution {
 public:
     string removeDuplicateLetters(string s) {
-        int n = s.size();
         vector<int> f(26), vis(26);
         for (auto &i: s) {
             f[i - 'a']++;
