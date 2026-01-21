@@ -5,9 +5,9 @@ public:
         cin.tie(0);
         cout.tie(0);
 
+        int n = nums.size(), len = 1;
         vector<int> v;
         v.push_back(nums[0]);
-        int n = nums.size(), len = 1;
 
         for (int i = 1; i < n; i++) {
             if (v.back() < nums[i]) {
