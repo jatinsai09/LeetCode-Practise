@@ -1,7 +1,8 @@
 class Solution {
 public:
     bool is_sorted(vector<int>& v) {
-        for (int i = 1; i < v.size(); i++) {
+        int n = v.size();
+        for (int i = 1; i < n; i++) {
             if (v[i] < v[i - 1]) {
                 return false;
             }
