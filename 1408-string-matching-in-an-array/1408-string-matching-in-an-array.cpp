@@ -1,24 +1,26 @@
 class Solution {
 public:
     vector<string> stringMatching(vector<string>& words) {
-        string joined;
-        for (int i = 0; i < words.size(); i++) {
-            joined += words[i];
-            joined += " ";
+        string joined = "";
+        for (string w : words) {
+            joined += w + " ";
         }
 
-        vector<string> substr;
-        for (const auto& w : words) {
+        vector<string> result;
+        for (auto& w : words) {
             int count = 0;
-            size_t pos = 0;
-            while ((pos = joined.find(w, pos)) != string::npos) {
+
+            size_t pos = joined.find(w);
+            while (pos != string::npos) {
                 count++;
-                pos += w.length();
+                pos = joined.find(w, pos + w.length());
             }
+
             if (count >= 2) {
-                substr.push_back(w);
+                result.push_back(w);
             }
         }
-        return substr;
+
+        return result;
     }
 };
