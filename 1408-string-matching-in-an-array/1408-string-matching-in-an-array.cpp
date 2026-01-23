@@ -2,11 +2,11 @@ class Solution {
 public:
     vector<string> stringMatching(vector<string>& words) {
         string joined = "";
-        for (string w : words) {
+        for (auto& w : words) {
             joined += w + " ";
         }
 
-        vector<string> result;
+        vector<string> res;
         for (auto& w : words) {
             int count = 0;
 
@@ -17,10 +17,10 @@ public:
             }
 
             if (count >= 2) {
-                result.push_back(w);
+                res.push_back(w);
             }
         }
 
-        return result;
+        return res;
     }
 };
