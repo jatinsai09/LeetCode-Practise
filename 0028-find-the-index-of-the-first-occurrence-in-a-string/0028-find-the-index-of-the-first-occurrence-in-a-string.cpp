@@ -3,7 +3,7 @@ public:
     int strStr(string& haystack, string& needle) {
         const int n = haystack.size(), m = needle.size();
         
-        for (int i = 0; i <= n - m; ++i) {
+        for (int i = 0; i + m <= n; ++i) {
             int j = 0;
             while (j < m && haystack[i + j] == needle[j]) {
                 ++j;
