@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0756-pyramid-transition-matrix) |
 | [0816-ambiguous-coordinates](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0816-ambiguous-coordinates) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0853-car-fleet) |
 | [0897-increasing-order-search-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0897-increasing-order-search-tree) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0605-can-place-flowers) |
 | [0765-couples-holding-hands](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0765-couples-holding-hands) |
 | [0860-lemonade-change](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1642-furthest-building-you-can-reach](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1642-furthest-building-you-can-reach) |
