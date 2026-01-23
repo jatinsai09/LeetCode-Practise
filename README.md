@@ -730,4 +730,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1408-string-matching-in-an-array) |
 | [2301-match-substring-after-replacement](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2301-match-substring-after-replacement) |
 | [3407-substring-matching-pattern](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3407-substring-matching-pattern) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
