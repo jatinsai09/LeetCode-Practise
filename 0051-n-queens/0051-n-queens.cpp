@@ -12,19 +12,20 @@ public:
             }
 
             for (int col = 0; col < n; col++) {
-                if (!c[col] && !md[row + col] && !od[n - 1 + col - row]) {
-                    c[col] = 1;
-                    md[row + col] = 1;
-                    od[n - 1 + col - row] = 1;
-                    b[row][col] = 'Q';
-
-                    f(row + 1);
-
-                    c[col] = 0;
-                    md[row + col] = 0;
-                    od[n - 1 + col - row] = 0;
-                    b[row][col] = '.';                    
+                if (c[col] || md[row + col] || od[n - 1 + col - row]) {
+                    continue;             
                 }
+                c[col] = 1;
+                md[row + col] = 1;
+                od[n - 1 + col - row] = 1;
+                b[row][col] = 'Q';
+
+                f(row + 1);
+
+                c[col] = 0;
+                md[row + col] = 0;
+                od[n - 1 + col - row] = 0;
+                b[row][col] = '.';       
             }
         };
 
