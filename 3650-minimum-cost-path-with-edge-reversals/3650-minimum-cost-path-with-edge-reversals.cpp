@@ -4,8 +4,9 @@ public:
     int minCost(int n, vector<vector<int>>& edges) {
         vector<vector<pii>> adj(n);
         for (auto& e : edges) {
-            adj[e[0]].push_back({e[1], e[2]});
-            adj[e[1]].push_back({e[0], 2 * e[2]});
+            int u = e[0], v = e[1], w = e[2];
+            adj[u].push_back({v, w});
+            adj[v].push_back({u, 2 * w});
         }
 
         priority_queue<pii, vector<pii>, greater<pii>> pq;
