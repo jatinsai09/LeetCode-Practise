@@ -21,7 +21,6 @@ public:
         };
 
         f(0);
-
         return allSubsets;
     }
 };
