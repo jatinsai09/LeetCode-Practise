@@ -13,6 +13,10 @@ public:
                 return;
             }
 
+            if (i == n || candidates[i] > target) {
+                return;
+            }
+            
             for (int ind = i; ind < n; ind++) {
                 if (ind > i && candidates[ind] == candidates[ind - 1]) {
                     continue;
