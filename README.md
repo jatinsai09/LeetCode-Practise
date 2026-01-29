@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0066-plus-one) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0064-minimum-path-sum) |
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0316-remove-duplicate-letters) |
 | [0435-non-overlapping-intervals](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0605-can-place-flowers) |
