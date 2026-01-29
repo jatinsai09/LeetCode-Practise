@@ -11,8 +11,11 @@ public:
 
         for (int k = 0; k < 26; k++) {
             for (int i = 0; i < 26; i++) {
+                if (d[i][k] == INT_MAX) {
+                    continue;
+                }
                 for (int j = 0; j < 26; j++) {
-                    if (d[i][k] == INT_MAX || d[k][j] == INT_MAX) {
+                    if (d[k][j] == INT_MAX) {
                         continue;
                     }
                     d[i][j] = min(d[i][j], d[i][k] + d[k][j]);
