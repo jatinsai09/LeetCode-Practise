@@ -804,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-monthly-transactions-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1193-monthly-transactions-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1251-average-selling-price](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1251-average-selling-price) |
+| [1527-patients-with-a-condition](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1527-patients-with-a-condition) |
 | [1661-average-time-of-process-per-machine](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1667-fix-names-in-a-table) |
 | [1789-primary-department-for-each-employee](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1789-primary-department-for-each-employee) |
