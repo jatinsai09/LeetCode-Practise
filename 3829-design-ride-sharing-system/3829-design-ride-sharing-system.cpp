@@ -1,7 +1,7 @@
 class RideSharingSystem {
 public:
     queue<int> drivers, riders;
-    unordered_set<int> waiting, cancelled;
+    unordered_set<int> waiting;
     RideSharingSystem() {
         
     }
@@ -16,10 +16,9 @@ public:
     }
     
     vector<int> matchDriverWithRider() {
-        while (!riders.empty() && cancelled.count(riders.front())) {
+        while (!riders.empty() && !waiting.count(riders.front())) {
             int rId = riders.front();
             riders.pop();
-            cancelled.erase(rId);
             waiting.erase(rId);
         }
 
@@ -38,7 +37,7 @@ public:
     
     void cancelRider(int riderId) {
         if (waiting.count(riderId)) {
-            cancelled.insert(riderId);
+            waiting.erase(riderId);
         }
     }
 };
