@@ -1,11 +1,12 @@
 class Solution {
 public:
     int minimumK(vector<int>& nums) {
-        long long l = 1, r = nums[0];
+        long long n = nums.size(), l = 1, r = nums[0];
         for (auto &i: nums) {
             r = max(r, 1LL * i);
         } 
-        r++;
+        r = max(r, n);
+
         long long m;
         while (l <= r) {
             m = l + (r - l) / 2;
