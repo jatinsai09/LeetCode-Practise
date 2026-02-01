@@ -2,7 +2,7 @@
 SELECT
     query_name, 
     ROUND(
-        AVG((1.0 * rating) / position),
+        AVG(rating / position),
         2
     ) AS quality,
     ROUND(
