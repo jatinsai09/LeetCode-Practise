@@ -41,7 +41,7 @@ public:
         }
 
         for (int i = 1; i + 1 < n; i++) {
-            int d = cmp(nums[i + 1], nums[i]);
+            int d = cmp(nums[i + 1], nums[i - 1]);
             if (d == 0) {
                 continue;
             }
