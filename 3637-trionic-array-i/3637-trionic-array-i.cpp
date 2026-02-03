@@ -4,8 +4,8 @@ public:
         if (a[1] <= a[0]) {
             return 0;
         }
-        int n = a.size();
-        int slope = 1, c = 1;
+        
+        int n = a.size(), slope = 1, c = 1;
         for (int i = 1; i < n; i++) {
             if (a[i] == a[i - 1]) {
                 return 0;
