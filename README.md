@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3606-coupon-code-validator](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3606-coupon-code-validator) |
 | [3637-trionic-array-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3640-trionic-array-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2304-minimum-path-cost-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3640-trionic-array-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3640-trionic-array-ii) |
 ## Linked List
 |  |
 | ------- |
