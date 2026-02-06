@@ -1,6 +1,6 @@
 class Solution {
 public:
-    //k * mn >= mx
+    //mx <= mn * k
     int minRemoval(vector<int>& a, int k) {
         int n = a.size(), res = 1;
         sort(begin(a), end(a));
