@@ -30,10 +30,13 @@ public:
         if (start > end) {
             return NULL;
         }
+
         int mid = start + (end - start) / 2;
         TreeNode* node = new TreeNode(sorted[mid]);
+
         node->left = build_balanced(sorted, start, mid - 1);
         node->right = build_balanced(sorted, mid + 1, end);
+        
         return node;
     }
 };
