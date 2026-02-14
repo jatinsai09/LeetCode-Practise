@@ -3,7 +3,7 @@ public:
     double champagneTower(int poured, int query_row, int query_glass) {
         vector<double> cur(1, poured);
 
-        for (int i = 1; i <= query_row; i++) {
+        for (int i = 1; i - 1 <= query_row; i++) {
             vector<double> next(i + 1);
             for (int j = 0; j < i; j++) {
                 if (cur[j] >= 1) {
@@ -12,9 +12,9 @@ public:
                     cur[j] = 1;
                 }
             }
-            cur = next;
+            if (i <= query_row) cur = next;
         }
 
-        return min(cur[query_glass], 1.0000);
+        return cur[query_glass];
     }
 };
