@@ -549,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0338-counting-bits) |
+| [0401-binary-watch](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0756-pyramid-transition-matrix) |
 | [1763-longest-nice-substring](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1763-longest-nice-substring) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0090-subsets-ii) |
 | [0282-expression-add-operators](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0282-expression-add-operators) |
+| [0401-binary-watch](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0756-pyramid-transition-matrix) |
 | [0797-all-paths-from-source-to-target](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0797-all-paths-from-source-to-target) |
 | [0816-ambiguous-coordinates](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0816-ambiguous-coordinates) |
