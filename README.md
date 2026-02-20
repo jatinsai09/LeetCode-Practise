@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0295-find-median-from-data-stream) |
 | [0368-largest-divisible-subset](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0435-non-overlapping-intervals) |
+| [0761-special-binary-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0761-special-binary-string) |
 | [0853-car-fleet](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0853-car-fleet) |
 | [0912-sort-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0912-sort-an-array) |
 | [1048-longest-string-chain](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1048-longest-string-chain) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0459-repeated-substring-pattern) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0761-special-binary-string) |
 | [0816-ambiguous-coordinates](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0816-ambiguous-coordinates) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0944-delete-columns-to-make-sorted) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0493-reverse-pairs) |
+| [0761-special-binary-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1382-balance-a-binary-search-tree) |
 | [1763-longest-nice-substring](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1763-longest-nice-substring) |
