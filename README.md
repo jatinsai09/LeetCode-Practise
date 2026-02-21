@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0509-fibonacci-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0840-magic-squares-in-grid) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0756-pyramid-transition-matrix) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1763-longest-nice-substring](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1763-longest-nice-substring) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
