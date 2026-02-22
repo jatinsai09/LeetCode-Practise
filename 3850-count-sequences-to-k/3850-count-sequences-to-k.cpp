@@ -75,9 +75,8 @@ public:
 
             ll req = make_key(need[0] - x, need[1] - y, need[2] - z);
 
-            if (r.count(req)) {
-                res += cnt * r[req];
-            }
+             res += cnt * r[req];
+            
         }
         return res;
     }
