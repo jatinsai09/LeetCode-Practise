@@ -1,11 +1,11 @@
 class Solution {
-#define ll long long int    
+#define ll long long int
 public:
     ll make_key(int x, int y, int z) {
         x += 100;
         y += 100;
         z += 100;
-        return ( (ll)x << 40 ) | ( (ll)y << 20 ) | z;
+        return ((ll)x << 40) | ((ll)y << 20) | z;
     }
     int countSequences(vector<int>& a, long long k) {
         ll n = a.size();
@@ -44,39 +44,34 @@ public:
 
         ll res = 0;
         unordered_map<ll, ll> l, r;
-        
-        function<void(int, int, int, int, int, unordered_map<ll, ll>&)> dfs = [&](int i, int end, int e2, int e3, int e5, auto& mp) {
-            if (i == end) {
-                mp[make_key(e2, e3, e5)]++;
-                return;
-            }
 
-            dfs(i + 1, end, e2, e3, e5, mp);
+        function<void(int, int, int, int, int, unordered_map<ll, ll>&)> dfs =
+            [&](int i, int end, int e2, int e3, int e5, auto& mp) {
+                if (i == end) {
+                    mp[make_key(e2, e3, e5)]++;
+                    return;
+                }
 
-            dfs(i + 1, end,
-               e2 + pf[i][0],
-               e3 + pf[i][1],
-               e5 + pf[i][2],
-               mp);
+                dfs(i + 1, end, e2, e3, e5, mp);
 
-            dfs(i + 1, end,
-               e2 - pf[i][0],
-               e3 - pf[i][1],
-               e5 - pf[i][2],
-               mp);
-        };
+                dfs(i + 1, end, e2 + pf[i][0], e3 + pf[i][1], e5 + pf[i][2],
+                    mp);
+
+                dfs(i + 1, end, e2 - pf[i][0], e3 - pf[i][1], e5 - pf[i][2],
+                    mp);
+            };
 
         int m = n / 2;
-        
+
         dfs(0, m, 0, 0, 0, l);
         dfs(m, n, 0, 0, 0, r);
 
-        for (auto &it: l) {
+        for (auto& it : l) {
             ll key = it.first, cnt = it.second;
 
-            int x = ((key >> 40) & ((1<<20)-1)) - 100;
-            int y = ((key >> 20) & ((1<<20)-1)) - 100;
-            int z = (key & ((1<<20)-1)) - 100;
+            int x = (key >> 40) - 100;
+            int y = ((key >> 20) & ((1 << 20) - 1)) - 100;
+            int z = (key & ((1 << 20) - 1)) - 100;
 
             ll req = make_key(need[0] - x, need[1] - y, need[2] - z);
 
