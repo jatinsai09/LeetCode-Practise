@@ -2,9 +2,8 @@ class Solution {
 public:
     int binaryGap(int n) {
         int res = 0, c = 0, f = 0;
-
+        
         int t = n;
-
         while (t) {
             if (t & 1) {
                 if (f) {
