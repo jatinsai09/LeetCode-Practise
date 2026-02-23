@@ -21,8 +21,7 @@ public:
 
         string res = "";
         for (const auto& s: st) {
-            res += "/";
-            res += s;
+            res += "/" + s;
         }
 
         return st.empty() ? "/" : res;
