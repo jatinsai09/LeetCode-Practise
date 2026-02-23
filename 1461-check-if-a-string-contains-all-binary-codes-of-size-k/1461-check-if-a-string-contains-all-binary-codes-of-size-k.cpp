@@ -5,6 +5,9 @@ public:
         set<int> st;
 
         int total = (1 << k), msk = total - 1, hash = 0;
+        if (n - k + 1 < total) {
+            return false;
+        } 
 
         for (int i = 0; i < n; i++) {
             hash = ((hash << 1) & msk) | (s[i] - '0');
