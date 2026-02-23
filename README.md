@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0079-word-search) |
+| [0151-reverse-words-in-a-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0171-excel-sheet-column-number) |
 | [0282-expression-add-operators](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0282-expression-add-operators) |
 | [0316-remove-duplicate-letters](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0316-remove-duplicate-letters) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
