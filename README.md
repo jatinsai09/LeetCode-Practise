@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1390-four-divisors) |
 | [1408-string-matching-in-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1408-string-matching-in-an-array) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1642-furthest-building-you-can-reach](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1642-furthest-building-you-can-reach) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1048-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1200-minimum-absolute-difference) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2054-two-best-non-overlapping-events) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0986-interval-list-intersections](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0986-interval-list-intersections) |
 | [1048-longest-string-chain](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1048-longest-string-chain) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -691,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1901-find-a-peak-element-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1901-find-a-peak-element-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2054-two-best-non-overlapping-events) |
@@ -741,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0560-subarray-sum-equals-k) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1895-largest-magic-square](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1895-largest-magic-square) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2483-minimum-penalty-for-a-shop) |
