@@ -5,8 +5,9 @@ public:
         int n = nums.size();
         vector<long long> prefix(n + 1, 0);
 
-        for (int i = 0; i < n; ++i)
+        for (int i = 0; i < n; ++i) {
             prefix[i + 1] = prefix[i] + nums[i];
+        }
 
         return mergeSort(prefix, 0, n + 1, lower, upper);
     }
@@ -40,8 +41,9 @@ private:
         while (p1 < mid) temp.push_back(prefix[p1++]);
         while (p2 < right) temp.push_back(prefix[p2++]);
 
-        for (int i = left; i < right; ++i)
+        for (int i = left; i < right; i++) {
             prefix[i] = temp[i - left];
+        }
 
         return count;
     }
