@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0407-trapping-rain-water-ii) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0295-find-median-from-data-stream) |
+| [0303-range-sum-query-immutable](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0707-design-linked-list) |
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0560-subarray-sum-equals-k) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
