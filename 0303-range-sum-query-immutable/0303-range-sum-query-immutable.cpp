@@ -2,9 +2,9 @@ class NumArray {
 public:
     vector<int> prefix;
     NumArray(vector<int>& nums) {
-        prefix.push_back(nums[0]);
+        prefix = nums;
         for (int i = 1; i < nums.size(); i++) {
-            prefix.push_back(nums[i] + prefix[i - 1]);
+            prefix[i] = prefix[i - 1] + prefix[i];
         }
     }
 
