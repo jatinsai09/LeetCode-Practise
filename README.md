@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3640-trionic-array-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3719-longest-balanced-subarray-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3719-longest-balanced-subarray-i) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Hash Table
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3393-count-paths-with-the-given-xor-value](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3640-trionic-array-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3640-trionic-array-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3393-count-paths-with-the-given-xor-value) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
