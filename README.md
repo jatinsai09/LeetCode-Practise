@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3148-maximum-difference-score-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3379-transformed-array) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
+| [3148-maximum-difference-score-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3640-trionic-array-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3640-trionic-array-ii) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2304-minimum-path-cost-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2596-check-knight-tour-configuration](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2596-check-knight-tour-configuration) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
+| [3148-maximum-difference-score-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3393-count-paths-with-the-given-xor-value) |
 ## Monotonic Stack
 |  |
