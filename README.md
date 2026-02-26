@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2301-match-substring-after-replacement](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2301-match-substring-after-replacement) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2402-meeting-rooms-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2402-meeting-rooms-iii) |
+| [2560-house-robber-iv](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2560-house-robber-iv) |
 | [2592-maximize-greatness-of-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2592-maximize-greatness-of-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2596-check-knight-tour-configuration) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2606-find-the-substring-with-maximum-cost) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2304-minimum-path-cost-in-a-grid) |
+| [2560-house-robber-iv](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2560-house-robber-iv) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2054-two-best-non-overlapping-events) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2080-range-frequency-queries](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2080-range-frequency-queries) |
+| [2560-house-robber-iv](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2560-house-robber-iv) |
 | [3453-separate-squares-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3453-separate-squares-i) |
 ## Memoization
 |  |
@@ -839,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1975-maximum-matrix-sum) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2560-house-robber-iv](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2560-house-robber-iv) |
 | [2592-maximize-greatness-of-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2592-maximize-greatness-of-an-array) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
