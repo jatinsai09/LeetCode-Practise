@@ -13,8 +13,8 @@ public:
         }
 
         int res = 0, p = 0;
-        for (int i = 0; i < n; i++) {
-            p = max(mp[s[i] - 'a'], p + mp[s[i] - 'a']);
+        for (const auto& c: s) {
+            p = max(mp[c - 'a'], p + mp[c - 'a']);
             res = max(res, p);
         }
 
