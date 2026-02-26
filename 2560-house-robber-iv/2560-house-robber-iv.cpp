@@ -2,7 +2,7 @@ class Solution {
 public:
     int minCapability(vector<int>& nums, int k) {
         int mn = nums[0], mx = nums[0];
-        for (auto &i: nums) {
+        for (const auto &i: nums) {
             mn = min(mn, i);
             mx = max(mx, i);
         }
