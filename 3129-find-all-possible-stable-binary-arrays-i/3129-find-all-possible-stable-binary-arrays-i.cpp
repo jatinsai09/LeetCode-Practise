@@ -9,10 +9,10 @@ public:
         for (int i = 0; i <= one; i++) {
             for (int j = 0; j <= zero; j++) {
                 for (int k = 1; k <= limit; k++) {
-                    if (i - k >= 0) {
+                    if (i >= k) {
                         dp[i][j][1] = (dp[i][j][1] + dp[i - k][j][0]) % mod;
                     }
-                    if (j - k >= 0) {
+                    if (j >= k) {
                         dp[i][j][0] = (dp[i][j][0] + dp[i][j - k][1]) % mod;
                     }
                 }
