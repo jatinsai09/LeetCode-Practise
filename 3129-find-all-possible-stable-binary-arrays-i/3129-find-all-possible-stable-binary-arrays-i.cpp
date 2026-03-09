@@ -5,10 +5,10 @@ public:
     int numberOfStableArrays(int zero, int one, int limit) {
         vector<vector<ll>> dp0(zero + 1, vector<ll>(one + 1)), dp1(dp0);
 
-        for (int i = 0; i <= min(limit, zero); i++) {
+        for (int i = 1; i <= min(limit, zero); i++) {
             dp0[i][0] = 1;
         }
-        for (int j = 0; j <= min(limit, one); j++) {
+        for (int j = 1; j <= min(limit, one); j++) {
             dp1[0][j] = 1;
         }
 
