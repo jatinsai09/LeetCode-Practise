@@ -22,7 +22,7 @@ public:
 
                 ll g1 = dp0[i][j - 1] + dp1[i][j - 1];
                 if (j - 1 - limit >= 0) {
-                    g1 -= dp0[i][j - limit - 1];
+                    g1 -= dp0[i][j - 1 - limit];
                 }
                 dp1[i][j] = (g1 % mod + mod) % mod;
             }
