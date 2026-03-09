@@ -22,13 +22,14 @@ public:
             return 0;
         }
 
-        if (s[0] == t[n - 1] && s[n - 1] == t[0] && f[s[0] - 'a'] == 1 && f[t[0] - 'a'] == 1) {
-            return 3;
-        }
         if (s[0] == t[0] || s[n - 1] == t[n - 1]) {
             return 1;
         }
 
+        if (s[0] == t[n - 1] && s[n - 1] == t[0] && f[s[0] - 'a'] == 1 && f[t[0] - 'a'] == 1) {
+            return 3;
+        }
+        
         return 2;
     }
 };
