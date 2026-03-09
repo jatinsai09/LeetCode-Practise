@@ -1,23 +1,33 @@
 class Solution {
+#define ll long long int
+const ll mod = 1e9 + 7;
 public:
-    const int mod = 1e9 + 7;
     int numberOfStableArrays(int zero, int one, int limit) {
-        vector<vector<vector<long long>>> dp(
-            one + 1, vector<vector<long long>>(zero + 1, vector<long long>(2)));
-        dp[0][0][0] = dp[0][0][1] = 1;
+        vector<vector<ll>> dp0(zero + 1, vector<ll>(one + 1)), dp1(dp0);
 
-        for (int i = 0; i <= one; i++) {
-            for (int j = 0; j <= zero; j++) {
-                for (int k = 1; k <= limit; k++) {
-                    if (i >= k) {
-                        dp[i][j][1] = (dp[i][j][1] + dp[i - k][j][0]) % mod;
-                    }
-                    if (j >= k) {
-                        dp[i][j][0] = (dp[i][j][0] + dp[i][j - k][1]) % mod;
-                    }
+        for (int i = 0; i <= min(limit, zero); i++) {
+            dp0[i][0] = 1;
+        }
+        for (int j = 0; j <= min(limit, one); j++) {
+            dp1[0][j] = 1;
+        }
+
+        for (int i = 1; i <= zero; i++) {
+            for (int j = 1; j <= one; j++) {
+                ll g0 = dp0[i - 1][j] + dp1[i - 1][j];
+                if (i - 1 - limit >= 0) {
+                    g0 -= dp1[i - 1 - limit][j];
                 }
+                dp0[i][j] = (g0 % mod + mod) % mod;
+
+                ll g1 = dp0[i][j - 1] + dp1[i][j - 1];
+                if (j - 1 - limit >= 0) {
+                    g1 -= dp0[i][j - limit - 1];
+                }
+                dp1[i][j] = (g1 % mod + mod) % mod;
             }
         }
-        return (dp[one][zero][0] + dp[one][zero][1]) % mod;
+
+        return (dp0[zero][one] + dp1[zero][one]) % mod;
     }
 };
