@@ -752,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2080-range-frequency-queries](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2080-range-frequency-queries) |
 | [2560-house-robber-iv](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2560-house-robber-iv) |
 | [3453-separate-squares-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3453-separate-squares-i) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Memoization
 |  |
 | ------- |
@@ -874,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [3074-apple-redistribution-into-boxes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -939,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-find-center-of-star-graph](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1971-find-if-path-exists-in-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Union-Find
 |  |
@@ -949,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0695-max-area-of-island) |
 | [0765-couples-holding-hands](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0765-couples-holding-hands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1971-find-if-path-exists-in-graph) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Bucket Sort
 |  |
@@ -1030,4 +1034,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
