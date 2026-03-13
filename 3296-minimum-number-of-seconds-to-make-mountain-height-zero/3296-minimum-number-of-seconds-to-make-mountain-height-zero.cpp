@@ -4,14 +4,13 @@ public:
     
     long long check(long long t, int wt) {
         long long l = 1, r = 1e5;
-        long long maxi = 0, mid, nt;
+        long long mid, nt;
 
         while (l <= r) {
             mid = (l + r) / 2;
             nt = wt * sum(mid);
 
             if (nt <= t) {
-                //maxi = mid;
                 l = mid + 1;
             } else {
                 r = mid - 1;
