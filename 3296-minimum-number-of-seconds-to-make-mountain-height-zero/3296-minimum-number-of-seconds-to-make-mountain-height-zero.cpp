@@ -19,7 +19,7 @@ public:
         return r;
     }
     long long minNumberOfSeconds(int mh, vector<int>& w) {
-        long long res = 1, l = 0, r = 1e18, mid, red;
+        long long l = 0, r = 1e18, mid, red;
         int n = w.size();
 
         while (l <= r) {
