@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1266-minimum-time-visiting-all-points](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1390-four-divisors) |
+| [1622-fancy-sequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1622-fancy-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0707-design-linked-list) |
+| [1622-fancy-sequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1622-fancy-sequence) |
 | [2080-range-frequency-queries](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2080-range-frequency-queries) |
 ## Queue
 |  |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1622-fancy-sequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1622-fancy-sequence) |
 | [2080-range-frequency-queries](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2080-range-frequency-queries) |
 | [3719-longest-balanced-subarray-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3719-longest-balanced-subarray-i) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
