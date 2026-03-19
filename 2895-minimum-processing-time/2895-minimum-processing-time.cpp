@@ -12,14 +12,12 @@ public:
         sort(tasks);
 
         int n = processorTime.size(), m = 4 * n, maxi = INT_MIN;
-        for (int i = 0; i < n; i++) {
-            int mn = processorTime[i];
-            int k = (m - 1) - (4 * i);
-            for (int j = 0; j < 4; j++) {
-                maxi = max(maxi, mn + tasks[k - j]);
-            }
+        for (int i = 0, j = m - 1; i < n; i++, j -= 4) {
+            int avl = processorTime[i];
+
+            maxi = max(maxi, avl + tasks[j]);
         }
-        
+
         return maxi;
     }
 };
