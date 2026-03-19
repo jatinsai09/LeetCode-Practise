@@ -31,13 +31,14 @@ public:
 
             if (cur > mxc) {
                 mxc = cur;
+
                 res.clear();
                 res.push_back(node->val);
             } else if (cur == mxc) {
                 res.push_back(node->val);
             }
-
             prevNode = node;
+            
             inorder(node->right);
         };
 
