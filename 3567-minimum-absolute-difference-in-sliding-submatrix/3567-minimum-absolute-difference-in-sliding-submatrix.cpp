@@ -18,14 +18,11 @@ public:
                 sort(begin(val), end(val));
 
                 int mn = INT_MAX;
-                for (int t = 1; t < val.size(); t++) {
+                for (int t = 1; t < k * k; t++) {
                     if (val[t] != val[t - 1]) {
                         int del = val[t] - val[t - 1];
                         if (del < mn) {
                             mn = del;
-                        }
-                        if (mn == 0) {
-                            break;
                         }
                     }
                 }
