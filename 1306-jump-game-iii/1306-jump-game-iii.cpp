@@ -2,7 +2,7 @@ class Solution {
 public:
     unordered_set<int> vis;
     bool canReach(vector<int>& arr, int st) {
-        if (st < 0 || st >= arr.size() || !vis.insert(st).second) {
+        if (st < 0 || st >= arr.size() || vis.count(st)) {
             return false;
         }
         vis.insert(st);
