@@ -12,8 +12,11 @@ public:
                 return false;
             }
 
-            mi = max(mi, i + nums[i]);
+            if (i + nums[i] > mi) {
+                mi = i + nums[i];
+            }
         }
+        
         return true;
     }
 };
