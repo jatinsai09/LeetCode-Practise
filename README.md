@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0056-merge-intervals) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0063-unique-paths-ii) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0190-reverse-bits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0191-number-of-1-bits) |
