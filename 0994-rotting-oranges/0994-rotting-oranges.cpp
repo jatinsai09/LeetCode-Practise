@@ -26,7 +26,7 @@ public:
             }
         }
 
-        int maxt = 0, c1 = 0;
+        int maxt = 0;
         while (!q.empty()) {
             pair<pair<int, int>, int> p = q.front();
             q.pop();
@@ -41,11 +41,11 @@ public:
                 if (dr >= 0 && dr < r && dc >= 0 && dc < c && vis[dr][dc] == 1) {
                     vis[dr][dc] = 2;
                     q.push({{dr, dc}, t + 1});
-                    c1++;
+                    fresh--;
                 }
             }
         }
 
-        return (fresh == c1 ? maxt : -1);
+        return (fresh == 0 ? maxt : -1);
     }
 };
