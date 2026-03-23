@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1019-next-greater-node-in-linked-list) |
+| [1029-two-city-scheduling](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1029-two-city-scheduling) |
 | [1048-longest-string-chain](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1048-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1266-minimum-time-visiting-all-points) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0761-special-binary-string) |
 | [0853-car-fleet](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0853-car-fleet) |
 | [0912-sort-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0912-sort-an-array) |
+| [1029-two-city-scheduling](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1029-two-city-scheduling) |
 | [1048-longest-string-chain](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1048-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1200-minimum-absolute-difference) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -925,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1029-two-city-scheduling](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1029-two-city-scheduling) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
