@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0840-magic-squares-in-grid) |
@@ -875,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0724-find-pivot-index) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
