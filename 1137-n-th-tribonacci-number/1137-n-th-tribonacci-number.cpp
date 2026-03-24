@@ -1,12 +1,22 @@
 class Solution {
 public:
-    int tribonacci(int n) {
-        vector<int> dp = {0, 1, 1};
-
-        for (int i = 3; i <= n; i++) {
-            dp[i % 3] = (dp[0] + dp[1] + dp[2]);
+    int f(int n, auto& dp) {
+        if (n == 0) {
+            return 0;
+        }
+        if (n <= 2) {
+            return 1;
         }
 
-        return dp[n % 3];
+        if (dp[n] != -1) {
+            return dp[n];
+        }
+
+        return dp[n] = f(n - 1, dp) + f(n - 2, dp) + f(n - 3, dp);
+    }
+    int tribonacci(int n) {
+        vector<int> dp(n + 1, -1);
+
+        return f(n, dp);
     }
 };
