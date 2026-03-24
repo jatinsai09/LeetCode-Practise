@@ -3,72 +3,42 @@ private:
     vector<int> tree;
     int n;
 
-    void buildTree(vector<int>& nums, int node, int start, int end) {
-        if (start == end) {
-            tree[node] = nums[start];
-            return;
+    int queryTree(int idx) {
+        int sum = 0;
+        for (; idx > 0; idx -= idx & (-idx)) {
+            sum += tree[idx];
         }
-
-        int mid = start + (end - start) / 2;
-        int leftChild = 2 * node + 1;
-        int rightChild = 2 * node + 2;
-
-        buildTree(nums, leftChild, start, mid);
-        buildTree(nums, rightChild, mid + 1, end);
-
-        tree[node] = tree[leftChild] + tree[rightChild];
+        return sum;
     }
-
-    void updateTree(int node, int start, int end, int ind, int val) {
-        if (start == end) {
-            tree[node] = val;
-            return;
+    void updateTree(int idx, int val) {
+        for (; idx <= n; idx += idx & (-idx)) {
+            tree[idx] += val;
         }
-
-        int mid = start + (end - start) / 2;
-        int leftChild = 2 * node + 1;
-        int rightChild = 2 * node + 2;
-
-        if (ind <= mid) {
-            updateTree(leftChild, start, mid, ind, val);
-        } else {
-            updateTree(rightChild, mid + 1, end, ind, val);
-        }
-
-        tree[node] = tree[leftChild] + tree[rightChild];
     }
-
-    int queryTree(int node, int start, int end, int left, int right) {
-        if (end < left || start > right) {
-            return 0;
+    void buildTree(auto& nums) {
+        for (int i = 0; i < n; i++) {
+            updateTree(i + 1, nums[i]);
         }
-        if (left <= start && end <= right) {
-            return tree[node];
-        }
-
-        int mid = start + (end - start) / 2;
-        int leftChild = 2 * node + 1;
-        int rightChild = 2 * node + 2;
-
-        int leftSum = queryTree(leftChild, start, mid, left, right);
-        int rightSum = queryTree(rightChild, mid + 1, end, left, right);
-
-        return leftSum + rightSum;
     }
-
 public:
-    NumArray(vector<int>& nums) {
-        if (!nums.empty()) {
+    vector<int> nums;
+    NumArray(vector<int>& a) {
+        if (!a.empty()) {
+            nums = a;
             n = nums.size();
-            tree.resize(4 * n);
-            buildTree(nums, 0, 0, n - 1);
+            tree.resize(n + 1);
+            buildTree(nums);
         }
     }
 
-    void update(int index, int val) { updateTree(0, 0, n - 1, index, val); }
+    void update(int index, int val) {
+        int diff = val - nums[index];
+        updateTree(index + 1, diff);
+        nums[index] = val;
+    }
 
     int sumRange(int left, int right) {
-        return queryTree(0, 0, n - 1, left, right);
+        return queryTree(right + 1) - queryTree(left);
     }
 };
 
