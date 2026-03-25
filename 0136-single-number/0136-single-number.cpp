@@ -1,11 +1,17 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int xr = 0;
-        for (const auto& num: nums) {
-            xr ^= num;
-        }
+       unordered_map<int,int> f;
+	   for(auto& x: nums) {
+		   f[x]++;
+       }
 
-        return xr;
+	   for(auto& it: f) {
+		   if(it.second == 1) {
+			   return it.first;
+           }
+       }
+       
+	   return -1;
     }
 };
