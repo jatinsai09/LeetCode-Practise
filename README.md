@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0840-magic-squares-in-grid) |
+| [0887-super-egg-drop](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0887-super-egg-drop) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1137-n-th-tribonacci-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1137-n-th-tribonacci-number) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0799-champagne-tower) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0887-super-egg-drop](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0887-super-egg-drop) |
 | [0918-maximum-sum-circular-subarray](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0918-maximum-sum-circular-subarray) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0983-minimum-cost-for-tickets](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0983-minimum-cost-for-tickets) |
@@ -869,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0887-super-egg-drop](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0887-super-egg-drop) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
