@@ -4,13 +4,12 @@ public:
         if (s1 == s2) {
             return true;
         }
-        int c = 0, i1 = -1, i2 = -1;
+        int i1 = -1, i2 = -1;
         int n = s1.size();
 
         for (int i = 0; i < n; i++) {
             if (s1[i] != s2[i]) {
-                c++;
-                if (c > 2) {
+                if (i2 != -1) {
                     return false;
                 }
 
