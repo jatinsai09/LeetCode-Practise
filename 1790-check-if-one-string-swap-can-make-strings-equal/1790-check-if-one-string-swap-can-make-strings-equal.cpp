@@ -1,6 +1,9 @@
 class Solution {
 public:
     bool areAlmostEqual(string s1, string s2) {
+        if (s1 == s2) {
+            return true;
+        }
         int c = 0, i1 = -1, i2 = -1;
         int n = s1.size();
 
@@ -19,11 +22,10 @@ public:
             }
         }
         
-        if (c == 0) {
-            return true;
-        } else if (c == 1) {
-            return false;
+        if (i2 == -1) {
+            return i1 == -1;
         }
+
         return (s1[i1] == s2[i2] && s1[i2] == s2[i1]);
     }
 };
