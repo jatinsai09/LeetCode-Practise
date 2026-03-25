@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3742-maximum-path-score-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3878-count-good-subarrays](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3878-count-good-subarrays) |
 ## Hash Table
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3433-count-mentions-per-user](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3433-count-mentions-per-user) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Simulation
 |  |
 | ------- |
