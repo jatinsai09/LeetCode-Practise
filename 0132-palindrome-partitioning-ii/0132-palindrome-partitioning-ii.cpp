@@ -20,9 +20,9 @@ public:
 
     //     int minCost = INT_MAX;
 
-    //     for (int k = i; k < n; k++) {
-    //         if (isPal(s, i, k)) {
-    //             int cost = 1 + help(k + 1, n, s);
+    //     for (int j = i; j < n; j++) {
+    //         if (isPal(s, i, j)) {
+    //             int cost = 1 + help(j + 1, n, s);
     //             minCost = min(cost, minCost);
     //         }
     //     }
@@ -37,10 +37,10 @@ public:
 
         for (int i = n - 1; i >= 0; i--) {
             int minCost = INT_MAX;
-            for (int k = i; k < n; k++) {
-                if (s[i] == s[k] && (i + 1 >= k - 1 || pal[i + 1][k - 1])) {
-                    pal[i][k] = 1;
-                    int cost = 1 + dp[k + 1];
+            for (int j = i; j < n; j++) {
+                if (s[i] == s[j] && (i + 1 >= j - 1 || pal[i + 1][j - 1])) {
+                    pal[i][j] = 1;
+                    int cost = 1 + dp[j + 1];
                     minCost = min(cost, minCost);
                 }
             }
