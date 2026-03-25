@@ -9,6 +9,9 @@ public:
                 sum += i;
             }
         }
+        if (sum & 1) {
+            return false;
+        }
 
         long long got = 0;
         for (int i = 0; i < m; i++) {
