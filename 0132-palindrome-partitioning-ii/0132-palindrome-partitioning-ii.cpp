@@ -36,7 +36,7 @@ public:
         dp[n] = 0;
 
         for (int i = n - 1; i >= 0; i--) {
-            int minCost = INT_MAX;
+            int minCost = n - i;
             for (int j = i; j < n; j++) {
                 if (s[i] == s[j] && (i + 1 >= j - 1 || pal[i + 1][j - 1])) {
                     pal[i][j] = 1;
