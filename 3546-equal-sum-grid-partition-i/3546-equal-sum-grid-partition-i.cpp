@@ -18,7 +18,7 @@ public:
             for (int j = 0; j < n; j++) {
                 got += grid[i][j];
             }
-            if (sum - got == got) {
+            if (sum == (got << 1)) {
                 return true;
             }
         }
@@ -28,7 +28,7 @@ public:
             for (int i = 0; i < m; i++) {
                 got += grid[i][j];
             }
-            if (sum - got == got) {
+            if (sum == (got << 1)) {
                 return true;
             }
         }
