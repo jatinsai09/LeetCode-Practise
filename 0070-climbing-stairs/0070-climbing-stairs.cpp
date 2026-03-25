@@ -1,13 +1,16 @@
 class Solution {
 public:
     int climbStairs(int n) {
-        int cur = 1, prev2 = 1, prev = 1, count = 1;
-        while (count < n) {
-            cur = prev2 + prev;
-            prev2 = prev;
-            prev = cur;
-            count++;
+        if (n <= 2) {
+            return n;
+        } 
+
+        int prev1 = 2, prev2 = 1;
+        for (int i = 3; i <= n; i++) {
+            int cur = prev1 + prev2;
+            prev2 = prev1;
+            prev1 = cur;
         }
-        return cur;
+        return prev1;
     }
 };
