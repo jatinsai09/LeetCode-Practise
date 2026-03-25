@@ -6,19 +6,21 @@ public:
             f[x]++;
         }
 
-        priority_queue<pair<int, char>> pq;
-        for (auto& it : f) {
-            pq.push({it.second, it.first});
+        vector<pair<int, char>> vp;
+        for (auto &it: f) {
+            vp.push_back({it.second, it.first});
         }
+        sort(begin(vp), end(vp), [&](auto& x, auto& y){
+            if (x.first == y.first) {
+                return x.second < y.second;
+            }
+            return x.first > y.first;
+        });
 
         string res = "";
-        while (pq.size() > 0) {
-            int f = pq.top().first;
-            char c = pq.top().second;
-            pq.pop();
-
-            while (f--) {
-                res += c;
+        for (auto& p: vp) {
+            for (int i = 0; i < p.first; i++) {
+                res += p.second;
             }
         }
         return res;
