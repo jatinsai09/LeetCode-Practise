@@ -20,6 +20,8 @@ public:
             }
             if (sum == (got << 1)) {
                 return true;
+            } else if (sum < (got << 1)) {
+                break;
             }
         }
 
@@ -30,9 +32,11 @@ public:
             }
             if (sum == (got << 1)) {
                 return true;
+            } else if (sum < (got << 1)) {
+                break;
             }
         }
-        
+
         return false;
     }
 };
