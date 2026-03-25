@@ -6,9 +6,6 @@ public:
         vector<string> res;
 
         function<bool(string&)> dfs = [&](string& word) {
-            if (st.count(word)) {
-                return true;
-            }
             if (bad.count(word)) {
                 return false;
             }
@@ -18,7 +15,7 @@ public:
                 string left = word.substr(0, i);
                 if (st.count(left)) {
                     string right = word.substr(i);
-                    if (dfs(right)) {
+                    if (st.count(right) || dfs(right)) {
                         return true;
                     } else {
                         bad.insert(right);
@@ -31,13 +28,9 @@ public:
         };
 
         for (int i = 0; i < words.size(); i++) {
-            st.erase(words[i]);
-
             if (dfs(words[i])) {
                 res.push_back(words[i]);
             }
-
-            st.insert(words[i]);
         }
 
         return res;
