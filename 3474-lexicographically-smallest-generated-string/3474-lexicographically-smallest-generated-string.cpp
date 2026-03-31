@@ -1,66 +1,45 @@
 class Solution {
 public:
-    string generateString(string pattern, string sub) {
-        int n = pattern.size(), m = sub.size(), L = n + m - 1;
-        string result(L, '?');
-        vector<bool> locked(L, false);
+    string generateString(string s1, string s2) {
+        int n = s1.size(), m = s2.size();
+        string res(n + m - 1, 'a');
+        vector<bool> fixed(n + m - 1, false); 
 
         for (int i = 0; i < n; i++) {
-            if (pattern[i] == 'T') {
-                for (int k = 0; k < m; k++) {
-                    int pos = i + k;
-                    if (result[pos] == '?') {
-                        result[pos] = sub[k];
-                        locked[pos] = true;
-                    } else if (result[pos] != sub[k]) {
+            if (s1[i] == 'T') {
+                for (int j = i; j < i + m; j++) {
+                    if (fixed[j] && res[j] != s2[j - i]) {
                         return "";
                     }
+                    res[j] = s2[j - i];
+                    fixed[j] = true;
                 }
             }
         }
 
-        for (int i = 0; i < L; i++) {
-            if (result[i] == '?') {
-                result[i] = 'a';
-            }
-        }
-
         for (int i = 0; i < n; i++) {
-            if (pattern[i] == 'F') {
-                bool matches = true;
-                vector<int> modifiable;
-
-                for (int k = 0; k < m; k++) {
-                    int pos = i + k;
-                    if (result[pos] != sub[k]) {
-                        matches = false;
+            if (s1[i] == 'F') {
+                bool yes = false;
+                int ind = -1;
+                for (int j = i; j < i + m; j++) {
+                    if (res[j] != s2[j - i]) {
+                        yes = true;
                         break;
                     }
-                    if (!locked[pos]) {
-                        modifiable.push_back(pos);
+                    if (!fixed[j]) {
+                        ind = j;
                     }
                 }
-
-                if (matches) {
-                    if (modifiable.empty()) {
+                if (!yes) {
+                    if (ind == -1) {
                         return "";
-                    }
-                    int j = modifiable.back();
-                    bool updated = false;
-                    for (char c = result[j] + 1; c <= 'z'; c++) {
-                        if (c != sub[j - i]) {
-                            result[j] = c;
-                            updated = true;
-                            break;
-                        }
-                    }
-                    if (!updated) {
-                        return "";
+                    } else {
+                        res[ind] = 'b';
                     }
                 }
             }
         }
 
-        return result;
+        return res;
     }
 };
