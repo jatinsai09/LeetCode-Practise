@@ -7,16 +7,16 @@ public:
         cout.tie(0);
 
         int n = positions.size();
-        vector<vector<int>> robots;
-        vector<int> stk;
+        vector<int> robots, stk;
 
         for (int i = 0; i < n; i++) {
-            robots.push_back({positions[i], i});
+            robots.push_back(i);
         }
-        sort(robots.begin(), robots.end());
+        sort(robots.begin(), robots.end(), [&](int i, int j){
+            return positions[i] < positions[j];
+        });
 
-        for (auto& robot : robots) {
-            int ind = robot[1];
+        for (auto& ind : robots) {
             if (directions[ind] == 'R') {
                 stk.push_back(ind);
                 continue;
