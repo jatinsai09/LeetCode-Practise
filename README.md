@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-find-the-substring-with-maximum-cost](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2653-sliding-subarray-beauty](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2653-sliding-subarray-beauty) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
+| [2751-robot-collisions](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2751-robot-collisions) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2895-minimum-processing-time](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2895-minimum-processing-time) |
 | [2906-construct-product-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2906-construct-product-matrix) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2402-meeting-rooms-iii) |
 | [2551-put-marbles-in-bags](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2551-put-marbles-in-bags) |
 | [2592-maximize-greatness-of-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2592-maximize-greatness-of-an-array) |
+| [2751-robot-collisions](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2895-minimum-processing-time](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2895-minimum-processing-time) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2402-meeting-rooms-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2402-meeting-rooms-iii) |
 | [2596-check-knight-tour-configuration](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2596-check-knight-tour-configuration) |
+| [2751-robot-collisions](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3433-count-mentions-per-user) |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2751-robot-collisions](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2751-robot-collisions) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3878-count-good-subarrays](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3878-count-good-subarrays) |
 ## Design
