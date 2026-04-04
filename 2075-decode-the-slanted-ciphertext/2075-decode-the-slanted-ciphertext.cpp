@@ -8,7 +8,7 @@ public:
         int n = s.size();
         string res = "";
 
-        int cols = (n + rows - 1) / rows;
+        int cols = n / rows;
 
         for (int j = 0; j < cols; j++) {
             int ind = j;
