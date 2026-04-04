@@ -1,9 +1,10 @@
 class Solution {
 public:
     string decodeCiphertext(string s, int rows) {
-        if (s.empty()) {
-            return "";
+        if (rows == 1) {
+            return s;
         }
+
         int n = s.size();
         string res = "";
 
