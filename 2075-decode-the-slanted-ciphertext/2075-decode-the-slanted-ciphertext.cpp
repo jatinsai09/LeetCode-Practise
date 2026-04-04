@@ -17,7 +17,7 @@ public:
             }
         }
 
-        while (res.back() == ' ') {
+        while (!res.empty() && res.back() == ' ') {
             res.pop_back();
         }
 
