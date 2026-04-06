@@ -5,10 +5,10 @@ public:
         cin.tie(0);
         cout.tie(0);
 
-        unordered_map<string, int> mp;
+        unordered_map<string, bool> mp;
         for (const auto& it : obstacles) {
             string key = to_string(it[0]) + "+" + to_string(it[1]);
-            mp[key]++;
+            mp[key] = true;
         }
         vector<vector<int>> direc = {{-1, 0}, {0, 1}, {1, 0}, {0, -1}};
         // according to order W N E S
@@ -35,7 +35,7 @@ public:
                         // obstacle has been found so don't go there
                         break;
                     }
-                    
+
                     x = newX, y = newY;
                     mxDist = max(mxDist, x * x + y * y);
                 }
