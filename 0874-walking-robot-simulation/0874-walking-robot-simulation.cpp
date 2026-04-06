@@ -6,7 +6,7 @@ public:
         cout.tie(0);
 
         unordered_map<string, int> mp;
-        for (auto it : obstacles) {
+        for (const auto& it : obstacles) {
             string key = to_string(it[0]) + "+" + to_string(it[1]);
             mp[key]++;
         }
@@ -17,7 +17,7 @@ public:
         // 0: west, 1: north, 2: east, 3: south
         int x = 0, y = 0;
         int mxDist = 0;
-        for (int it : commands) {
+        for (const auto& it : commands) {
             if (it == -2) {
                 // move left
                 dir = (dir + 3) % 4;
@@ -25,16 +25,17 @@ public:
                 // move right
                 dir = (dir + 1) % 4;
             } else {
-                int k = it;
+                int k = it, newX, newY;
                 for (int i = 1; i <= k; i++) {
-                    int newX = x + direc[dir][0];
-                    int newY = y + direc[dir][1];
+                    newX = x + direc[dir][0];
+                    newY = y + direc[dir][1];
 
                     string key = to_string(newX) + "+" + to_string(newY);
                     if (mp.find(key) != mp.end()) {
                         // obstacle has been found so don't go there
                         break;
                     }
+                    
                     x = newX, y = newY;
                     mxDist = max(mxDist, x * x + y * y);
                 }
