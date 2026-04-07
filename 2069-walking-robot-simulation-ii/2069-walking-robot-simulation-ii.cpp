@@ -1,92 +1,56 @@
 class Robot {
-    vector<vector<int>> direc = {{1, 0}, {0, 1}, {-1, 0}, {0, -1}}; // E N W S
-    int n, m;
-    int x, y;
-    int dir;
-    int cyc;
+    int ind;
+    bool moved;
+    vector<pair<int, int>> pos;
+    vector<int> dir;
 
 public:
     Robot(int width, int height) {
-        x = 0, y = 0;
-        dir = 0;
+        ind = 0;
+        moved = false;
 
-        n = height;
-        m = width;
+        for (int i = 0; i < width; i++) {
+            pos.push_back({i, 0});
+            dir.push_back(0);
+        }
 
-        cyc = 2 * (n + m - 2);
+        for (int j = 1; j < height; j++) {
+            pos.push_back({width - 1, j});
+            dir.push_back(1);
+        }
+
+        for (int i = width - 2; i >= 0; i--) {
+            pos.push_back({i, height - 1});
+            dir.push_back(2);
+        }
+
+        for (int j = height - 2; j > 0; j--) {
+            pos.push_back({0, j});
+            dir.push_back(3);
+        }
+
+        dir[0] = 3;
     }
 
     void step(int num) {
-        int d = num;
-
-        int newX = x, newY = y;
-        int canX, canY;
-
-        d %= cyc;
-
-        if (d == 0 && x == 0 && y == 0) {
-            dir = 3;
-            return;
-        }
-
-        while (d > 0) {
-            if (dir == 0) {
-                canX = m - 1 - x;
-                if (d <= canX) {
-                    x += d;
-                    return;
-                } else {
-                    d -= canX;
-                    newX = m - 1;
-                    dir++;
-                }
-            } else if (dir == 1) {
-                canY = n - 1 - y;
-                if (d <= canY) {
-                    y += d;
-                    return;
-                } else {
-                    d -= canY;
-                    newY = n - 1;
-                    dir++;
-                }
-            } else if (dir == 2) {
-                canX = x;
-                if (d <= canX) {
-                    x -= d;
-                    return;
-                } else {
-                    d -= canX;
-                    newX = 0;
-                    dir++;
-                }
-            } else {
-                canY = y;
-                if (d <= canY) {
-                    y -= d;
-                    return;
-                } else {
-                    d -= canY;
-                    newY = 0;
-                    dir++;
-                }
-            }
-
-            x = newX, y = newY;
-            dir %= 4;
-        }
+        moved = true;
+        ind = (ind + num) % pos.size();
     }
 
-    vector<int> getPos() { return {x, y}; }
+    vector<int> getPos() { return {pos[ind].first, pos[ind].second}; }
 
     string getDir() {
-        if (dir == 0) {
+        if (!moved) {
             return "East";
         }
-        if (dir == 1) {
+
+        if (dir[ind] == 0) {
+            return "East";
+        } 
+        if (dir[ind] == 1) {
             return "North";
         }
-        if (dir == 2) {
+        if (dir[ind] == 2) {
             return "West";
         }
         return "South";
