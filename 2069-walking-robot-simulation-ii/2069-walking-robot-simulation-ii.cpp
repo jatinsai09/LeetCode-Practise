@@ -24,10 +24,8 @@ public:
 
         d %= cyc;
 
-        if (d == 0) {
-            if (x == 0 && y == 0) {
-                dir = 3;
-            }
+        if (d == 0 && x == 0 && y == 0) {
+            dir = 3;
             return;
         }
 
