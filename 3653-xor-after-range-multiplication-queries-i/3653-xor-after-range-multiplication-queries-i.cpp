@@ -15,7 +15,7 @@ public:
             int v = qr[3];
 
             for (int i = l; i <= r; i += k) {
-                b[i] = (1LL * b[i] * v) % MOD;
+                b[i] = (b[i] * v) % MOD;
             }
         }
 
