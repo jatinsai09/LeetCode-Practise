@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3719-longest-balanced-subarray-i) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3889-mirror-frequency-distance](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3889-mirror-frequency-distance) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Sorting
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3634-minimum-removals-to-balance-array) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Math
 |  |
 | ------- |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Number Theory
 |  |
 | ------- |
@@ -1001,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [3889-mirror-frequency-distance](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3889-mirror-frequency-distance) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Binary Search Tree
 |  |
 | ------- |
