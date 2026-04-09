@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3719-longest-balanced-subarray-i) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
+| [3889-mirror-frequency-distance](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3889-mirror-frequency-distance) |
 ## Sorting
 |  |
 | ------- |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3606-coupon-code-validator) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3714-longest-balanced-substring-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3714-longest-balanced-substring-ii) |
+| [3889-mirror-frequency-distance](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3889-mirror-frequency-distance) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -998,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0451-sort-characters-by-frequency) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [3889-mirror-frequency-distance](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3889-mirror-frequency-distance) |
 ## Binary Search Tree
 |  |
 | ------- |
