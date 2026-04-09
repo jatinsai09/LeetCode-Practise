@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3878-count-good-subarrays](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3878-count-good-subarrays) |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Hash Table
 |  |
 | ------- |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3640-trionic-array-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3877-minimum-removals-to-achieve-target-xor) |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Linked List
 |  |
 | ------- |
@@ -995,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3714-longest-balanced-substring-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3719-longest-balanced-subarray-i) |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Counting
 |  |
 | ------- |
@@ -1079,6 +1082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
