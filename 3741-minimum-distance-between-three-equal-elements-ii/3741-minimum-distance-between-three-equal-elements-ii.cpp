@@ -5,13 +5,12 @@ public:
         vector<vector<int>> ind(n + 1);
 
         for (int i = 0; i < n; i++) {
-            int sz = ind[a[i]].size();
-            if(sz > 1) {
-                res = min(res, 2 * (i - ind[a[i]][sz - 2]));
+            int f = ind[a[i]].size();
+            if(f > 1) {
+                res = min(res, 2 * (i - ind[a[i]][f - 2]));
             }
             ind[a[i]].push_back(i);
         }
-
 
         return (res == INT_MAX ? -1 : res);
     }
