@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1649-create-sorted-array-through-instructions](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1649-create-sorted-array-through-instructions) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
