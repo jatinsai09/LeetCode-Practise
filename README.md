@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2301-match-substring-after-replacement](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2301-match-substring-after-replacement) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2402-meeting-rooms-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2402-meeting-rooms-iii) |
+| [2463-minimum-total-distance-traveled](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2463-minimum-total-distance-traveled) |
 | [2551-put-marbles-in-bags](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2551-put-marbles-in-bags) |
 | [2560-house-robber-iv](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2560-house-robber-iv) |
 | [2573-find-the-string-with-lcp](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2573-find-the-string-with-lcp) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2092-find-all-people-with-secret) |
 | [2402-meeting-rooms-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2402-meeting-rooms-iii) |
+| [2463-minimum-total-distance-traveled](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2463-minimum-total-distance-traveled) |
 | [2551-put-marbles-in-bags](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2551-put-marbles-in-bags) |
 | [2592-maximize-greatness-of-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2592-maximize-greatness-of-an-array) |
 | [2751-robot-collisions](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2751-robot-collisions) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2304-minimum-path-cost-in-a-grid) |
+| [2463-minimum-total-distance-traveled](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2463-minimum-total-distance-traveled) |
 | [2560-house-robber-iv](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2560-house-robber-iv) |
 | [2573-find-the-string-with-lcp](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2573-find-the-string-with-lcp) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2606-find-the-substring-with-maximum-cost) |
