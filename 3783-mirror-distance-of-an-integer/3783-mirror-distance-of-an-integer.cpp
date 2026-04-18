@@ -10,7 +10,6 @@ public:
         return rev;
     }
     int mirrorDistance(int n) {
-        int rev = reverse(n);
-        return abs(n - rev);
+        return abs(n - reverse(n));
     }
 };
