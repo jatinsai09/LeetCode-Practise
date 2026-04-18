@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3433-count-mentions-per-user) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Simulation
