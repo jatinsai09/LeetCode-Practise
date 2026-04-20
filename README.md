@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2054-two-best-non-overlapping-events) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2080-range-frequency-queries](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2080-range-frequency-queries) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -1101,6 +1102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1975-maximum-matrix-sum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1975-maximum-matrix-sum) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2551-put-marbles-in-bags](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2551-put-marbles-in-bags) |
 | [2560-house-robber-iv](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2560-house-robber-iv) |
