@@ -8,13 +8,8 @@ public:
         for (auto& it1 : queries) {
             for (auto& it2 : dictionary) {
                 int del = 0;
-                for (int i = 0; i < n; i++) {
-                    if (it1[i] != it2[i]) {
-                        del++;
-                    }
-                    if (del > 2) {
-                        break;
-                    }
+                for (int i = 0; i < n && del < 3; i++) {
+                    del += (it1[i] != it2[i]);
                 }
                 if (del <= 2) {
                     res.push_back(it1);
@@ -22,6 +17,7 @@ public:
                 }
             }
         }
+
         return res;
     }
 };
