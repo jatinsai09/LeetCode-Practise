@@ -12,7 +12,7 @@ public:
                     continue;
                 }
 
-                if (i + 1 >= j - 1 || pal[i + 1][j - 1]) {
+                if (j - i < 3 || pal[i + 1][j - 1]) {
                     pal[i][j] = 1;
                     cost = min(cost, 1 + dp[j + 1]);
                 }
