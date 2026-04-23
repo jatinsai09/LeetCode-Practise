@@ -4,15 +4,17 @@ public:
         vector<vector<int>> res(n, vector<int>(m, 0)), ut(res);
 
         queue<pair<int, int>> q;
+        int done = 0;
         for (auto &v: sources) {
             int r = v[0], c = v[1], clr = v[2];
             res[r][c] = clr; 
             q.push({r, c});
+            done++;
         }
 
         vector<int> dir = {-1, 0, 1, 0, -1};
         int t = 0;
-        while (!q.empty()) {
+        while (!q.empty() && done < n * m) {
             t++;
             int sz = q.size();
 
@@ -32,6 +34,7 @@ public:
                         q.push({nr, nc});
                         
                         ut[nr][nc] = t;
+                        done++;
                     } else if (ut[nr][nc] == t) {
                         res[nr][nc] = max(res[nr][nc], clr);
                     }
