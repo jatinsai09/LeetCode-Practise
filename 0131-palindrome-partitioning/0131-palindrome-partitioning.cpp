@@ -1,34 +1,35 @@
 class Solution {
 public:
     vector<vector<string>> partition(string s) {
+        int n = s.size();
         vector<vector<string>> res;
         vector<string> p;
-        
-        func(0, s, p, res);
+
+        auto isPal = [&](int l, int r) -> bool {
+            while (l < r) {
+                if (s[l++] != s[r--]) {
+                    return false;
+                }
+            }
+            return true;
+        };
+
+        function<void(int)> f = [&](int ind) -> void {
+            if (ind == n) {
+                res.push_back(p);
+                return;
+            }
+
+            for (int i = ind; i < n; i++) {
+                if (isPal(ind, i)) {
+                    p.push_back(s.substr(ind, i - ind + 1));
+                    f(i + 1);
+                    p.pop_back();
+                }
+            }
+        };
+
+        f(0);
         return res;
-    }
-
-    void func(int ind, string& s, auto& p, auto& res) {
-        if (ind == s.size()) {
-            res.emplace_back(p);
-            return;
-        }
-
-        for (int i = ind; i < s.size(); i++) {
-            if (ispal(s, ind, i)) {
-                p.push_back(s.substr(ind, i - ind + 1));
-                func(i + 1, s, p, res);
-                p.pop_back();
-            }
-        }
-    }
-
-    bool ispal(string& s, int st, int e) {
-        while (st < e) {
-            if (s[st++] != s[e--]) {
-                return false;
-            }
-        }
-        return true;
     }
 };
