@@ -15,7 +15,6 @@ public:
         int t = 0;
         while (!q.empty()) {
             t++;
-            bool flag = false;
             int sz = q.size();
 
             for (int i = 0; i < sz; i++) {
@@ -32,18 +31,12 @@ public:
                     if (res[nr][nc] == 0) {
                         res[nr][nc] = clr;
                         q.push({nr, nc});
+                        
                         ut[nr][nc] = t;
-
-                        flag = true;
                     } else if (ut[nr][nc] == t) {
                         res[nr][nc] = max(res[nr][nc], clr);
                     }
                 }
-
-            }
-
-            if (!flag) {
-                break;
             }
         }
 
