@@ -11,7 +11,6 @@ public:
         }
 
         vector<int> dir = {-1, 0, 1, 0, -1};
-
         int t = 0;
         while (!q.empty()) {
             t++;
