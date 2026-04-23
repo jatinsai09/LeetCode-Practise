@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2592-maximize-greatness-of-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2592-maximize-greatness-of-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2596-check-knight-tour-configuration) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2606-find-the-substring-with-maximum-cost) |
+| [2615-sum-of-distances](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2615-sum-of-distances) |
 | [2653-sliding-subarray-beauty](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2653-sliding-subarray-beauty) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2751-robot-collisions](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2751-robot-collisions) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2301-match-substring-after-replacement](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2301-match-substring-after-replacement) |
 | [2402-meeting-rooms-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2402-meeting-rooms-iii) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2606-find-the-substring-with-maximum-cost) |
+| [2615-sum-of-distances](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2615-sum-of-distances) |
 | [2653-sliding-subarray-beauty](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2653-sliding-subarray-beauty) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -1028,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1895-largest-magic-square) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2615-sum-of-distances](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
