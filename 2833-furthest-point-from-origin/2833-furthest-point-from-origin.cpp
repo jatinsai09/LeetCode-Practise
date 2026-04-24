@@ -4,11 +4,8 @@ public:
         int buf = 0, p = 0;
 
         for (auto &c : moves) {
-            if (c == '_') {
-                buf++;
-            } else {
-                p += (c == 'L' ? -1 : 1);
-            }
+            buf += (c == '_');
+            p += (c == 'R') - (c == 'L');
         }
 
         return abs(p) + buf;
