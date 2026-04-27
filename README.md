@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1390-four-divisors) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1408-string-matching-in-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1408-string-matching-in-an-array) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -714,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1382-balance-a-binary-search-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -880,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -1023,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1306-jump-game-iii) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1971-find-if-path-exists-in-graph) |
@@ -1232,6 +1236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0695-max-area-of-island) |
 | [0765-couples-holding-hands](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0765-couples-holding-hands) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1971-find-if-path-exists-in-graph) |
