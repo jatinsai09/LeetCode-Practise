@@ -6,7 +6,7 @@ public:
         vector<bool> vis(n);
         priority_queue<pii, vector<pii>, greater<pii>> pq;
 
-        pq.push({0, 0});
+        pq.push({0, 0}); // {cost, node}
         while (!pq.empty()) {
             auto [wt, u] = pq.top();
             pq.pop();
