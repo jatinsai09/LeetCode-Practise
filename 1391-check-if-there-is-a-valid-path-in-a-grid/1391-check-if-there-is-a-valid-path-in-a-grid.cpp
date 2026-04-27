@@ -5,6 +5,7 @@ public:
 
         vector<vector<pair<int, int>>> dir(7);
 
+        // {dr, dc}
         dir[1] = {{0, -1}, {0, 1}};  // left, right
         dir[2] = {{-1, 0}, {1, 0}};  // up, down
         dir[3] = {{0, -1}, {1, 0}};  // left, down
