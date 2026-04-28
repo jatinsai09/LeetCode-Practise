@@ -9,7 +9,7 @@ public:
         }
 
         vector<int> res;
-        int pmx = -1;
+        int pmx = 0;
         for (int i = 0; i < n; i++) {
             if (nums[i] > pmx || nums[i] > smx[i]) {
                 res.push_back(nums[i]);
