@@ -13,17 +13,21 @@ public:
                         cur[j][c] = 0;
                         continue;
                     }
-
-                    int pc = c - (grid[i][j] > 0);
-                    if (pc < 0) {
-                        continue;
+                    
+                    int pc;
+                    if (i > 0) {
+                        pc = c - (grid[i][j] > 0);
+                        if (pc >= 0 && prev[j][pc] != -1) {
+                            cur[j][c] =
+                                max(cur[j][c], prev[j][pc] + grid[i][j]);
+                        }
                     }
-
-                    if (i && prev[j][pc] != -1) {
-                        cur[j][c] = max(cur[j][c], prev[j][pc] + grid[i][j]);
-                    }
-                    if (j && cur[j - 1][pc] != -1) {
-                        cur[j][c] = max(cur[j][c], cur[j - 1][pc] + grid[i][j]);
+                    if (j > 0) {
+                        pc = c - (grid[i][j] > 0);
+                        if (pc >= 0 && cur[j - 1][pc] != -1) {
+                            cur[j][c] =
+                                max(cur[j][c], cur[j - 1][pc] + grid[i][j]);
+                        }
                     }
                 }
             }
