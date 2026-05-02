@@ -8,12 +8,11 @@ public:
         for (int i = 1; i <= n; i++) {
             int t = i, f = 1;
             while (t) {
-                int r = t % 10;
-                if (!valid.count(r)) {
+                if (!valid.count(t % 10)) {
                     f = 0;
                     break;
                 }
-                if (can.count(r)) {
+                if (can.count(t % 10)) {
                     f = 2;
                 }
                 t /= 10;
