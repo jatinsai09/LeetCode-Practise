@@ -19,9 +19,7 @@ public:
                 t /= 10;
             }
 
-            if (f == 2) {
-                res++;
-            }
+            res += (f == 2);
         }
 
         return res;
