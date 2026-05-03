@@ -5,11 +5,11 @@ public:
         int n = nums.size();
         vector<ll> f(n), b(n);
 
-        for (int i = 0; i + 1 < n; i++) {
-            if (i == 0 || nums[i + 1] + nums[i - 1] < 2 * nums[i]) {
-                f[i + 1] = f[i] + 1;
+        for (int i = 1; i < n; i++) {
+            if (i == 1 || nums[i] + nums[i - 2] < 2 * nums[i - 1]) {
+                f[i] = f[i - 1] + 1;
             } else {
-                f[i + 1] = f[i] + nums[i + 1] - nums[i];
+                f[i] = f[i - 1] + nums[i] - nums[i - 1];
             }
         }
 
