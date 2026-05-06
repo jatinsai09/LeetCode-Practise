@@ -19,8 +19,8 @@ public:
                         res[i][k] = '#';
                     }
                 }
-                
-                if (j == n - 1 && c > 0) {
+
+                if (j == n - 1) {
                     for (int k = j; c > 0; k--, c--) {
                         res[i][k] = '#';
                     }
