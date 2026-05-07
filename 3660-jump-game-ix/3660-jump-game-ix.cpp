@@ -16,7 +16,7 @@ public:
         for (int i = n - 2; i >= 0; i--) {
             res[i] = pmx[i];
             if (pmx[i] > smn[i + 1]) {
-                res[i] = max(res[i], res[i + 1]);
+                res[i] = res[i + 1];
             }
         }
         return res;
