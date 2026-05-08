@@ -6,13 +6,13 @@ public:
         for (auto& i : a) {
             mx = max(mx, i);
         }
+        
         vector<int> isp(mx + 1, 1);
         isp[0] = isp[1] = 0;
         vector<vector<int>> fp(mx + 1);
-
-        for (int i = 2; i < mx + 1; i++) {
+        for (int i = 2; i <= mx; i++) {
             if (isp[i]) {
-                for (int j = i * 2; j < mx + 1; j += i) {
+                for (int j = i * 2; j <= mx; j += i) {
                     isp[j] = 0;
                 }
             }
