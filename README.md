@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3606-coupon-code-validator](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3606-coupon-code-validator) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3640-trionic-array-ii) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3531-count-covered-buildings) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3606-coupon-code-validator](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3606-coupon-code-validator) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3714-longest-balanced-substring-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3433-count-mentions-per-user](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3433-count-mentions-per-user) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3783-mirror-distance-of-an-integer) |
@@ -798,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1049,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1971-find-if-path-exists-in-graph) |
 | [2092-find-all-people-with-secret](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2092-find-all-people-with-secret) |
 | [2596-check-knight-tour-configuration](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2596-check-knight-tour-configuration) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3905-multi-source-flood-fill](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3905-multi-source-flood-fill) |
 ## Prefix Sum
