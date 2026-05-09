@@ -24,17 +24,17 @@ public:
 
             int len = v.size(), sft = k % len, idx = sft;
 
-            for (int j = left; j < right; j++, idx++) {
-                grid[top][j] = v[idx % len];
+            for (int j = left; j < right; j++) {
+                grid[top][j] = v[idx++ % len];
             }
-            for (int i = top; i < bottom; i++, idx++) {
-                grid[i][right] = v[idx % len];
+            for (int i = top; i < bottom; i++) {
+                grid[i][right] = v[idx++ % len];
             }
-            for (int j = right; j > left; j--, idx++) {
-                grid[bottom][j] = v[idx % len];
+            for (int j = right; j > left; j--) {
+                grid[bottom][j] = v[idx++ % len];
             }
-            for (int i = bottom; i > top; i--, idx++) {
-                grid[i][left] = v[idx % len];
+            for (int i = bottom; i > top; i--) {
+                grid[i][left] = v[idx++ % len];
             }
         }
 
