@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1642-furthest-building-you-can-reach](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1642-furthest-building-you-can-reach) |
 | [1649-create-sorted-array-through-instructions](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1649-create-sorted-array-through-instructions) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -1155,6 +1157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1642-furthest-building-you-can-reach](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1642-furthest-building-you-can-reach) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1877-minimize-maximum-pair-sum-in-array) |
