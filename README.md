@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0282-expression-add-operators) |
+| [0319-bulb-switcher](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0319-bulb-switcher) |
 | [0368-largest-divisible-subset](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0509-fibonacci-number) |
@@ -1384,4 +1385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0472-concatenated-words](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0472-concatenated-words) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
