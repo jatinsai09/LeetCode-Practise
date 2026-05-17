@@ -51,9 +51,9 @@ public:
         int lo = lowerBound(l, r, k);
         int hi = upperBound(l, r, k);
 
-        if (lo > hi) {
-            return 0;
-        }
+        // if (lo > hi) {
+        //     return 0;
+        // }
 
         return hi - lo + 1;
     }
