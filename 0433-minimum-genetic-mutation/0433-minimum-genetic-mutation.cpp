@@ -26,9 +26,8 @@ public:
                             continue;
                         }
 
-                        string next = cur.substr(0, j);
-                        next += c;
-                        next += cur.substr(j + 1);
+                        string next = cur;
+                        next[j] = c;
 
                         if (st.count(next)) {
                             q.push(next);
