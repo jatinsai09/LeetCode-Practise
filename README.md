@@ -1352,6 +1352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1204-last-person-to-fit-in-the-bus](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1211-queries-quality-and-percentage](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1251-average-selling-price) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1527-patients-with-a-condition) |
