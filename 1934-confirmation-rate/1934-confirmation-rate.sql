@@ -2,9 +2,8 @@
 SELECT
     s.user_id,
     ROUND(
-        IFNULL(
-            AVG(c.action = 'confirmed'),
-            0
+        AVG(
+            IF(c.action = 'confirmed', 1, 0)
         ),
         2
     ) AS confirmation_rate
