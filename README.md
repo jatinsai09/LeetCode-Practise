@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0041-first-missing-positive) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0008-string-to-integer-atoi) |
@@ -845,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1004-max-consecutive-ones-iii) |
