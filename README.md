@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1049-last-stone-weight-ii) |
 | [1200-minimum-absolute-difference](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1200-minimum-absolute-difference) |
+| [1248-count-number-of-nice-subarrays](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1306-jump-game-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1306-jump-game-iii) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0997-find-the-town-judge) |
 | [1048-longest-string-chain](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1048-longest-string-chain) |
+| [1248-count-number-of-nice-subarrays](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1345-jump-game-iv](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1345-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1137-n-th-tribonacci-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1137-n-th-tribonacci-number) |
 | [1185-day-of-the-week](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1185-day-of-the-week) |
+| [1248-count-number-of-nice-subarrays](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1390-four-divisors) |
 | [1622-fancy-sequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1622-fancy-sequence) |
@@ -854,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1763-longest-nice-substring](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1763-longest-nice-substring) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -1108,6 +1112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1674-minimum-moves-to-make-array-complementary) |
