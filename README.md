@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0746-min-cost-climbing-stairs) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0657-robot-return-to-origin) |
+| [0735-asteroid-collision](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0735-asteroid-collision](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0853-car-fleet) |
 | [0897-increasing-order-search-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0897-increasing-order-search-tree) |
