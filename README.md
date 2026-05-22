@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0274-h-index) |
@@ -703,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0918-maximum-sum-circular-subarray) |
 ## Tree
@@ -871,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0930-binary-subarrays-with-sum) |
@@ -1250,6 +1253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0355-design-twitter) |
@@ -1447,6 +1451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0918-maximum-sum-circular-subarray) |
 ## Trie
 |  |
