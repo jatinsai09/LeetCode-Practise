@@ -3,26 +3,29 @@ public:
     int minOperations(vector<int>& nums, int k) {
         int n = nums.size(), res = INT_MAX;
 
+        vector<int> oc(k), ec(k);
+        for (int r = 0; r < k; r++) {
+            for (int i = 0; i < n; i++) {
+                int rem = nums[i] % k;
+                int del = abs(r - rem);
+
+                if (i & 1) {
+                    oc[r] += min(del, k - del); 
+                } else {
+                    ec[r] += min(del, k - del);
+                }
+            }
+        }
+
         for (int x = 0; x < k; x++) {
             for (int y = 0; y < k; y++) {
                 if (x == y) {
                     continue;
                 }
-
-                int got = 0;
-                for (int i = 0; i < n; i++) {
-                    int r = nums[i] % k;
-                    if (i & 1) {
-                        got += min((r - y + k) % k, (y - r + k) % k);
-                    } else {
-                        got += min((r - x + k) % k, (x - r + k) % k);
-                    }
-                }
-
-                res = min(res, got);
+                res = min(res, ec[x] + oc[y]);
             }
         }
-
+        
         return res;
     }
 };
