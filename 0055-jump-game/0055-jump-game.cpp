@@ -12,9 +12,7 @@ public:
                 return false;
             }
 
-            if (i + nums[i] > mi) {
-                mi = i + nums[i];
-            }
+            mi = max(mi, i + nums[i]);
         }
         
         return true;
