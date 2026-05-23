@@ -14,9 +14,9 @@ public:
             for (int j = 0; j < m; j++) {
                 cur += grid[i][j];
                 if (j) {
-                    res = max({res, cur, grid[i][j] + grid[i][j - 1]});
+                    cur = max(cur, grid[i][j] + grid[i][j - 1]);
+                    res = max(res, cur);
                 }
-                cur = max(cur, grid[i][j]);
             }
         }
 
@@ -25,12 +25,11 @@ public:
             for (int i = 0; i < n; i++) {
                 cur += grid[i][j];
                 if (i) {
-                    res = max({res, cur, grid[i][j] + grid[i - 1][j]});
+                    cur = max(cur, grid[i][j] + grid[i - 1][j]);
+                    res = max(res, cur);
                 }
-                cur = max(cur, grid[i][j]);
             }
         }
-
         return res;
     }
 };
