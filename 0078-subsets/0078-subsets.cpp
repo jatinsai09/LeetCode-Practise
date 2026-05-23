@@ -1,26 +1,23 @@
 class Solution {
 public:
+    void setofsubsets(int i, vector<int>& v, vector<int>& nums,
+                      vector<vector<int>>& res) {
+        if (i == nums.size()) {
+            res.push_back(v);
+            return;
+        }
+        // not pick
+        setofsubsets(i + 1, v, nums, res);
+        // pick
+        v.push_back(nums[i]);
+        setofsubsets(i + 1, v, nums, res);
+        // backtrack
+        v.pop_back();
+    }
     vector<vector<int>> subsets(vector<int>& nums) {
-        int n = nums.size();
-        vector<vector<int>> allSubsets;
-        vector<int> res;
-
-        function<void(int)> f = [&](int i) -> void {
-            if (i == n) {
-                allSubsets.push_back(res);
-                return;
-            }
-
-            // pick
-            res.push_back(nums[i]);
-            f(i + 1);
-
-            // not pick
-            res.pop_back();
-            f(i + 1);
-        };
-
-        f(0);
-        return allSubsets;
+        vector<vector<int>> res;
+        vector<int> v;
+        setofsubsets(0, v, nums, res);
+        return res;
     }
 };
