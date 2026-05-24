@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1306-jump-game-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1306-jump-game-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1340-jump-game-v](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1048-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1200-minimum-absolute-difference) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1340-jump-game-v](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1143-longest-common-subsequence) |
+| [1340-jump-game-v](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1340-jump-game-v) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1547-minimum-cost-to-cut-a-stick) |
