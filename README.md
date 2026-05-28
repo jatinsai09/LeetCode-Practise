@@ -1440,6 +1440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1683-invalid-tweets) |
+| [1729-find-followers-count](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1729-find-followers-count) |
 | [1789-primary-department-for-each-employee](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1789-primary-department-for-each-employee) |
 | [1907-count-salary-categories](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1934-confirmation-rate) |
