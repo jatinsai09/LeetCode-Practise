@@ -1,5 +1,9 @@
 # Write your MySQL query statement below
-DELETE p
-FROM Person p
-JOIN Person p2
-  ON p.email = p2.email AND p.id > p2.id;
+DELETE FROM Person
+WHERE id NOT IN (
+    SELECT id FROM (
+        SELECT min(id) AS id
+        FROM Person
+        GROUP BY email
+    ) AS t
+);
