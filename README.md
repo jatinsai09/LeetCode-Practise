@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2080-range-frequency-queries](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2080-range-frequency-queries) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2126-destroying-asteroids](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2126-destroying-asteroids) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2301-match-substring-after-replacement](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2301-match-substring-after-replacement) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2304-minimum-path-cost-in-a-grid) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2092-find-all-people-with-secret) |
+| [2126-destroying-asteroids](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2126-destroying-asteroids) |
 | [2402-meeting-rooms-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2402-meeting-rooms-iii) |
 | [2463-minimum-total-distance-traveled](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2463-minimum-total-distance-traveled) |
 | [2551-put-marbles-in-bags](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2551-put-marbles-in-bags) |
@@ -1257,6 +1259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2126-destroying-asteroids](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2126-destroying-asteroids) |
 | [2551-put-marbles-in-bags](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2551-put-marbles-in-bags) |
 | [2560-house-robber-iv](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2560-house-robber-iv) |
 | [2573-find-the-string-with-lcp](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2573-find-the-string-with-lcp) |
