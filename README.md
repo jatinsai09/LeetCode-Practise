@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3606-coupon-code-validator](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3606-coupon-code-validator) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3640-trionic-array-ii) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3531-count-covered-buildings) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3606-coupon-code-validator) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3634-minimum-removals-to-balance-array) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Math
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2540-minimum-common-value) |
 | [2592-maximize-greatness-of-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2592-maximize-greatness-of-an-array) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3643-flip-square-submatrix-vertically) |
 ## Stack
 |  |
@@ -1101,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3453-separate-squares-i) |
 | [3488-closest-equal-element-queries](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Memoization
 |  |
 | ------- |
@@ -1275,6 +1279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Heap (Priority Queue)
 |  |
