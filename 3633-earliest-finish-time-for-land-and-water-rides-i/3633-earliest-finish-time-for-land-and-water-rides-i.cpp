@@ -2,10 +2,9 @@ class Solution {
 public:
     int earliestFinishTime(vector<int>& ls, vector<int>& ld, vector<int>& ws,
                            vector<int>& wd) {
-        int res = 5000;
-        int n = ls.size(), m = ws.size();
+        int res = 4000, n = ls.size(), m = ws.size();
 
-        int f1 = 5000, f2 = 5000;
+        int f1 = 4000, f2 = 4000;
         for (int i = 0; i < n; i++) {
             f1 = min(f1, ls[i] + ld[i]);
         }
