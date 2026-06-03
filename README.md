@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1572-matrix-diagonal-sum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1584-min-cost-to-connect-all-points) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -1019,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1572-matrix-diagonal-sum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1727-largest-submatrix-with-rearrangements) |
