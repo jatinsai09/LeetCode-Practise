@@ -759,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0617-merge-two-binary-trees](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -798,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0547-number-of-provinces) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0617-merge-two-binary-trees](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0695-max-area-of-island) |
 | [0765-couples-holding-hands](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0765-couples-holding-hands) |
@@ -842,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0337-house-robber-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0617-merge-two-binary-trees](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1138,6 +1141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0547-number-of-provinces) |
+| [0617-merge-two-binary-trees](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0695-max-area-of-island) |
 | [0765-couples-holding-hands](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0765-couples-holding-hands) |
