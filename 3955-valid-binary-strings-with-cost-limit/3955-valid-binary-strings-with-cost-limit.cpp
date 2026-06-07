@@ -4,7 +4,7 @@ public:
         vector<string> res;
         string s(n, '0');
 
-        function<void(int, string, int)> f = [&](int i, string s, int cur) {
+        function<void(int, char, int)> f = [&](int i, char prev, int cur) {
             if (i == n) {
                 if (cur <= k) {
                     res.emplace_back(s);
@@ -12,23 +12,18 @@ public:
                 return;
             }
 
-            char prev = '0';
-            if (i) {
-                prev = s[i - 1];
-            }
-
             if (prev == '1') {
-                f(i + 1, s, cur);
+                f(i + 1, '0', cur);
             } else {
                 s[i] = '1';
-                f(i + 1, s, cur + i);
+                f(i + 1, '1', cur + i);
 
                 s[i] = '0';
-                f(i + 1, s, cur);
+                f(i + 1, '0', cur);
             }
         };
 
-        f(0, s, 0);
+        f(0, '0', 0);
         return res;
     }
 };
