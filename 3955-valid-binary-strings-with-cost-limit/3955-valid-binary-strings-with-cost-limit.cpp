@@ -2,44 +2,33 @@ class Solution {
 public:
     vector<string> generateValidStrings(int n, int k) {
         vector<string> res;
-        int lim = (1LL << n);
+        string s(n, '0');
 
-        for (int x = 0; x < lim; x++) {
-            string s(n, '0');
-            int t = x, j = n - 1, prev = 0, can = 1;
-
-            while (t) {
-                if (t & 1) {
-                    s[j] = '1';
-                    if (prev) {
-                        can = 0;
-                        break;
-                    }
+        function<void(int, string, int)> f = [&](int i, string s, int cur) {
+            if (i == n) {
+                if (cur <= k) {
+                    res.emplace_back(s);
                 }
-                prev = t & 1;
-                j--;
-                t >>= 1;
+                return;
             }
 
-            if (!can) {
-                continue;
+            char prev = '0';
+            if (i) {
+                prev = s[i - 1];
             }
 
-            int score = 0;
-            for (int i = 0; i < n; i++) {
-                if (s[i] == '1') {
-                    score += i;
-                    if (i && s[i] == s[i - 1]) {
-                        score = k + 1;
-                        break;
-                    }
-                }
-            }
-            if (score <= k) {
-                res.push_back(s);
-            }
-        }
+            if (prev == '1') {
+                f(i + 1, s, cur);
+            } else {
+                s[i] = '1';
+                f(i + 1, s, cur + i);
 
+                s[i] = '0';
+                f(i + 1, s, cur);
+            }
+        };
+
+        f(0, s, 0);
         return res;
     }
 };
