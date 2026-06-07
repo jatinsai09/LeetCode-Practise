@@ -6,14 +6,23 @@ public:
 
         for (int x = 0; x < lim; x++) {
             string s(n, '0');
-            int t = x, j = n - 1;
+            int t = x, j = n - 1, prev = 0, can = 1;
 
             while (t) {
                 if (t & 1) {
                     s[j] = '1';
+                    if (prev) {
+                        can = 0;
+                        break;
+                    }
                 }
+                prev = t & 1;
                 j--;
                 t >>= 1;
+            }
+
+            if (!can) {
+                continue;
             }
 
             int score = 0;
