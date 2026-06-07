@@ -5,10 +5,11 @@ public:
         string s(n, '0');
 
         function<void(int, char, int)> f = [&](int i, char prev, int cur) {
+            if (cur > k) {
+                return;
+            }
             if (i == n) {
-                if (cur <= k) {
-                    res.emplace_back(s);
-                }
+                res.emplace_back(s);
                 return;
             }
 
