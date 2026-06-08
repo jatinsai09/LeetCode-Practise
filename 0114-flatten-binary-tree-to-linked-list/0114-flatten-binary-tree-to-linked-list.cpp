@@ -6,40 +6,34 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
- * right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-
 class Solution {
 public:
-    void flatten(TreeNode* root) {
-        ios_base::sync_with_stdio(0);
-        cin.tie(0);
-        cout.tie(0);
+    void pre(TreeNode * root, TreeNode * &par) {
+        if (!root) {
+            return;
+        } 
 
-        if (root == NULL) {
+        par->right = root;
+        par->left = NULL;
+
+        TreeNode *l = root->left, *r = root->right;
+        par = root;
+        
+        pre(l, par);
+        pre(r, par);
+    }
+    void flatten(TreeNode* root) {
+        if (!root) {
             return;
         }
 
-        stack<TreeNode*> st;
-        st.push(root);
+        TreeNode *dummy = new TreeNode(-1);
+        TreeNode *par = dummy;
+        pre(root, par);
 
-        while (!st.empty()) {
-            TreeNode* cur = st.top();
-            st.pop();
-
-            if (cur->right) {
-                st.push(cur->right);
-            }
-            if (cur->left) {
-                st.push(cur->left);
-            }
-
-            if (!st.empty()) {
-                cur->left = NULL;
-                cur->right = st.top();
-            }
-        }
+        root=dummy->right;
     }
 };
