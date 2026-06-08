@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2301-match-substring-after-replacement](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2301-match-substring-after-replacement) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2304-minimum-path-cost-in-a-grid) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2069-walking-robot-simulation-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2402-meeting-rooms-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2402-meeting-rooms-iii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2553-separate-the-digits-in-an-array) |
@@ -687,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2540-minimum-common-value) |
 | [2592-maximize-greatness-of-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2592-maximize-greatness-of-an-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
