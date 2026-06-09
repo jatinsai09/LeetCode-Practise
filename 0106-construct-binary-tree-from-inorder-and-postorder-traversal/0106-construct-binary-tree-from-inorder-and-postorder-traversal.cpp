@@ -14,23 +14,26 @@ class Solution {
 public:
     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
         int n = inorder.size();
-        unordered_map<int, int> mp;
+
+        unordered_map<int, int> inMap;
         for (int i = 0; i < n; i++) {
-            mp[inorder[i]] = i;
+            inMap[inorder[i]] = i;
         }
 
-        function<TreeNode*(int, int, int, int)> build = [&](int is, int ie,
-                                                            int ps, int pe) -> TreeNode* {
-            if (is > ie) {
+        function<TreeNode*(int, int, int, int)> build = [&](int inStart, int inEnd,
+                                                            int postStart, 
+                                                            int postEnd) -> TreeNode* {
+            if (inStart > inEnd) {
                 return NULL;
             }
 
-            TreeNode* root = new TreeNode(postorder[pe]);
-            int ind = mp[postorder[pe]];
+            TreeNode* root = new TreeNode(postorder[postEnd]);
+            
+            int inRoot = inMap[postorder[postEnd]];
+            int numsLeft = inRoot - inStart;
 
-            int ls = ind - is;
-            root->left = build(is, ind - 1, ps, ps + ls - 1);
-            root->right = build(ind + 1, ie, ps + ls, pe - 1);
+            root->left = build(inStart, inRoot - 1, postStart, postStart + numsLeft - 1);
+            root->right = build(inRoot + 1, inEnd, postStart + numsLeft, postEnd - 1);
 
             return root;
         };
