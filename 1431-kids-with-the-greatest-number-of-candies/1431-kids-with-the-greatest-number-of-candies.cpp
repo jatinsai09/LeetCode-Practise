@@ -6,13 +6,11 @@ public:
         cout.tie(0);
 
         int max_candies = *max_element(candies.begin(), candies.end());
-        max_candies -= extraCandies;
 
-        vector<bool> res(candies.size(), true);
-
+        vector<bool> res(candies.size());
         for (int i = 0; i < candies.size(); i++) {
-            if (candies[i] < max_candies) {
-                res[i] = false;
+            if (candies[i] + extraCandies >= max_candies) {
+                res[i] = true;
             }
         }
         return res;
