@@ -10,7 +10,7 @@ public:
         sort(nums.begin(), nums.end());
 
         int n = nums.size(), l = 0, r = nums[n - 1] - nums[0];
-        while (l <= r) {
+        while (l < r) {
             int mid = (l + r) / 2, cnt = 0;
 
             for (int i = 0, j = 0; j < n; j++) {
@@ -23,9 +23,9 @@ public:
             if (cnt < k) {
                 l = mid + 1;
             } else {
-                r = mid - 1;
+                r = mid;
             }
         }
-        return l;
+        return r;
     }
 };
