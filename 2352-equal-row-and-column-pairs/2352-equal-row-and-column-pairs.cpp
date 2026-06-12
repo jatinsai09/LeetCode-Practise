@@ -6,10 +6,10 @@ public:
         cout.tie(0);
 
         int n = grid.size(), res = 0;
-        
+
         map<vector<int>, int> mp;
-        for (int i = 0; i < grid.size(); i++) {
-            mp[grid[i]]++;
+        for (auto &row: grid) {
+            mp[row]++;
         }
 
         for (int j = 0; j < n; j++) {
