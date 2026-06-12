@@ -28,15 +28,10 @@ public:
         return (dir ? l : r);
     }
     int longestZigZag(TreeNode* root) {
-        int res = 0, l = 0, r = 0;
+        int res = 0;
 
-        if (root->left) {
-            l = 1 + dfs(root->left, 0, res);
-        }
-        if (root->right) {
-            r = 1 + dfs(root->right, 1, res);
-        }
+        dfs(root, -1, res);
 
-        return max({l, r, res});
+        return res;
     }
 };
