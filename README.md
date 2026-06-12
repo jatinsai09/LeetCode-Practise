@@ -622,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0788-rotated-digits) |
+| [0790-domino-and-tromino-tiling](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0790-domino-and-tromino-tiling) |
 | [0799-champagne-tower](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0799-champagne-tower) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0871-minimum-number-of-refueling-stops) |
