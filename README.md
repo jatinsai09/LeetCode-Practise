@@ -894,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1382-balance-a-binary-search-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -1256,6 +1257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1971-find-if-path-exists-in-graph) |
@@ -1475,6 +1477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0851-loud-and-rich](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0851-loud-and-rich) |
 | [0997-find-the-town-judge](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0997-find-the-town-judge) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1584-min-cost-to-connect-all-points](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1971-find-if-path-exists-in-graph) |
