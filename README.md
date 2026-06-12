@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2352-equal-row-and-column-pairs) |
 | [2402-meeting-rooms-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2402-meeting-rooms-iii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2463-minimum-total-distance-traveled](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2540-minimum-common-value) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2390-removing-stars-from-a-string) |
 | [2402-meeting-rooms-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2402-meeting-rooms-iii) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2553-separate-the-digits-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2596-check-knight-tour-configuration) |
 | [2751-robot-collisions](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2751-robot-collisions) |
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2540-minimum-common-value](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2540-minimum-common-value) |
 | [2592-maximize-greatness-of-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2592-maximize-greatness-of-an-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -1413,6 +1416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2402-meeting-rooms-iii) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2551-put-marbles-in-bags](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2551-put-marbles-in-bags) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
