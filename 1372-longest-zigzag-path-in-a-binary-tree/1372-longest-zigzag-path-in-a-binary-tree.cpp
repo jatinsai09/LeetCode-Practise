@@ -12,15 +12,16 @@
  */
 class Solution {
 public:
-    int dfs(TreeNode* root, int dir, int& res) {
+    int res = 0;
+    int dfs(TreeNode* root, int dir) {
         int l = 0, r = 0;
 
         if (root->left) {
-            l = 1 + dfs(root->left, 0, res);
+            l = 1 + dfs(root->left, 0);
         }
 
         if (root->right) {
-            r = 1 + dfs(root->right, 1, res);
+            r = 1 + dfs(root->right, 1);
         }
 
         res = max({res, l, r});
@@ -28,9 +29,7 @@ public:
         return (dir ? l : r);
     }
     int longestZigZag(TreeNode* root) {
-        int res = 0;
-
-        dfs(root, -1, res);
+        dfs(root, -1);
 
         return res;
     }
