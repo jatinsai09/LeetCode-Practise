@@ -11,19 +11,24 @@
 class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
+        ios_base::sync_with_stdio(0);
+        cin.tie(0);
+        cout.tie(0);
+      
         if (!head || !head->next || !head->next->next) {
             return head;
         }
-        ListNode *odd = head, *even = head->next, *evenHead = even;
 
+        ListNode *odd = head, *even = head->next, *evenhead = even;
         while (odd->next && even->next) {
             odd->next = even->next;
             odd = odd->next;
+
             even->next = odd->next;
             even = even->next;
         }
+        odd->next = evenhead;
 
-        odd->next = evenHead;
         return head;
     }
 };
