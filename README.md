@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1657-determine-if-two-strings-are-close](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1657-determine-if-two-strings-are-close) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1763-longest-nice-substring](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1763-longest-nice-substring) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1657-determine-if-two-strings-are-close](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1657-determine-if-two-strings-are-close) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1657-determine-if-two-strings-are-close](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1657-determine-if-two-strings-are-close) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1763-longest-nice-substring](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1763-longest-nice-substring) |
@@ -1274,6 +1277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0992-subarrays-with-k-different-integers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1657-determine-if-two-strings-are-close](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1657-determine-if-two-strings-are-close) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2833-furthest-point-from-origin](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2833-furthest-point-from-origin) |
 | [3889-mirror-frequency-distance](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3889-mirror-frequency-distance) |
