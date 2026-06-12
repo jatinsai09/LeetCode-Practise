@@ -14,9 +14,10 @@ class Solution {
 public:
     int pathSum(TreeNode* root, int target) {
         unordered_map<ll, int> ps;
+        ll cur = 0;
         ps[0] = 1;
 
-        function<int(TreeNode*, ll)> dfs = [&](TreeNode* node, ll cur) -> int {
+        function<int(TreeNode*)> dfs = [&](TreeNode* node) -> int {
             if (!node) {
                 return 0;
             }
@@ -29,14 +30,15 @@ public:
 
             ps[cur]++;
 
-            c += dfs(node->left, cur);
-            c += dfs(node->right, cur);
+            c += dfs(node->left);
+            c += dfs(node->right);
 
             ps[cur]--;
+            cur -= node->val;
 
             return c;
         };
 
-        return dfs(root, 0); 
+        return dfs(root); 
     }
 };
