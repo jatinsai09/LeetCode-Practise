@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0704-binary-search) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0735-asteroid-collision) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0688-knight-probability-in-chessboard](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0688-knight-probability-in-chessboard) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0788-rotated-digits) |
 | [0790-domino-and-tromino-tiling](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0790-domino-and-tromino-tiling) |
@@ -1374,6 +1376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0605-can-place-flowers) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0738-monotone-increasing-digits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0738-monotone-increasing-digits) |
 | [0765-couples-holding-hands](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0765-couples-holding-hands) |
 | [0860-lemonade-change](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0860-lemonade-change) |
