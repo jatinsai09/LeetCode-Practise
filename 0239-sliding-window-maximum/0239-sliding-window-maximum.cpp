@@ -10,7 +10,7 @@ public:
         deque<int> dq;
         
         for (int i = 0; i < n; i++) {
-            while (!dq.empty() && dq.front() < i - k + 1) {
+            while (!dq.empty() && dq.front() <= i - k) {
                 dq.pop_front();
             }
             while (!dq.empty() && nums[dq.back()] <= nums[i]) {
