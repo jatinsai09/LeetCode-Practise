@@ -9,7 +9,11 @@ public:
             if (cur == target) {
                 return true;
             }
-            (target > cur ? r++ : c--);
+            if (target > cur) {
+                r++;
+            } else {
+                c--;
+            }
         }
         return false;
     }
