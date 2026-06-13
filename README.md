@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0327-count-of-range-sum) |
 | [0334-increasing-triplet-subsequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0396-rotate-function) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0355-design-twitter) |
 | [0387-first-unique-character-in-a-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0409-longest-palindrome) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0435-non-overlapping-intervals) |
@@ -1045,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0327-count-of-range-sum) |
+| [0347-top-k-frequent-elements](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0493-reverse-pairs) |
 | [0761-special-binary-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0912-sort-an-array) |
@@ -1329,6 +1333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0992-subarrays-with-k-different-integers) |
@@ -1432,6 +1437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0355-design-twitter) |
 | [0407-trapping-rain-water-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0451-sort-characters-by-frequency) |
@@ -1530,6 +1536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0912-sort-an-array) |
 ## Radix Sort
@@ -1549,6 +1556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0347-top-k-frequent-elements) |
 ## String Matching
 |  |
 | ------- |
