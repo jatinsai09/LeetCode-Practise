@@ -28,8 +28,7 @@ public:
                     }
                 } else if (sum < 0) {
                     j++;
-                }
-                else {
+                } else {
                     k--;
                 }
             }
