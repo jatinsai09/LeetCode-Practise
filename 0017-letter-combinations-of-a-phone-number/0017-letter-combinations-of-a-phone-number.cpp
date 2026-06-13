@@ -15,7 +15,7 @@ public:
     }
 
     vector<string> letterCombinations(string digits) {
-        vector<string> v = {"",    "", "abc",  "def", "ghi",
+        vector<string> v = {"", "", "abc", "def", "ghi",
                             "jkl", "mno", "pqrs", "tuv", "wxyz"};
 
         vector<string> res;
