@@ -7,8 +7,7 @@ public:
         while (i < n) {
             int s = points[i][0], e = points[i][1];
             while (i < n && points[i][0] <= e) {
-                e = min(e, points[i][1]);
-                i++;
+                e = min(e, points[i++][1]);
             }
             cnt++;
         }
