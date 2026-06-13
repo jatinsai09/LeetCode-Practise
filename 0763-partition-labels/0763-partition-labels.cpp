@@ -11,14 +11,14 @@ public:
         for (int i = 0; i < n; i++) {
             li[s[i]] = i;
         }
-        
+
         vector<int> res;
         int prev = -1, maxi = 0;
         for (int i = 0; i < n; i++) {
             maxi = max(maxi, li[s[i]]);
             if (maxi == i) {
-                res.push_back(maxi - prev);
-                prev = maxi;
+                res.push_back(i - prev);
+                prev = i;
             }
         }
         return res;
