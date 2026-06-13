@@ -8,7 +8,7 @@ public:
                 return true;
             }
 
-            if (nums[i] == 0 && mi == i) {
+            if (mi == i && !nums[i]) {
                 return false;
             }
 
