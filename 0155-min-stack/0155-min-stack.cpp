@@ -1,6 +1,6 @@
 class MinStack {
 public:
-    vector<pair<int, int>> st;
+    vector<pair<int, int>> st; // {val, min}
     MinStack() {}
 
     void push(int val) {
