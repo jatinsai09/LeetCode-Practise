@@ -7,20 +7,25 @@ public:
 
         unordered_map<int, int> mp;
         vector<int> res;
+        int mx = 0;
         for (const auto& i : nums) {
-            mp[i]++;
+            mx = max(mx, ++mp[i]);
         }
 
-        int mps = mp.size();
-        priority_queue<pair<int, int>> pq;
+        vector<vector<int>> b(mx + 1);
+        for (auto &[val, freq]: mp) {
+            b[freq].push_back(val);
+        }
 
-        for (auto it = begin(mp); it != end(mp); it++) {
-            pq.push({it->second, it->first});
-            if (pq.size() > mps - k) {
-                res.push_back(pq.top().second);
-                pq.pop();
+        for (int f = mx; f >= 0; f--) {
+            for (auto &i: b[f]) {
+                if (res.size() == k) {
+                    break;
+                }
+                res.push_back(i);
             }
         }
+
         return res;
     }
 };
