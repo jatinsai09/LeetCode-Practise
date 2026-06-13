@@ -2,15 +2,15 @@ class Solution {
 public:
     int maxProfit(vector<int>& prices, int fee) {
         int n = prices.size();
-        int prevBuy = INT_MIN, prevSell = 0, curBuy, curSell;
+        int nextBuy = 0, nextSell = 0, curBuy = 0, curSell = 0;
 
-        for (int i = 0; i < n; i++) {
-            curBuy = max(-(prices[i] + fee) + prevSell, prevBuy);
-            curSell = max(prices[i] + prevBuy, prevSell);
+        for (int i = n - 1; i >= 0; i--) {
+            curBuy = max(-prices[i] + nextSell, nextBuy);
+            curSell = max(prices[i] - fee + nextBuy, nextSell);
 
-            prevBuy = curBuy;
-            prevSell = curSell;
+            nextBuy = curBuy;
+            nextSell = curSell;
         }
-        return prevSell;
+        return nextBuy;
     }
 };
