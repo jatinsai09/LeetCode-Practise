@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0204-count-primes) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0223-rectangle-area) |
 | [0264-ugly-number-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0264-ugly-number-ii) |
@@ -719,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0295-find-median-from-data-stream) |
