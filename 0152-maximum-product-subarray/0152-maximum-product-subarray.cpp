@@ -8,10 +8,8 @@ public:
             p2 *= nums[n - 1 - i];
 
             res = max({res, p1, p2});
-            if (!p1)
-                p1 = 1;
-            if (!p2)
-                p2 = 1;
+            if (!p1) p1 = 1;
+            if (!p2) p2 = 1;
         }
         return res;
     }
