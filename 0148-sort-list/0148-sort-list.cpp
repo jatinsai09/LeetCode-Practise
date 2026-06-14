@@ -11,7 +11,7 @@
 class Solution {
 public:
     ListNode* sortList(ListNode* head) {
-        if (head == NULL || head->next == NULL) {
+        if (!head || !head->next) {
             return head;
         }
 
