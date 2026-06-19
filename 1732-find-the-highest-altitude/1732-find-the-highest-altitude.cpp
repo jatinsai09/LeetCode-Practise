@@ -6,8 +6,9 @@ public:
         cout.tie(0);
         int maxi = 0, cur = 0;
 
-        for (int i = 0; i < gain.size(); i++) {
-            cur += gain[i];
+
+        for (auto &g: gain) {
+            cur += g;
             maxi = max(maxi, cur);
         }
         return maxi;
