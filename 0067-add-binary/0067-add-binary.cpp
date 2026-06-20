@@ -6,8 +6,7 @@ public:
         cout.tie(0);
 
         string res;
-        int i = a.length() - 1, j = b.length() - 1;
-        int carry = 0;
+        int i = a.length() - 1, j = b.length() - 1, carry = 0;
 
         while (i >= 0 || j >= 0 || carry) {
             if (i >= 0) {
