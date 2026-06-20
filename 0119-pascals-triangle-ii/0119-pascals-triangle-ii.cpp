@@ -8,8 +8,7 @@ public:
             cur *= j;
             cur /= i;
 
-            res[i] = cur;
-            res[rowIndex - i] = cur;
+            res[i] = res[rowIndex - i] = cur;
         }
         return res;
     }
