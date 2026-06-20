@@ -3,12 +3,10 @@ public:
     vector<int> getRow(int rowIndex) {
         vector<int> res(rowIndex + 1, 1);
 
-        int j = rowIndex;
         long cur = 1;
-        for (int i = 1; i <= rowIndex / 2; i++) {
+        for (int i = 1, j = rowIndex; i <= rowIndex / 2; i++, j--) {
             cur *= j;
             cur /= i;
-            j--;
 
             res[i] = cur;
             res[rowIndex - i] = cur;
