@@ -5,7 +5,7 @@ public:
         rest.push_back({n, n - 1});
         sort(begin(rest), end(rest));
 
-        auto f = [&](auto& rest) -> int {
+        auto f = [&]() -> int {
             int mx = 0;
 
             for (int i = 0; i + 1 < rest.size(); i++) {
@@ -13,8 +13,8 @@ public:
 
                 int np = rest[i + 1][0], nh = rest[i + 1][1];
 
-                int d = np - cp;
-                int ph = ch + abs(d);
+                int d = abs(np - cp);
+                int ph = ch + d;
 
                 if (ph > nh) {
                     ph = nh + (ph - nh) / 2;
@@ -28,10 +28,8 @@ public:
         };
 
 
-        f(rest);
-
+        f();
         reverse(begin(rest), end(rest));
-
-        return f(rest);
+        return f();
     }
 };
