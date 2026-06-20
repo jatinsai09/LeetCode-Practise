@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1049-last-stone-weight-ii) |
+| [1122-relative-sort-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1266-minimum-time-visiting-all-points) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0997-find-the-town-judge) |
 | [1048-longest-string-chain](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1048-longest-string-chain) |
+| [1122-relative-sort-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1122-relative-sort-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1345-jump-game-iv](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1345-jump-game-iv) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0912-sort-an-array) |
 | [1029-two-city-scheduling](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1029-two-city-scheduling) |
 | [1048-longest-string-chain](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1048-longest-string-chain) |
+| [1122-relative-sort-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1200-minimum-absolute-difference) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1340-jump-game-v](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1340-jump-game-v) |
@@ -1584,6 +1587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0912-sort-an-array) |
+| [1122-relative-sort-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1122-relative-sort-array) |
 ## Combinatorics
 |  |
 | ------- |
