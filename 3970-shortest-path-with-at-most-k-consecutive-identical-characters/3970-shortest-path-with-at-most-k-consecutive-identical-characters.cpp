@@ -20,8 +20,8 @@ public:
             pq.pop();
 
             ll d = it[0], u = it[1], rem = it[2];
-            if (d > dist[u][rem]) {
-                continue;
+            if (u == n - 1) {
+                return d;
             }
 
             for (auto &it: adj[u]) {
@@ -41,11 +41,6 @@ public:
 
         }
 
-        ll res = LLONG_MAX;
-        for (int rem = 0; rem < k; rem++) {
-            res = min(res, dist[n - 1][rem]);
-        }
-
-        return res;
+        return -1;
     }
 };
