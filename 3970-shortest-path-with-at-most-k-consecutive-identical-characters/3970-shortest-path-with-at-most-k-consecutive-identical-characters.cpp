@@ -26,19 +26,17 @@ public:
 
             for (auto &it: adj[u]) {
                 int v = it.first, w = it.second;
-                if (labels[u] == labels[v]) {
-                    if (rem && dist[v][rem - 1] > d + w) {
-                        dist[v][rem - 1] = d + w;
-                        pq.push({dist[v][rem - 1], v, rem - 1});
-                    } 
-                } else {
-                    if (dist[v][k - 1] > d + w) {
-                        dist[v][k - 1] = d + w;
-                        pq.push({dist[v][k - 1], v, k - 1});
-                    }
+                int next_rem = (labels[u] == labels[v] ? rem - 1 : k - 1);
+
+                if (next_rem < 0) {
+                    continue;
+                }
+            
+                if (dist[v][next_rem] > d + w) {
+                    dist[v][next_rem] = d + w;
+                    pq.push({dist[v][next_rem], v, next_rem});
                 }
             }
-
         }
 
         return -1;
