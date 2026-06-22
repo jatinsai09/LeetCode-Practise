@@ -473,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -742,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
@@ -1036,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Segment Tree
 |  |
