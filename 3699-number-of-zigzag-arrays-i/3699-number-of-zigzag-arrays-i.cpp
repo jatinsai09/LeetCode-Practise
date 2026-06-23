@@ -5,22 +5,20 @@ public:
 
         r -= l;
         int p;
-        vector<int> dp(r + 1, 1);
-        for (int k = 1; k < n; k++) {
+        vector<int> dp(r + 1, 1); // dp[i] = number of zig-zag arrays that end with i
+        for (int sz = 2; sz <= n; sz++) {
             p = 0;
-            if (k & 1) {
+            if (sz & 1) {
                 for (int i = 0; i <= r; i++) {
                     int old = dp[i];
                     dp[i] = p;
-                    p += old;
-                    p %= mod;
+                    p = (p + old) % mod;
                 }
             } else {
                 for (int i = r; i >= 0; i--) {
                     int old = dp[i];
                     dp[i] = p;
-                    p += old;
-                    p %= mod;
+                    p = (p + old) % mod;
                 }
             }
         }
