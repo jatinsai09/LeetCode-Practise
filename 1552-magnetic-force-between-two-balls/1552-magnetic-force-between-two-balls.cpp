@@ -19,10 +19,10 @@ public:
 
     bool can_place(vector<int> position, int m, int d) {
         int c = 1, prev = position[0];
-        for (int i = 0; i < position.size(); i++) {
-            if (position[i] - prev >= d) {
+        for (auto &p: position) {
+            if (p - prev >= d) {
                 c++;
-                prev = position[i];
+                prev = p;
             }
             if (c >= m) {
                 return true;
