@@ -4,8 +4,6 @@ public:
         sort(position.begin(), position.end());
 
         int l = 1, r = position.back() - position[0];
-
-        int res = 1;
         while (l <= r) {
             int mid = l + (r - l) / 2;
             if (can_place(position, m, mid)) {
