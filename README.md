@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3714-longest-balanced-substring-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -1057,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1649-create-sorted-array-through-instructions](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1649-create-sorted-array-through-instructions) |
 | [2080-range-frequency-queries](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2080-range-frequency-queries) |
 | [3719-longest-balanced-subarray-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 ## Sliding Window
 |  |
@@ -1108,6 +1111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1763-longest-nice-substring) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1386,6 +1390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3699-number-of-zigzag-arrays-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Counting
 |  |
@@ -1401,6 +1406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1657-determine-if-two-strings-are-close) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2833-furthest-point-from-origin](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2833-furthest-point-from-origin) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3889-mirror-frequency-distance](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3889-mirror-frequency-distance) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Binary Search Tree
@@ -1537,6 +1543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0912-sort-an-array) |
 | [1649-create-sorted-array-through-instructions](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1649-create-sorted-array-through-instructions) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Ordered Set
 |  |
 | ------- |
