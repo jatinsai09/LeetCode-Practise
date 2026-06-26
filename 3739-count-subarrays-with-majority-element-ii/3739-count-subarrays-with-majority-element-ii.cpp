@@ -4,8 +4,8 @@ public:
     long long countMajoritySubarrays(vector<int>& a, int target) {
         ll n = a.size(), res = 0;
 
-        vector<ll> f(2 * n + 5, 0), p(2 * n + 5, 0);
-        ll off = n + 2, s = 0;
+        vector<ll> f(2 * n + 2, 0), p(2 * n + 2, 0);
+        ll off = n + 1, s = 0;
 
         p[off] = f[off] = 1;
         for (int i = 0; i < n; i++) {
