@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3606-coupon-code-validator](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3606-coupon-code-validator) |
+| [3620-network-recovery-pathways](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3620-network-recovery-pathways) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3634-minimum-removals-to-balance-array) |
@@ -731,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3393-count-paths-with-the-given-xor-value](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3620-network-recovery-pathways](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3620-network-recovery-pathways) |
 | [3640-trionic-array-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3640-trionic-array-ii) |
 | [3660-jump-game-ix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3660-jump-game-ix) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -1316,6 +1318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3453-separate-squares-i) |
 | [3488-closest-equal-element-queries](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3620-network-recovery-pathways](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Memoization
@@ -1455,6 +1458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0207-course-schedule) |
 | [0851-loud-and-rich](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0851-loud-and-rich) |
+| [3620-network-recovery-pathways](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3620-network-recovery-pathways) |
 ## Union Find
 |  |
 | ------- |
@@ -1549,6 +1553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3620-network-recovery-pathways](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Binary Indexed Tree
 |  |
@@ -1615,6 +1620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3620-network-recovery-pathways](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Union-Find
 |  |
@@ -1726,6 +1732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Rolling Hash
 |  |
