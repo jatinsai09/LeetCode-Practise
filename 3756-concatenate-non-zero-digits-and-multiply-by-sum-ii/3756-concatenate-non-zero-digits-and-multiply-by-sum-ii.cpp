@@ -36,8 +36,8 @@ public:
 
             ll g = (pre[hi + 1] - (pre[lo] * m[c]) % mod + mod) % mod;
             ll s = ps[hi + 1] - ps[lo];
-            ll got = (g * (s % mod)) % mod;
-            
+            ll got = (g * s) % mod;
+
             res.push_back(got);
         }
         return res;
