@@ -39,7 +39,7 @@ public:
             ll c = hi - lo + 1;
 
             ll g = (pre[hi + 1] - (pre[lo] * m[c]) % mod + mod) % mod;
-            ll s = ps[hi + 1] - ps[lo];
+            ll s = (ps[hi + 1] - ps[lo] + mod) % mod;
             ll got = (g * s) % mod;
 
             res.push_back(got);
