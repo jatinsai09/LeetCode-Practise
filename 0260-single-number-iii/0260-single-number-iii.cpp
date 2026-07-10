@@ -1,22 +1,20 @@
 class Solution {
+#define ll long long
 public:
     vector<int> singleNumber(vector<int>& nums) {
-        int xr = 0;
+        ll xr = 0;
         for (auto& i : nums) {
             xr ^= i;
         }
 
-        int msk = 1;
-        while(!(xr & msk)){
-            msk <<= 1;
-        }
+        ll msk = xr ^ (xr & (xr - 1));
 
-        int a = 0;
+        ll a = 0;
         for (auto& i : nums) {
             if (i & msk) {
                 a ^= i;
             }
         }
-        return {a, a ^ xr};
+        return {(int)a, (int)(a ^ xr)};
     }
 };
