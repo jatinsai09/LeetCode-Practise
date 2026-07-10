@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0041-first-missing-positive) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0062-unique-paths) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0022-generate-parentheses) |
