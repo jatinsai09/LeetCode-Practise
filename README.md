@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0089-gray-code) |
 | [0171-excel-sheet-column-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0204-count-primes) |
@@ -1148,6 +1149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0137-single-number-ii) |
@@ -1270,6 +1272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0131-palindrome-partitioning) |
