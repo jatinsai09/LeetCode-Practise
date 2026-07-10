@@ -13,13 +13,15 @@ public:
 
         int num = 0;
 
-        for (int i = 0; i < s.length(); i++) {
+        for (int i = 0; i + 1 < s.length(); i++) {
             if (mp[s[i]] < mp[s[i + 1]]) {
                 num -= mp[s[i]];
             } else {
                 num += mp[s[i]];
             }
         }
+        num += mp[s.back()];
+        
         return num;
     }
 };
