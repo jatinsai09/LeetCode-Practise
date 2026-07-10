@@ -474,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0282-expression-add-operators) |
+| [0292-nim-game](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0319-bulb-switcher) |
 | [0368-largest-divisible-subset](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0396-rotate-function) |
@@ -1800,9 +1801,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0319-bulb-switcher) |
 ## Sweep Line
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0218-the-skyline-problem) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
