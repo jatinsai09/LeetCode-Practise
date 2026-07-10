@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2592-maximize-greatness-of-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2592-maximize-greatness-of-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2596-check-knight-tour-configuration) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2606-find-the-substring-with-maximum-cost) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2615-sum-of-distances](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2615-sum-of-distances) |
 | [2653-sliding-subarray-beauty](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2653-sliding-subarray-beauty) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2402-meeting-rooms-iii) |
 | [2540-minimum-common-value](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2540-minimum-common-value) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2606-find-the-substring-with-maximum-cost) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2615-sum-of-distances](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2615-sum-of-distances) |
 | [2653-sliding-subarray-beauty](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2653-sliding-subarray-beauty) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
