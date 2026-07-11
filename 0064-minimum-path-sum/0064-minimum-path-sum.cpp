@@ -12,10 +12,10 @@ public:
         for (int i = 1; i < n; i++) {
             cur[0] = grid[i][0] + prev[0];
             for (int j = 1; j < m; j++) {
-                int up = grid[i][j] + prev[j];
-                int left = grid[i][j] + cur[j - 1];
+                int up = prev[j];
+                int left = cur[j - 1];
 
-                cur[j] = min(left, up);
+                cur[j] = min(left, up) + grid[i][j];
             }
             prev = cur;
         }
