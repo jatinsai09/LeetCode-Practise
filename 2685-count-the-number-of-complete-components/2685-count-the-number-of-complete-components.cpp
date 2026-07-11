@@ -1,16 +1,17 @@
 class Solution {
 public:
-    void dfs(int i, const vector<vector<int>>& adj, vector<bool>& vis, int& a,
-             int& b) {
+    void dfs(int i, const vector<vector<int>>& adj, vector<bool>& vis,
+         int& nn, int& ne) {
+
         vis[i] = true;
 
-        a++;
-        b += adj[i].size();
-        for (auto& nbr : adj[i]) {
+        nn++;
+        ne += adj[i].size();
+        for (const auto& nbr : adj[i]) {
             if (vis[nbr]) {
                 continue;
             }
-            dfs(nbr, adj, vis, a, b);
+            dfs(nbr, adj, vis, nn, ne);
         }
     }
     int countCompleteComponents(int n, vector<vector<int>>& edges) {
