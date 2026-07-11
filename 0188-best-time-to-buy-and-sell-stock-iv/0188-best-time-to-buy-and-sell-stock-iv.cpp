@@ -12,15 +12,25 @@ public:
             return profit;
         }
 
-        vector<int> buy(k + 1, INT_MAX);
-        vector<int> sell(k + 1, 0);
+        int n = prices.size();
 
-        for (auto& price : prices) {
-            for (int i = 1; i <= k; i++) {
-                buy[i] = min(buy[i], price - sell[i - 1]);
-                sell[i] = max(sell[i], price - buy[i]);
+        vector<vector<int>> cur(2, vector<int>(k + 1, 0));
+        vector<vector<int>> next(2, vector<int>(k + 1, 0));
+
+        for (int i = n - 1; i >= 0; i--) { 
+            for (int buy = 1; buy >= 0; buy--) {
+                for (int cap = 1; cap <= k; cap++) {
+                    if (buy) {
+                        cur[buy][cap] = max(-prices[i] + next[1 - buy][cap],
+                                            next[buy][cap]);
+                    } else {
+                        cur[buy][cap] = max(prices[i] + next[1 - buy][cap - 1],
+                                            next[buy][cap]);
+                    }
+                }
             }
+            next = cur;
         }
-        return sell[k];
+        return next[1][k];
     }
 };
