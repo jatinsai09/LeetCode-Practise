@@ -6,7 +6,7 @@ public:
         int res = 1;
 
         for (int b = 0; b < m; b++) {
-            for (int a = 0; a < b; a++) {
+            for (int a = b - 1; a >= 0; a--) {
                 if (dp[a] + 1 > dp[b]) {
                     bool yes = true;
                     for (int i = 0; i < n && yes; i++) {
