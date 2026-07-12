@@ -9,7 +9,7 @@ public:
             for (int a = 0; a < b; a++) {
                 if (dp[a] + 1 > dp[b]) {
                     bool yes = true;
-                    for (int i = 0; i < n; i++) {
+                    for (int i = 0; i < n && yes; i++) {
                         yes &= (abs(grid[i][b] - grid[i][a]) <= limit);
                     }
 
