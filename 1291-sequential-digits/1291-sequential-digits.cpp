@@ -14,6 +14,8 @@ public:
 
             if (cur >= low && cur <= high) {
                 res.push_back(cur);
+            } else if (cur > high) {
+                continue;
             }
 
             int lastDigit = cur % 10;
