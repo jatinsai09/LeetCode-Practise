@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0096-unique-binary-search-trees) |
 | [0171-excel-sheet-column-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0223-rectangle-area) |
