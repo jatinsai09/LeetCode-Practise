@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0368-largest-divisible-subset) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0396-rotate-function](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0407-trapping-rain-water-ii) |
 | [0413-arithmetic-slices](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0413-arithmetic-slices) |
@@ -1596,6 +1597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0355-design-twitter) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0703-kth-largest-element-in-a-stream) |
