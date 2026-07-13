@@ -1,9 +1,10 @@
 class Solution {
 public:
-    inline static vector<int> valid;
-    inline static bool init = []() {
+    vector<int> sequentialDigits(int low, int high) {
+        vector<int> res;
         queue<int> q;
-        for (int i = 1; i < 9; i++) {
+
+        for (int i = 1; i <= 9; i++) {
             q.push(i);
         }
 
@@ -11,22 +12,13 @@ public:
             int cur = q.front();
             q.pop();
 
-            valid.push_back(cur);
-
-            int ld = cur % 10;
-            if (ld < 9) {
-                q.push(cur * 10 + (ld + 1));
+            if (cur >= low && cur <= high) {
+                res.push_back(cur);
             }
-        }
 
-        return 1;
-    }();
-    vector<int> sequentialDigits(int low, int high) {
-        vector<int> res;
-
-        for (auto &i: valid) {
-            if (i >= low && i <= high) {
-                res.push_back(i);
+            int lastDigit = cur % 10;
+            if (lastDigit < 9) {
+                q.push(cur * 10 + lastDigit + 1);
             }
         }
 
