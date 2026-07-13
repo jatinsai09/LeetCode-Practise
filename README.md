@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0874-walking-robot-simulation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0875-koko-eating-bananas) |
+| [0909-snakes-and-ladders](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0909-snakes-and-ladders) |
 | [0912-sort-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0930-binary-subarrays-with-sum) |
@@ -1226,6 +1227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0695-max-area-of-island) |
 | [0840-magic-squares-in-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0840-magic-squares-in-grid) |
+| [0909-snakes-and-ladders](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0994-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -1403,6 +1405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0841-keys-and-rooms) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0909-snakes-and-ladders](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0909-snakes-and-ladders) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [0993-cousins-in-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0994-rotting-oranges) |
