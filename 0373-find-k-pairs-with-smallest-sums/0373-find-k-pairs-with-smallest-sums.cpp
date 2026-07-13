@@ -1,11 +1,10 @@
 class Solution {
+#define pii pair<int, int>
 public:
     vector<vector<int>> kSmallestPairs(vector<int>& nums1, vector<int>& nums2,
                                        int k) {
         vector<vector<int>> res;
-        priority_queue<pair<int, int>, vector<pair<int, int>>,
-                       greater<pair<int, int>>>
-            pq;
+        priority_queue<pii, vector<pii>, greater<>> pq;
 
         for (const auto &i : nums1) {
             pq.push({i + nums2[0], 0});
