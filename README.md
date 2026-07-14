@@ -746,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1143-longest-common-subsequence) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1340-jump-game-v](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1340-jump-game-v) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -1687,6 +1688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0851-loud-and-rich](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0851-loud-and-rich) |
 | [0997-find-the-town-judge](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0997-find-the-town-judge) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1584-min-cost-to-connect-all-points](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1791-find-center-of-star-graph) |
@@ -1811,6 +1813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3620-network-recovery-pathways) |
