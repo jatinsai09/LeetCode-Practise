@@ -16,7 +16,7 @@ public:
         cin.tie(0);
         cout.tie(0);
 
-        priority_queue<pil, vector<pil>, greater<pil>> pq;
+        priority_queue<pil, vector<pil>, greater<>> pq;
 
         for (auto& l : lists) {
             if (l) {
