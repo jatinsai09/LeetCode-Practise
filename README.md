@@ -533,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3433-count-mentions-per-user) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -1125,6 +1126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Segment Tree
 |  |
 | ------- |
