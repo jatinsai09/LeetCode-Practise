@@ -5,15 +5,13 @@ public:
             return s;
         }
 
-        int ri = 0, dr = 1;
+        int ri = 0, dr = -1;
         vector<string> rows(numRows);
 
         for (auto& c : s) {
             rows[ri] += c;
-            if (ri == 0) {
-                dr = 1;
-            } else if (ri == numRows - 1) {
-                dr = -1;
+            if (ri == 0 || ri == numRows - 1) {
+                dr *= -1;
             }
             ri += dr;
         }
