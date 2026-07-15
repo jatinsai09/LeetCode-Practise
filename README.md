@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0189-rotate-array) |
@@ -885,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0232-implement-queue-using-stacks) |
