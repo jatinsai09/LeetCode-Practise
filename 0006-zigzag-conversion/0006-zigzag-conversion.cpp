@@ -8,7 +8,7 @@ public:
         int ri = 0, dr = -1;
         vector<string> rows(numRows);
 
-        for (auto& c : s) {
+        for (const auto& c : s) {
             rows[ri] += c;
             if (ri == 0 || ri == numRows - 1) {
                 dr *= -1;
