@@ -5,17 +5,17 @@ public:
             return s;
         }
 
-        int idx = 0, d = 1;
+        int ri = 0, dr = 1;
         vector<string> rows(numRows);
 
         for (auto& c : s) {
-            rows[idx] += c;
-            if (idx == 0) {
-                d = 1;
-            } else if (idx == numRows - 1) {
-                d = -1;
+            rows[ri] += c;
+            if (ri == 0) {
+                dr = 1;
+            } else if (ri == numRows - 1) {
+                dr = -1;
             }
-            idx += d;
+            ri += dr;
         }
 
         string res = "";
