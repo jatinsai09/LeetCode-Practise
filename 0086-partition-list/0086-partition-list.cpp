@@ -14,20 +14,20 @@ public:
         ListNode* d1 = new ListNode(-1);
         ListNode* d2 = new ListNode(-1);
 
-        ListNode *a = d1, *b = d2, *temp = head;
-        while (temp) {
-            if (temp->val < x) {
-                a->next = new ListNode(temp->val);
+        ListNode *a = d1, *b = d2, *cur = head;
+        while (cur) {
+            if (cur->val < x) {
+                a->next = new ListNode(cur->val);
                 a = a->next;
             } else {
-                b->next = new ListNode(temp->val);
+                b->next = new ListNode(cur->val);
                 b = b->next;
             }
 
-            temp = temp->next;
+            cur = cur->next;
         }
         a->next = d2->next;
-        
+
         return d1->next;
     }
 };
