@@ -820,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0237-delete-node-in-a-linked-list) |
@@ -849,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -893,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -1126,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0509-fibonacci-number) |
