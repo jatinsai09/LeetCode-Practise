@@ -5,7 +5,7 @@ public:
 
         while (n) {
             res++;
-            n = n & (n - 1);
+            n = n & (n - 1); // sets the righmost set bit to zero
         }
 
         return res;
