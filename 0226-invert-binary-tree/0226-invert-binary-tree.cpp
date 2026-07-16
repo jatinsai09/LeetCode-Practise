@@ -23,14 +23,9 @@ public:
         
         queue<TreeNode*> q;
         q.push(root);
-
         while (!q.empty()) {
             TreeNode* top = q.front();
             q.pop();
-
-            TreeNode* temp = top->left;
-            top->left = top->right;
-            top->right = temp;
 
             if (top->left) {
                 q.push(top->left);
@@ -38,6 +33,10 @@ public:
             if (top->right) {
                 q.push(top->right);
             }
+
+            TreeNode* temp = top->left;
+            top->left = top->right;
+            top->right = temp;
         }
         return root;
     }
