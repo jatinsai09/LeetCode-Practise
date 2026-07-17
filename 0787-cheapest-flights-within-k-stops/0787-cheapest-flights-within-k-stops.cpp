@@ -11,26 +11,32 @@ public:
             adj[it[0]].emplace_back(it[1], it[2]);
         }
 
-        queue<tuple<int, int, int>> q;
+        queue<pair<int, int>> q;
         vector<int> dist(n, 1e7);
+        int stops = 0;
 
-        q.push({0, src, 0});
+        q.push({0, src});
         dist[src] = 0;
         // E = flights.size();
         while (!q.empty()) {
-            auto [stops, node, cost] = q.front();
-            q.pop();
+            int sz = q.size();
 
-            if (stops > k) {
-                continue;
-            }
+            while (sz--) {
+                auto [cost, node] = q.front();
+                q.pop();
 
-            for (auto& [adjNode, edW] : adj[node]) {
-                if (cost + edW < dist[adjNode] && stops <= k) {
-                    dist[adjNode] = cost + edW;
-                    q.push({stops + 1, adjNode, dist[adjNode]});
+                for (auto& [adjNode, edW] : adj[node]) {
+                    if (cost + edW < dist[adjNode]) {
+                        dist[adjNode] = cost + edW;
+                        q.push({dist[adjNode], adjNode});
+                    }
                 }
             }
+
+            if (stops == k) {
+                break;
+            }
+            stops++;
         }
 
         if (dist[dst] == 1e7) {
