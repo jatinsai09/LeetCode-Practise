@@ -765,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0788-rotated-digits) |
 | [0790-domino-and-tromino-tiling](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0790-domino-and-tromino-tiling) |
 | [0799-champagne-tower](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0799-champagne-tower) |
@@ -1066,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0765-couples-holding-hands](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0765-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0841-keys-and-rooms) |
 | [0851-loud-and-rich](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0851-loud-and-rich) |
@@ -1501,6 +1503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0765-couples-holding-hands](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0765-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0841-keys-and-rooms) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0847-shortest-path-visiting-all-nodes) |
@@ -1699,6 +1702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0912-sort-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1046-last-stone-weight) |
@@ -1775,6 +1779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0743-network-delay-time) |
 | [0765-couples-holding-hands](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0765-couples-holding-hands) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0841-keys-and-rooms) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0847-shortest-path-visiting-all-nodes) |
@@ -1911,6 +1916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3286-find-a-safe-walk-through-a-grid) |
