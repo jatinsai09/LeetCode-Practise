@@ -25,7 +25,7 @@ public:
                 auto [cost, node] = q.front();
                 q.pop();
 
-                for (auto& [adjNode, edW] : adj[node]) {
+                for (const auto& [adjNode, edW] : adj[node]) {
                     if (cost + edW < dist[adjNode]) {
                         dist[adjNode] = cost + edW;
                         q.push({dist[adjNode], adjNode});
