@@ -29,8 +29,8 @@ public:
         }
 
         ListNode* rhead = reverseLL(head);
+        
         ListNode* prev = rhead;
-
         ListNode* cur = prev->next;
         prev->next = NULL;
         while (cur) {
