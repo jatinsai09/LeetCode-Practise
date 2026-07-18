@@ -1,43 +1,37 @@
 class Solution {
 public:
     vector<int> eventualSafeNodes(vector<vector<int>>& adj) {
-        ios_base::sync_with_stdio(0);
-        cin.tie(0);
-        cout.tie(0);
+        int n = adj.size();
 
-        int v = adj.size();
-        vector<vector<int>> adjRev(v);
-        int indegree[v];
-        memset(indegree, 0, sizeof(indegree));
-        for (int i = 0; i < v; i++) {
-            // i->it;
-            // it->i;
-            for (const auto& it : adj[i]) {
-                adjRev[it].push_back(i);
-                indegree[i]++;
+        vector<int> vis(n + 1);
+
+        vector<int> res;
+        function<bool(int)> dfs = [&](int u) -> bool {
+            if (vis[u] == 1) {
+                return false;
             }
-        }
 
-        queue<int> q;
-        for (int i = 0; i < v; i++) {
-            if (indegree[i] == 0) {
-                q.push(i);
+            if (vis[u] == 2) {
+                return true;
             }
-        }
-        vector<int> safe;
-        while (!q.empty()) {
-            int node = q.front();
-            q.pop();
 
-            safe.push_back(node);
-            for (const auto& it : adjRev[node]) {
-                if (--indegree[it] == 0) {
-                    q.push(it);
+            vis[u] = 1;
+            for (auto &v: adj[u]) {
+                if (!dfs(v)) {
+                    return false;
                 }
             }
+            vis[u] = 2;
+
+            return true;
+        };
+
+        for (int i = 0; i < n; i++) {
+            if (dfs(i)) {
+                res.push_back(i);
+            }
         }
 
-        sort(begin(safe), end(safe));
-        return safe;
+        return res;
     }
 };
