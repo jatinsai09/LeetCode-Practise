@@ -7,11 +7,11 @@ public:
         return gcd(b, a % b);
     }
     int findGCD(vector<int>& nums) {
-        int n = nums.size(), mn = nums[0], mx = nums[0];
+        int mn = nums[0], mx = nums[0];
 
-        for (int i = 1; i < n; i++) {
-            mn = min(nums[i], mn);
-            mx = max(nums[i], mx);
+        for (const auto& i: nums) {
+            mn = min(i, mn);
+            mx = max(i, mx);
         }
 
         return gcd(mx, mn);
