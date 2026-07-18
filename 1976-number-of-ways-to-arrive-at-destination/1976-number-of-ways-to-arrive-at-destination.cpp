@@ -19,22 +19,26 @@ public:
 
         dist[0] = 0;
         ways[0] = 1;
-        //{dist,vertex}
+        //{time, vertex}
         pq.push({0, 0});
         // E logV
         while (!pq.empty()) {
-            auto [dis, node] = pq.top();
+            auto [time, node] = pq.top();
             pq.pop();
+
+            if (dist[node] < time) {
+                continue;
+            }
 
             for (const auto& [adjNode, edW] : adj[node]) {
                 // This is the first time I am coming
                 //  with this short distance
-                if (dis + edW < dist[adjNode]) {
-                    dist[adjNode] = dis + edW;
-                    pq.push({dis + edW, adjNode});
+                if (time + edW < dist[adjNode]) {
+                    dist[adjNode] = time + edW;
+                    pq.push({time + edW, adjNode});
                     
                     ways[adjNode] = ways[node];
-                } else if (dis + edW == dist[adjNode]) {
+                } else if (time + edW == dist[adjNode]) {
                     ways[adjNode] = (ways[adjNode] + ways[node]) % mod;
                 }
             }
