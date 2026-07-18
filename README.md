@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0721-accounts-merge](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0739-daily-temperatures) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0721-accounts-merge) |
 | [0756-pyramid-transition-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0756-pyramid-transition-matrix) |
 | [0763-partition-labels](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0763-partition-labels) |
 | [0840-magic-squares-in-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0840-magic-squares-in-grid) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0455-assign-cookies) |
 | [0472-concatenated-words](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0472-concatenated-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0721-accounts-merge](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0761-special-binary-string) |
 | [0853-car-fleet](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0853-car-fleet) |
 | [0912-sort-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0912-sort-an-array) |
@@ -644,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0657-robot-return-to-origin) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0721-accounts-merge](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0721-accounts-merge) |
 | [0756-pyramid-transition-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0761-special-binary-string) |
 | [0763-partition-labels](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0763-partition-labels) |
@@ -1064,6 +1068,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0743-network-delay-time) |
 | [0765-couples-holding-hands](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0765-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0778-swim-in-rising-water) |
@@ -1500,6 +1505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0743-network-delay-time) |
 | [0765-couples-holding-hands](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0765-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0778-swim-in-rising-water) |
@@ -1810,6 +1816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0721-accounts-merge) |
 | [0765-couples-holding-hands](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0765-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0778-swim-in-rising-water) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1319-number-of-operations-to-make-network-connected) |
