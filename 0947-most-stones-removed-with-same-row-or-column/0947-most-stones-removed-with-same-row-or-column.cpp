@@ -47,7 +47,7 @@ public:
 
         DSU dsu(mr + mc + 2);
         unordered_map<int, int> mp;
-        for(auto& it : stones) {
+        for(const auto& it : stones) {
             dsu.unite(it[0], it[1] + mr + 1);
             mp[it[0]] = 1;
             mp[it[1] + mr + 1] = 1;
