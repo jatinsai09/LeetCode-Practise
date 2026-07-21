@@ -15,14 +15,13 @@ public:
                 return;
             }
 
-            f(i + 1);
-
             v.push_back(candidates[i]);
             target -= candidates[i];
             f(i);
             
             target += candidates[i];
             v.pop_back();
+            f(i + 1);
         };
 
         f(0);
