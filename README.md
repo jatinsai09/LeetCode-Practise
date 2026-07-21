@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0407-trapping-rain-water-ii) |
 | [0413-arithmetic-slices](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0413-arithmetic-slices) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0417-pacific-atlantic-water-flow) |
+| [0427-construct-quad-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0455-assign-cookies) |
@@ -1017,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0337-house-robber-iii) |
+| [0427-construct-quad-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0427-construct-quad-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0437-path-sum-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -1273,6 +1275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0347-top-k-frequent-elements) |
+| [0427-construct-quad-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0427-construct-quad-tree) |
 | [0493-reverse-pairs](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0493-reverse-pairs) |
 | [0761-special-binary-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0912-sort-an-array) |
@@ -1340,6 +1343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0289-game-of-life) |
 | [0407-trapping-rain-water-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0417-pacific-atlantic-water-flow) |
+| [0427-construct-quad-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0695-max-area-of-island) |
