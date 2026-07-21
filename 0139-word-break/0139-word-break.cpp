@@ -12,10 +12,13 @@ public:
 
         for (int i = n - 1; i >= 0; i--) {
             string temp = "";
-            for (int j = i; j < n && !dp[i]; j++) {
+            for (int j = i; j < n; j++) {
                 temp += s[j];
-                if (st.count(temp)) {
-                    dp[i] = dp[j + 1];
+                if (dp[j + 1]) {
+                    dp[i] = (st.count(temp) > 0);
+                }
+                if (dp[i]) {
+                    break;
                 }
             }
         }
