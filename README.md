@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0149-max-points-on-a-line) |
 | [0187-repeated-dna-sequences](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0217-contains-duplicate) |
@@ -850,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0237-delete-node-in-a-linked-list) |
@@ -965,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0155-min-stack) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0225-implement-stack-using-queues) |
@@ -1165,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
