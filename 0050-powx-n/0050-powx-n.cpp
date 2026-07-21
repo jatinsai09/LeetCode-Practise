@@ -5,17 +5,17 @@ public:
 
         long long p = n;
         if (p < 0) {
-            p = -1 * p;
+            p *= -1;
         }
 
         while (p) {
-            if (p % 2) {
+            if (p & 1) {
                 res *= x;
-                p--;
-            } else {
-                x *= x;
-                p >>= 1;
             }
+            
+            x *= x;
+            p >>= 1;
+            
         }
 
         if (n < 0) {
