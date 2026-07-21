@@ -47,8 +47,8 @@ public:
         Node *resNode = mp[key];
         int res = resNode->val;
 
-        mp.erase(key);
         deleteNode(resNode);
+        mp.erase(key);
 
         addNode(resNode);
         mp[key] = head->next;
