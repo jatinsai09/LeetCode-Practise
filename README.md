@@ -639,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0139-word-break) |
@@ -889,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0148-sort-list) |
