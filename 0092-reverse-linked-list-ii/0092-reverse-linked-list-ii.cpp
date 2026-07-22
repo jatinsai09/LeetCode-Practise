@@ -24,10 +24,10 @@ public:
 
     ListNode* get(ListNode* temp, int n) {
         if (n == 0) {
-            return NULL;
+            return temp;
         }
 
-        int c = 1;
+        int c = 0;
         while (c < n) {
             temp = temp->next;
             c++;
@@ -39,27 +39,20 @@ public:
             return head;
         }
 
-        ListNode* d1 = get(head, left - 1);
+        ListNode* dummy = new ListNode(-1, head);
 
-        ListNode* l;
-        if (d1 != NULL) {
-            l = d1->next;
-        } else {
-            l = head;
-        }
-        ListNode* r = get(head, right);
+        ListNode* d1 = get(dummy, left - 1);
+        ListNode* l = d1->next;
 
+        ListNode* r = get(dummy, right);
         ListNode* d2 = r->next;
         r->next = NULL;
 
         ListNode* th = reverse(l);
-        l->next = d2;
-        if (d1) {
-            d1->next = r;
-        } else {
-            head = r;
-        }
 
-        return head;
+        l->next = d2;
+        d1->next = r;
+        
+        return dummy->next;;
     }
 };
