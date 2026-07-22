@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0139-word-break) |
+| [0141-linked-list-cycle](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0149-max-points-on-a-line) |
@@ -861,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0141-linked-list-cycle](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0146-lru-cache) |
@@ -897,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0148-sort-list) |
