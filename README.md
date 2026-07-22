@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0218-the-skyline-problem) |
+| [0219-contains-duplicate-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0238-product-of-array-except-self) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0149-max-points-on-a-line) |
 | [0187-repeated-dna-sequences](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0290-word-pattern) |
@@ -1281,6 +1283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0424-longest-repeating-character-replacement) |
