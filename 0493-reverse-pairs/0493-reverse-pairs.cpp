@@ -1,6 +1,7 @@
 class Solution {
 private:
-    void merge(vector<int>& nums, int l, int m, int r, int& rpc) {
+    int merge(vector<int>& nums, int l, int m, int r) {
+        int rpc = 0;
         for (int i = l, j = m + 1; i <= m; i++) {
             while (j <= r && nums[i] > (long long)nums[j] * 2) {
                 j++;
@@ -24,24 +25,26 @@ private:
         for (int i = l; i <= r; i++) {
             nums[i] = t[i - l];
         }
+
+        return rpc;
     }
 
-    void mergeSort(vector<int>& nums, int l, int r, int& rpc) {
+    int mergeSort(vector<int>& nums, int l, int r) {
         if (l >= r) {
-            return;
+            return 0;
         }
 
-        int m = (l + r) >> 1;
+        int m = (l + r) >> 1, res = 0;
 
-        mergeSort(nums, l, m, rpc);
-        mergeSort(nums, m + 1, r, rpc);
+        res += mergeSort(nums, l, m);
+        res += mergeSort(nums, m + 1, r);
 
-        merge(nums, l, m, r, rpc);
+        res += merge(nums, l, m, r);
+
+        return res;
     }
 public:
     int reversePairs(vector<int>& nums) {
-        int rpc = 0;
-        mergeSort(nums, 0, nums.size() - 1, rpc);
-        return rpc;
+        return mergeSort(nums, 0, nums.size() - 1);
     }
 };
