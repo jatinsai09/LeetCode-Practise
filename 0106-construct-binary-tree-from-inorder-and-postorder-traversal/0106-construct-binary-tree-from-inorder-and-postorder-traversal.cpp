@@ -20,20 +20,20 @@ public:
             inMap[inorder[i]] = i;
         }
 
-        function<TreeNode*(int, int, int, int)> build = [&](int inStart, int inEnd,
-                                                            int postStart, 
-                                                            int postEnd) -> TreeNode* {
+        function<TreeNode*(int, int, int, int)> build = [&](int postStart, int postEnd,
+                                                            int inStart, 
+                                                            int inEnd) -> TreeNode* {
             if (inStart > inEnd) {
                 return NULL;
             }
 
             TreeNode* root = new TreeNode(postorder[postEnd]);
             
-            int inRoot = inMap[postorder[postEnd]];
+            int inRoot = inMap[root->val];
             int numsLeft = inRoot - inStart;
 
-            root->left = build(inStart, inRoot - 1, postStart, postStart + numsLeft - 1);
-            root->right = build(inRoot + 1, inEnd, postStart + numsLeft, postEnd - 1);
+            root->left = build(postStart, postStart + numsLeft - 1, inStart, inRoot - 1);
+            root->right = build(postStart + numsLeft, postEnd - 1, inRoot + 1, inEnd);
 
             return root;
         };
