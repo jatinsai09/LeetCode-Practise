@@ -10,8 +10,8 @@ public:
                 l = prev[s[r]] + 1;
             }
 
-            prev[s[r]] = r;
             maxlen = max(maxlen, r - l + 1);
+            prev[s[r]] = r;
             r++;
         }
         return maxlen;
