@@ -22,8 +22,8 @@ public:
         return s;
     }
 
-    TreeNode*decode(string &data, int &i) {
-        if (i < data.size() && data[i] == '(') {
+    TreeNode* decode(string &data, int &i) {
+        if (data[i] == '(') {
             i++;
         }
         if(i >= data.size() || data[i] == ')') {
