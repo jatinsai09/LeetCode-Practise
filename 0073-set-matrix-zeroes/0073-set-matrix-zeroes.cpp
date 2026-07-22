@@ -2,7 +2,7 @@ class Solution {
 public:
     void setZeroes(vector<vector<int>>& mat) {
         int n = mat.size(), m = mat[0].size();
-        bool flagc = false, flagr = false;
+        bool flagc = false;
 
         {
             for (int i = 0; i < n; i++) {
@@ -10,13 +10,7 @@ public:
                     flagc = true;
                 }
             }
-            for (int j = 0; j < m; j++) {
-                if (mat[0][j] == 0) {
-                    flagr = true;
-                }
-            }
-
-            for (int i = 1; i < n; i++) {
+            for (int i = 0; i < n; i++) {
                 for (int j = 1; j < m; j++) {
                     if (mat[i][j] == 0) {
                         mat[0][j] = mat[i][0] = 0;
@@ -33,14 +27,14 @@ public:
                     }
                 }
             }
+            if (!mat[0][0]) {
+                for (int j = 0; j < m; j++) {
+                    mat[0][j] = 0;
+                }
+            }
             if (flagc) {
                 for (int i = 0; i < n; i++) {
                     mat[i][0] = 0;
-                }
-            }
-            if (flagr) {
-                for (int j = 0; j < m; j++) {
-                    mat[0][j] = 0;
                 }
             }
         }
