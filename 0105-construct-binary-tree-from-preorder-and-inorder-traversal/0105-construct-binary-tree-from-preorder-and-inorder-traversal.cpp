@@ -20,7 +20,7 @@ public:
         }
 
         function<TreeNode*(int, int, int, int)> f = [&](int preStart, int preEnd, int inStart, int inEnd) -> TreeNode* {
-            if (preStart > preEnd || inStart > inEnd) {
+            if (inStart > inEnd) {
                 return NULL;
             }
 
