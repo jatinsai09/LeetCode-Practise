@@ -654,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0409-longest-palindrome) |
@@ -778,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0435-non-overlapping-intervals) |
@@ -910,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0295-find-median-from-data-stream) |
+| [0392-is-subsequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0647-palindromic-substrings) |
