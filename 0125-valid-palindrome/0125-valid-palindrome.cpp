@@ -6,7 +6,7 @@ public:
         cout.tie(0);
 
         int start = 0, end = s.size() - 1;
-        while (start <= end) {
+        while (start < end) {
             if (!isalnum(s[start])) {
                 start++;
                 continue;
