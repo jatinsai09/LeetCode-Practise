@@ -658,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0449-serialize-and-deserialize-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0459-repeated-substring-pattern) |
 | [0472-concatenated-words](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0472-concatenated-words) |
@@ -990,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0307-range-sum-query-mutable) |
 | [0355-design-twitter](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0355-design-twitter) |
+| [0449-serialize-and-deserialize-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0449-serialize-and-deserialize-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0901-online-stock-span) |
@@ -1036,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0427-construct-quad-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0437-path-sum-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0543-diameter-of-binary-tree) |
@@ -1090,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0417-pacific-atlantic-water-flow) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0472-concatenated-words) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -1166,6 +1170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0543-diameter-of-binary-tree) |
@@ -1549,6 +1554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0417-pacific-atlantic-water-flow) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0433-minimum-genetic-mutation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0433-minimum-genetic-mutation) |
+| [0449-serialize-and-deserialize-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0542-01-matrix) |
@@ -1659,6 +1665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0449-serialize-and-deserialize-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
