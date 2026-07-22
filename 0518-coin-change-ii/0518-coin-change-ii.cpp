@@ -2,7 +2,7 @@ class Solution {
 #define ll unsigned long long int    
 public:
     int change(int amount, vector<int>& coins) {
-        sort(begin(coins), end(coins));
+        //sort(begin(coins), end(coins));
         ll n = coins.size();
         vector<ll> dp(amount + 1, 0);
         dp[0] = 1;
