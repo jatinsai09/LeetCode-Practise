@@ -15,13 +15,11 @@ public:
             return head;
         }
 
-        ListNode* dummy = new ListNode(-1);
-        dummy->next = head;
+        ListNode* dummy = new ListNode(-1, head);
         ListNode* prevGroupEnd = dummy;
 
         while (1) {
             ListNode* kth = prevGroupEnd;
-
             for (int i = 1; i <= k && kth; i++) {
                 kth = kth->next;
             }
@@ -29,23 +27,21 @@ public:
                 break;
             }
 
-            ListNode* cur = prevGroupEnd->next;
-            ListNode* start = cur;
+            ListNode *cur = prevGroupEnd->next, *start = cur;
 
-            ListNode* nextGroupStart = kth->next;
-            ListNode* prev = nextGroupStart;
+            ListNode *nextGroupStart = kth->next, *prev = nextGroupStart;
 
             while (cur != nextGroupStart) {
                 ListNode* nextNode = cur->next;
 
                 cur->next = prev;
+
                 prev = cur;
                 cur = nextNode;
             }
 
             prevGroupEnd->next = kth;
             prevGroupEnd = start;
-            cur = nextGroupStart;
         }
 
         return dummy->next;
