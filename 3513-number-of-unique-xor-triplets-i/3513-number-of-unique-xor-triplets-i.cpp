@@ -13,6 +13,6 @@ public:
             p++;
         }
 
-        return pow(2, p);
+        return 1 << p;
     }
 };
