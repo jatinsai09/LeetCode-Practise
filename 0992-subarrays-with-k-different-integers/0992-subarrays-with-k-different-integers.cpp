@@ -9,7 +9,7 @@ public:
     }
     int atMostK(vector<int>& a, int k) {
         int n = a.size(), res = 0, req = k;
-        unordered_map<int, int> cnt;
+        vector<int> cnt(n + 1);
 
         for (int l = 0, r = 0; r < n; r++) {
             req -= (++cnt[a[r]] == 1);
