@@ -688,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0459-repeated-substring-pattern) |
 | [0472-concatenated-words](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0472-concatenated-words) |
 | [0567-permutation-in-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0657-robot-return-to-origin) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -813,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0688-knight-probability-in-chessboard](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0688-knight-probability-in-chessboard) |
