@@ -47,11 +47,10 @@ public:
         }
 
         while (!st.empty()) {
-            int nse = n;
-            int e = arr[st.top()];
+            int e = arr[st.top()], nse = n;
             st.pop();
 
-            int pse = st.empty() ? -1 : st.top();
+            int pse = (st.empty() ? -1 : st.top());
 
             maxi = max(maxi, e * (nse - pse - 1));
         }
