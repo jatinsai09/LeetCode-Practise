@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0472-concatenated-words) |
+| [0486-predict-the-winner](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0518-coin-change-ii) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0509-fibonacci-number) |
 | [0738-monotone-increasing-digits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0738-monotone-increasing-digits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -798,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0472-concatenated-words) |
+| [0486-predict-the-winner](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0542-01-matrix) |
@@ -1235,6 +1238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2487-remove-nodes-from-linked-list) |
@@ -2086,6 +2090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0486-predict-the-winner) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Interactive
 |  |
