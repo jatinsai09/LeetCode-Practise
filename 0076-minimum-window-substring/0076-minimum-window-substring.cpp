@@ -10,9 +10,7 @@ public:
 
         int ms = INT_MAX, st = -1, c = 0;
         for (int l = 0, r = 0; r < n; r++) {
-            if (--f[s[r]] >= 0) {
-                c++;
-            }
+            c += (--f[s[r]] >= 0);
 
             while (c == m) {
                 if (r - l + 1 < ms) {
