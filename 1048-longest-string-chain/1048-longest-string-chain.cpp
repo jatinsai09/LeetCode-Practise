@@ -6,21 +6,18 @@ public:
         }
 
         int f = 0, s = 0;
-        while (f < s1.size()) {
-            if (s < s2.size() && s1[f] == s2[s]) {
-                ++f;
+        while (f < s1.size() && s < s2.size()) {
+            if (s1[f] == s2[s]) {
                 ++s;
-            } else {
-                ++f;
             }
+            ++f;
         }
-        if (f == s1.size() && s == s2.size()) {
-            return true;
-        }
-        return false;
+        return (s == s2.size());
     }
 
-    static bool compare(const string &s1, const string &s2) { return s1.length() < s2.length(); }
+    static bool compare(const string &s1, const string &s2) {
+         return s1.length() < s2.length(); 
+    }
 
     int longestStrChain(vector<string>& words) {
         ios_base::sync_with_stdio(0);
