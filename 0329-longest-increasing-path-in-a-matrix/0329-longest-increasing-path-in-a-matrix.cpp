@@ -11,7 +11,7 @@ public:
             }
 
             int res = 1;
-            for (auto& [di, dj] : dirs) {
+            for (const auto& [di, dj] : dirs) {
                 int ni = i + di, nj = j + dj;
                 if (ni < 0 || nj < 0 || ni >= n || nj >= m ||
                     mat[ni][nj] <= mat[i][j]) {
@@ -27,8 +27,10 @@ public:
         int res = 0;
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
-                int len = dfs(i, j);
-                res = max(res, len);
+                if (dp[i][j] > 0) {
+                    continue;
+                }
+                res = max(res, dfs(i, j));
             }
         }
 
