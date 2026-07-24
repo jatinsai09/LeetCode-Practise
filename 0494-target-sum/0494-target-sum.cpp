@@ -10,7 +10,7 @@ public:
             return false;
         }
 
-        int req = (ts + target) / 2;
+        int req = (ts - target) / 2;
         vector<int> dp(req + 1);
 
         dp[0] = 1;
