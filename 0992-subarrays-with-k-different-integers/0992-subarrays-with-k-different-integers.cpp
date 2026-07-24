@@ -8,18 +8,14 @@ public:
         return atMostK(nums, k) - atMostK(nums, k - 1);
     }
     int atMostK(vector<int>& a, int k) {
-        int n = a.size(), res = 0;
+        int n = a.size(), res = 0, req = k;
         unordered_map<int, int> cnt;
 
         for (int l = 0, r = 0; r < n; r++) {
-            if (++cnt[a[r]] == 1) {
-                k--;
-            }
+            req -= (++cnt[a[r]] == 1);
 
-            while (k < 0) {
-                if (--cnt[a[l++]] == 0) {
-                    k++;
-                }
+            while (req < 0) {
+                req += (--cnt[a[l++]] == 0);
             }
             res += (r - l + 1);
         }
