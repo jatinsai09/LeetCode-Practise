@@ -1,9 +1,12 @@
 # Write your MySQL query statement below
-DELETE FROM Person
+WITH cte AS (
+    SELECT *, ROW_NUMBER() OVER (PARTITION BY email ORDER BY id) rn
+    FROM Person
+)
+DELETE 
+FROM Person 
 WHERE id NOT IN (
-    SELECT id FROM (
-        SELECT min(id) AS id
-        FROM Person
-        GROUP BY email
-    ) AS t
+    SELECT id 
+    FROM cte
+    WHERE rn = 1
 );
