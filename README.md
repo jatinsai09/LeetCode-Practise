@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0327-count-of-range-sum) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0354-russian-doll-envelopes) |
@@ -793,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0354-russian-doll-envelopes) |
@@ -1119,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0337-house-robber-iii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0417-pacific-atlantic-water-flow) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -1404,6 +1407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0289-game-of-life) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0417-pacific-atlantic-water-flow) |
 | [0427-construct-quad-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0427-construct-quad-tree) |
@@ -1568,6 +1572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0509-fibonacci-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0509-fibonacci-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1137-n-th-tribonacci-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1137-n-th-tribonacci-number) |
@@ -1591,6 +1596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0417-pacific-atlantic-water-flow) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0429-n-ary-tree-level-order-traversal) |
@@ -1728,6 +1734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0851-loud-and-rich) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -1891,6 +1898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0743-network-delay-time) |
 | [0765-couples-holding-hands](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0765-couples-holding-hands) |
