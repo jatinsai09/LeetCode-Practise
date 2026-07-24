@@ -6,11 +6,10 @@ public:
         cout.tie(0);
 
         int f[26] = {0};
-        int l = 0, r = 0, n = s.size(), mc = 0, res = 0;
+        int n = s.size(), mc = 0, res = 0;
 
-        while (r < n) {
-            f[s[r] - 'A']++;
-            mc = max(mc, f[s[r] - 'A']);
+        for (int l = 0, r = 0; r < n; r++) {
+            mc = max(mc, ++f[s[r] - 'A']);
 
             int len = r - l + 1;
             if (len - mc > k) {
@@ -18,7 +17,6 @@ public:
             } else {
                 res = max(res, len);
             }
-            r++;
         }
         return res;
     }
