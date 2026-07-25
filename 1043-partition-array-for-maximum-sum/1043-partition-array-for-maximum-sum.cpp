@@ -8,10 +8,8 @@ public:
     //     if (dpp[i] != -1) {
     //         return dpp[i];
     //     }
-
-    //     int mx = nums[i], len = 0, res = INT_MIN;
-    //     for (int j = i; j < min(n, i + k); j++) {
-    //         len++;
+    //     int mx = 0, len = 0, res = INT_MIN;
+    //     for (int j = i; j < min(n, i + k); j++, len++) {
     //         mx = max(nums[j], mx);
     //         int got = 1LL * len * mx + help(j + 1, n, k, nums);
     //         res = max(res, got);
