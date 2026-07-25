@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0407-trapping-rain-water-ii) |
 | [0413-arithmetic-slices](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0413-arithmetic-slices) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0417-pacific-atlantic-water-flow) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0427-construct-quad-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0409-longest-palindrome) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -1390,6 +1392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0371-sum-of-two-integers) |
 | [0401-binary-watch](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0401-binary-watch) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0693-binary-number-with-alternating-bits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0693-binary-number-with-alternating-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0756-pyramid-transition-matrix) |
@@ -2108,6 +2111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0139-word-break) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0472-concatenated-words](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0472-concatenated-words) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
