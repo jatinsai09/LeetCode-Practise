@@ -1,27 +1,27 @@
 class Solution {
 public:
-    void f(string& digits, vector<string>& v, vector<string>& res, string s, int l) {
-        if (l == digits.size()) {
-            res.push_back(s);
-            return;
-        }
-
-        int n = digits[l] - '0';
-        for (auto &c: v[n]) {
-            s += c;
-            f(digits, v, res, s, l + 1);
-            s.pop_back();
-        }
-    }
-
     vector<string> letterCombinations(string digits) {
-        vector<string> v = {"", "", "abc", "def", "ghi",
+        int n = digits.size();
+        vector<string> mp = {"", "", "abc", "def", "ghi",
                             "jkl", "mno", "pqrs", "tuv", "wxyz"};
 
         vector<string> res;
 
-        f(digits, v, res, "", 0);
+        function<void(string, int)> f = [&](string s, int i) -> void {
+            if (i == n) {
+                res.push_back(s);
+                return;
+            }
 
+            int d = digits[i] - '0';
+            for (const auto& c: mp[d]) {
+                s.push_back(c);
+                f(s, i + 1);
+                s.pop_back();
+            }
+        };
+
+        f("", 0);
         return res;
     }
 };
