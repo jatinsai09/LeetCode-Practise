@@ -4,8 +4,7 @@ public:
         int n = triangle.size();
 
         for (int i = n - 2; i >= 0; i--) {
-            int m = i + 1;
-            for (int j = 0; j < m; j++) {
+            for (int j = 0; j <= i; j++) {
                 int l = triangle[i + 1][j];
                 int r = triangle[i + 1][j + 1];
 
