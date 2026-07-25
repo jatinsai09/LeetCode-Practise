@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2256-minimum-average-difference](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2256-minimum-average-difference) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2301-match-substring-after-replacement](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2301-match-substring-after-replacement) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2304-minimum-path-cost-in-a-grid) |
@@ -1701,6 +1702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1895-largest-magic-square) |
+| [2256-minimum-average-difference](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2256-minimum-average-difference) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2574-left-and-right-sum-differences](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2615-sum-of-distances) |
