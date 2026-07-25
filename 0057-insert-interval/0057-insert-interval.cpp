@@ -4,26 +4,24 @@ class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals,
                                vector<int>& newInterval) {
+        int n = intervals.size(), i = 0;
         vector<vector<int>> res;
-        int s = newInterval[0], e = newInterval[1], f = 1;
 
-        for (const auto& i : intervals) {
-            if (i[1] < s) {
-                res.push_back(i);
-            } else if (i[0] > e) {
-                if (f) {
-                    res.push_back({s, e});
-                    f = 0;
-                }
-                res.push_back(i);
-            } else {
-                s = min(s, i[0]);
-                e = max(e, i[1]);
-            }
+        while (i < n && intervals[i][1] < newInterval[0]) {
+            res.push_back(intervals[i++]);
         }
-        if (f) {
-            res.push_back({s, e});
+
+        while (i < n && intervals[i][0] <= newInterval[1]) {
+            newInterval[0] = min(intervals[i][0], newInterval[0]);
+            newInterval[1] = max(intervals[i][1], newInterval[1]);
+            i++;
         }
+        res.push_back(newInterval);
+
+        while (i < n) {
+            res.push_back(intervals[i++]);
+        }
+
         return res;
     }
 };
