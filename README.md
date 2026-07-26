@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0778-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0840-magic-squares-in-grid) |
+| [0846-hand-of-straights](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0846-hand-of-straights) |
 | [0848-shifting-letters](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0848-shifting-letters) |
 | [0851-loud-and-rich](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0851-loud-and-rich) |
 | [0853-car-fleet](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0853-car-fleet) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0756-pyramid-transition-matrix) |
 | [0763-partition-labels](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0763-partition-labels) |
 | [0840-magic-squares-in-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0840-magic-squares-in-grid) |
+| [0846-hand-of-straights](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0846-hand-of-straights) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0904-fruit-into-baskets) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0761-special-binary-string) |
+| [0846-hand-of-straights](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0853-car-fleet) |
 | [0912-sort-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0948-bag-of-tokens) |
@@ -1815,6 +1818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0738-monotone-increasing-digits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0738-monotone-increasing-digits) |
 | [0763-partition-labels](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0763-partition-labels) |
 | [0765-couples-holding-hands](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0765-couples-holding-hands) |
+| [0846-hand-of-straights](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0860-lemonade-change) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
