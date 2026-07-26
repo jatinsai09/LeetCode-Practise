@@ -6,7 +6,7 @@ public:
 
         auto find = [&](int n) -> bool {
             int req = 0;
-            for (auto& p: piles) {
+            for (const auto& p: piles) {
                 req += (p + n - 1) / n;
 
                 if (req > h) {
