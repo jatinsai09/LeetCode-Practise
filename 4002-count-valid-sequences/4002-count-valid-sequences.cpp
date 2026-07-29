@@ -1,7 +1,6 @@
 class Solution {
 #define ll long long int
 const ll mod = 1e9 + 7;
-
 public:
     ll modExp(ll a, ll e, ll m) {
         a %= m;
@@ -36,7 +35,7 @@ public:
                 d = (d * i) % mod;
             }
         }
-        ll total = (n1 * modExp((k1 * d) % mod, mod - 2, mod)) % mod;
+        ll total = n1 * modExp((k1 * d) % mod, mod - 2, mod) % mod;
         ll f = total;
 
         ll n3 = 1;
@@ -50,7 +49,7 @@ public:
             d = (d * i) % mod;
         }
         
-        ll s = (n3 * modExp(d * k1, mod - 2, mod)) % mod; 
+        ll s = n3 * modExp(d * k1, mod - 2, mod) % mod; 
         if (lim < 0 || (n - k) % 2)  {
             s = 0;
         }
