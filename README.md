@@ -606,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -776,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -1858,6 +1860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2895-minimum-processing-time](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2895-minimum-processing-time) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
