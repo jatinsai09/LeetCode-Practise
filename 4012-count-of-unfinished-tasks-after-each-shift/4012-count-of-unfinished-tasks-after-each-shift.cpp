@@ -18,7 +18,7 @@ public:
                 res[i] = 0;
                 off = 0;
             } else {
-                int ind = -1, l = 0, r = n - 1, mid;
+                int l = 0, r = n - 1, mid;
 
                 while (l <= r) {
                     mid = l + (r - l) / 2;
@@ -30,9 +30,7 @@ public:
                     }
                 }
 
-                ind = l;
-                res[i] = n - ind;
-
+                res[i] = n - l;
                 off += t;
             }
         }
