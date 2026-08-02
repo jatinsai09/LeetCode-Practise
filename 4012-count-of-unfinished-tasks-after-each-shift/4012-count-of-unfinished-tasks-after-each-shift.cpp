@@ -18,7 +18,19 @@ public:
                 res[i] = 0;
                 off = 0;
             } else {
-                int ind = upper_bound(begin(pre), end(pre), t + off) - begin(pre);
+                int ind = -1, l = 0, r = n - 1, mid;
+
+                while (l <= r) {
+                    mid = l + (r - l) / 2;
+
+                    if (t >= pre[mid] - off) {
+                        l = mid + 1; 
+                    } else {
+                        r = mid - 1;
+                    }
+                }
+
+                ind = l;
                 res[i] = n - ind;
 
                 off += t;
