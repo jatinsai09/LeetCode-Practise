@@ -4,7 +4,6 @@ public:
         int n = a.size();
 
         int dp[4] = {0};
-
         for (int i = n - 1; i >= 0; i--) {
             dp[i % 4] = a[i] - dp[(i + 1) % 4];
 
@@ -19,7 +18,6 @@ public:
         if (dp[0] == 0) {
             return "Tie";
         }
-
         return (dp[0] > 0 ? "Alice" : "Bob");
     }
 };
