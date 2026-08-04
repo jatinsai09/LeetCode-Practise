@@ -6,11 +6,8 @@ public:
         vector<long> ps(n);
         deque<long> dq;
 
-        ps[0] = nums[0];
         for (long i = 0; i < n; i++) {
-            if (i) {
-                ps[i] += nums[i] + ps[i - 1];
-            } 
+            ps[i] = nums[i] + (i ? ps[i - 1] : 0);
 
             if (ps[i] >= k) {
                 res = min(res, i + 1);
@@ -20,9 +17,10 @@ public:
                 res = min(res, i - dq.front());
                 dq.pop_front();
             }
-            while (!dq.empty() && ps[i] <= ps[dq.back()]) {
+            while (!dq.empty() && ps[dq.back()] >= ps[i]) {
                 dq.pop_back();
             }
+            
             dq.push_back(i);
         }
 
