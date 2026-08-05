@@ -11,8 +11,8 @@ public:
         }
 
         vector<bool> visk(n), vis(n);
-        queue<int> q;
 
+        queue<int> q;
         q.push(k);
         visk[k] = 1;
         while (!q.empty()) {
@@ -23,13 +23,12 @@ public:
                 if (!visk[v]) {
                     q.push(v);
                     visk[v] = 1;
-                    ;
                 }
             }
         }
 
         for (int i = 0; i < n; i++) {
-            if (i == k || vis[i] || visk[i]) {
+            if (vis[i] || visk[i]) {
                 continue;
             }
 
