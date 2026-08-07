@@ -10,10 +10,10 @@ WITH cte1 AS (
         p.category,
         SUM(s.quantity) AS total_quantity,
         SUM(s.quantity * s.price) AS total_revenue 
-        FROM Sales s
-        JOIN Products p
-            ON s.product_id = p.product_id
-        GROUP BY season, p.category
+    FROM Sales s
+    JOIN Products p
+        ON s.product_id = p.product_id
+    GROUP BY season, p.category
 ),
 cte2 AS (
     SELECT
