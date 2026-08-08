@@ -804,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3407-substring-matching-pattern](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3407-substring-matching-pattern) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -928,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3148-maximum-difference-score-in-a-grid) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -1027,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2540-minimum-common-value](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2540-minimum-common-value) |
 | [2592-maximize-greatness-of-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2592-maximize-greatness-of-an-array) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3643-flip-square-submatrix-vertically) |
@@ -1905,6 +1908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
