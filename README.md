@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1122-relative-sort-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1122-relative-sort-array) |
+| [1140-stone-game-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1260-shift-2d-grid) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1137-n-th-tribonacci-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1140-stone-game-ii) |
 | [1185-day-of-the-week](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1185-day-of-the-week) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1266-minimum-time-visiting-all-points) |
@@ -899,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -1755,6 +1758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -2251,6 +2255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1406-stone-game-iii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1690-stone-game-vii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1690-stone-game-vii) |
@@ -2270,4 +2275,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
