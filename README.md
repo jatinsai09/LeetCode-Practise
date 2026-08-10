@@ -737,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0459-repeated-substring-pattern) |
@@ -1011,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0647-palindromic-substrings) |
