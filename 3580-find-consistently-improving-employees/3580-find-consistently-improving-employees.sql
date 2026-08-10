@@ -28,4 +28,4 @@ FROM cte2
 WHERE third_rating IS NOT NULL
     AND latest_rating > second_rating
     AND second_rating > third_rating
-ORDER BY improvement_score DESc, name;
+ORDER BY improvement_score DESC, name;
