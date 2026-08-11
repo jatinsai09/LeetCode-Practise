@@ -4,15 +4,11 @@ public:
         int n = nums.size(), res = 0;
 
         for (int b = 0; b < 32; b++) {
-            int c1 = 0, c0 = 0;
+            int c1 = 0;
             for (const auto &i: nums) {
-                if ((i >> b) & 1) {
-                    c0++;
-                } else {
-                    c1++;
-                }
+                c1 += ((i >> b) & 1);
             }
-            res += c1 * c0;
+            res += c1 * (n - c1);
         }
         return res;
     }
