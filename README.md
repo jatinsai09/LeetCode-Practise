@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0778-swim-in-rising-water) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0840-magic-squares-in-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0840-magic-squares-in-grid) |
+| [0845-longest-mountain-in-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0845-longest-mountain-in-array) |
 | [0846-hand-of-straights](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0846-hand-of-straights) |
 | [0848-shifting-letters](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0848-shifting-letters) |
 | [0851-loud-and-rich](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0851-loud-and-rich) |
@@ -896,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0788-rotated-digits) |
 | [0790-domino-and-tromino-tiling](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0790-domino-and-tromino-tiling) |
 | [0799-champagne-tower](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0799-champagne-tower) |
+| [0845-longest-mountain-in-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0845-longest-mountain-in-array) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0877-stone-game) |
@@ -1024,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0763-partition-labels](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0763-partition-labels) |
+| [0845-longest-mountain-in-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0845-longest-mountain-in-array) |
 | [0948-bag-of-tokens](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0948-bag-of-tokens) |
 | [0986-interval-list-intersections](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0986-interval-list-intersections) |
 | [1048-longest-string-chain](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1048-longest-string-chain) |
@@ -1343,6 +1346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0204-count-primes) |
 | [0816-ambiguous-coordinates](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0816-ambiguous-coordinates) |
+| [0845-longest-mountain-in-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0845-longest-mountain-in-array) |
 | [1291-sequential-digits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1291-sequential-digits) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
