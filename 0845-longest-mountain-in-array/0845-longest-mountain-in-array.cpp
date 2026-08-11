@@ -1,29 +1,31 @@
 class Solution {
 public:
-    int longestMountain(vector<int> a) {
-        ios_base::sync_with_stdio(0);
-        cin.tie(0);
-        cout.tie(0);
+    int longestMountain(vector<int>& a) {
+        int n = a.size();
 
-        int n = a.size(), res = 0;
-        vector<int> dp1(n, 1), dp2(n, 1);
-
-        for (int i = n - 2; i >= 0; i--) {
-            if (a[i] > a[i + 1]) {
-                dp2[i] = dp2[i + 1] + 1;
-            }
+        if (n < 3) {
+            return 0;
         }
 
-        for (int i = 0; i < n; i++) {
-            if (i > 0 && a[i] > a[i - 1]) {
-                dp1[i] = 1 + dp1[i - 1];
-            }
-            
-            if (dp1[i] > 1 && dp2[i] > 1) {
-                res = max(res, dp1[i] + dp2[i] - 1);
+        int res = 0, i = 1;
+        while (i + 1 < n) {
+            if (a[i] > a[i - 1] && a[i] > a[i + 1]) {
+                int l = i, r = i;
+
+                while (l > 0 && a[l - 1] < a[l]) {
+                    l--;
+                }
+                while (r + 1 < n && a[r + 1] < a[r]) {
+                    r++;
+                }
+
+                res = max(res, r - l + 1);
+
+                i = r + 1;
+            } else {
+                i++;
             }
         }
-
         return res;
     }
 };
