@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3592-inverse-coin-change](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3592-inverse-coin-change) |
 | [3606-coupon-code-validator](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3606-coupon-code-validator) |
 | [3620-network-recovery-pathways](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3620-network-recovery-pathways) |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -1137,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0387-first-unique-character-in-a-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0918-maximum-sum-circular-subarray) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3589-count-prime-gap-balanced-subarrays) |
 ## Tree
 |  |
 | ------- |
@@ -1381,6 +1384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -1430,6 +1434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2653-sliding-subarray-beauty](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2653-sliding-subarray-beauty) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3634-minimum-removals-to-balance-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3634-minimum-removals-to-balance-array) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
@@ -2262,6 +2267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0918-maximum-sum-circular-subarray) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3589-count-prime-gap-balanced-subarrays) |
 ## Trie
 |  |
 | ------- |
