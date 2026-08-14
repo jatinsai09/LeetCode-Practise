@@ -3,11 +3,11 @@ public:
     int primeSubarray(vector<int>& nums, int k) {
         int n = nums.size();
 
-        vector<int> p;
+        vector<int> isPrime;
         for (const auto& x : nums) {
             bool prime = 1;
             if (x == 1) {
-                p.push_back(0);
+                isPrime.push_back(0);
                 continue;
             }
 
@@ -17,20 +17,20 @@ public:
                     break;
                 }
             }
-            p.push_back(prime);
+            isPrime.push_back(prime);
         }
 
         deque<int> q;
         multiset<int> s;
         int res = 0;
         for (int l = 0, r = 0; r < n; r++) {
-            if (p[r]) {
+            if (isPrime[r]) {
                 s.insert(nums[r]);
                 q.push_back(r);
             }
 
             while (!s.empty() && *s.rbegin() - *s.begin() > k) {
-                if (p[l]) {
+                if (isPrime[l]) {
                     s.erase(s.find(nums[l]));
                     q.pop_front();
                 }
@@ -38,8 +38,7 @@ public:
             }
 
             if (q.size() >= 2) {
-                int i1 = q.back();
-                q.pop_back();
+                int i1 = q.back(); q.pop_back();
 
                 int i2 = q.back();
                 res += (i2 - l + 1);
