@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3148-maximum-difference-score-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3287-find-the-maximum-sequence-value-of-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3287-find-the-maximum-sequence-value-of-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3312-sorted-gcd-pair-queries) |
@@ -953,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3148-maximum-difference-score-in-a-grid) |
+| [3287-find-the-maximum-sequence-value-of-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3287-find-the-maximum-sequence-value-of-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3393-count-paths-with-the-given-xor-value) |
@@ -1508,6 +1510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
+| [3287-find-the-maximum-sequence-value-of-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3287-find-the-maximum-sequence-value-of-array) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3393-count-paths-with-the-given-xor-value) |
