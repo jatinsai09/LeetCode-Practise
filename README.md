@@ -617,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0840-magic-squares-in-grid) |
+| [0858-mirror-reflection](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0858-mirror-reflection) |
 | [0877-stone-game](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0887-super-egg-drop) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -1382,6 +1383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0204-count-primes) |
+| [0858-mirror-reflection](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0858-mirror-reflection) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1250-check-if-it-is-a-good-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -2053,6 +2055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0223-rectangle-area) |
+| [0858-mirror-reflection](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0858-mirror-reflection) |
 | [1266-minimum-time-visiting-all-points](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Graph Theory
@@ -2323,6 +2326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [0858-mirror-reflection](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0858-mirror-reflection) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1250-check-if-it-is-a-good-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1250-check-if-it-is-a-good-array) |
@@ -2360,4 +2364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0654-maximum-binary-tree) |
+## Least Common Multiple
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0858-mirror-reflection) |
 <!---LeetCode Topics End-->
