@@ -1,6 +1,6 @@
 class Solution {
 public:
-// ext * p == ref == q 
+// ext * p == ref * q 
     int mirrorReflection(int p, int q) {
         int ext = 1, ref = 1;
 
