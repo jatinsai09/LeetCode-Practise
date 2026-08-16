@@ -16,12 +16,12 @@ public:
             }
         }
 
-        if ((ext & 1) && (ref & 1)) {
-            return 1;
-        } else if (ext & 1) {
+        if (ext % 2 == 0) {
+            return 0;
+        } else if (ref % 2 == 0) {
             return 2;
         } else {
-            return 0;
+            return 1;
         }
     }
 };
