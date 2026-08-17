@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1552-magnetic-force-between-two-balls) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1563-stone-game-v](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1563-stone-game-v) |
 | [1572-matrix-diagonal-sum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1584-min-cost-to-connect-all-points) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1510-stone-game-iv) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1563-stone-game-v](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1622-fancy-sequence) |
 | [1690-stone-game-vii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1690-stone-game-vii) |
 | [1840-maximum-building-height](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1840-maximum-building-height) |
@@ -937,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1510-stone-game-iv](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1563-stone-game-v](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1690-stone-game-vii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1690-stone-game-vii) |
@@ -2310,6 +2313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1510-stone-game-iv) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1563-stone-game-v](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1563-stone-game-v) |
 | [1690-stone-game-vii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1690-stone-game-vii) |
 | [2029-stone-game-ix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2029-stone-game-ix) |
 ## Interactive
