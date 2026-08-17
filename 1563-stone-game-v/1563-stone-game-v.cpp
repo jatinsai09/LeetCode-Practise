@@ -25,9 +25,9 @@ public:
                     res = max(res, rs + f(m + 1, r));
                 }
 
-                if (2 * min(ls, rs) <= res) {
-                    break;
-                }
+                // if (2 * min(ls, rs) <= res) {
+                //     break;
+                // }
             }
             return dp[l][r] = res;
         };
