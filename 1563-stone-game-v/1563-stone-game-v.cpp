@@ -18,16 +18,16 @@ public:
             for (int m = l; m < r; m++) {
                 int ls = ps[m + 1] - ps[l], rs = ps[r + 1] - ps[m + 1];
 
+                if (2 * min(ls, rs) <= res) {
+                    break;
+                }
+
                 if (ls <= rs) {
                     res = max(res, ls + f(l, m));
                 } 
                 if (rs <= ls) {
                     res = max(res, rs + f(m + 1, r));
                 }
-
-                // if (2 * min(ls, rs) <= res) {
-                //     break;
-                // }
             }
             return dp[l][r] = res;
         };
