@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1406-stone-game-iii) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1345-jump-game-iv) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1657-determine-if-two-strings-are-close) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -1513,6 +1515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1009-complement-of-base-10-integer) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1386-cinema-seat-allocation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1707-maximum-xor-with-an-element-from-array) |
@@ -1936,6 +1939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1029-two-city-scheduling) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1382-balance-a-binary-search-tree) |
+| [1386-cinema-seat-allocation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1386-cinema-seat-allocation) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1642-furthest-building-you-can-reach](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1642-furthest-building-you-can-reach) |
