@@ -9,11 +9,7 @@ public:
             vector<int> vis(11, 1);
 
             int j = i;
-            while (j < m) {
-               if (reservedSeats[i][0] != reservedSeats[j][0]) {
-                break;
-               }
-
+            while (j < m && reservedSeats[i][0] == reservedSeats[j][0]) {
                vis[reservedSeats[j][1]] = 0;
                j++;
             }
