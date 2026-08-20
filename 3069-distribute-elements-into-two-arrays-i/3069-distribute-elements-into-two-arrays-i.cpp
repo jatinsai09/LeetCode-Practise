@@ -3,20 +3,19 @@ public:
     vector<int> resultArray(vector<int>& nums) {
         int n = nums.size();
 
-        vector<int> a[2] = {
-            {nums[0]},
-            {nums[1]}
-        };
+       vector<int> a0, a1;
+       a0.push_back(nums[0]);
+       a1.push_back(nums[1]);
 
         for (int i = 2; i < n; i++) {
-            if (a[0].back() > a[1].back()) {
-                a[0].push_back(nums[i]);
+            if (a0.back() > a1.back()) {
+                a0.push_back(nums[i]);
             } else {
-                a[1].push_back(nums[i]);
+                a1.push_back(nums[i]);
             }
         }
-        a[0].insert(a[0].end(), a[1].begin(), a[1].end());
+        a0.insert(a0.end(), a1.begin(), a1.end());
 
-        return a[0];
+        return a0;
     }
 };
