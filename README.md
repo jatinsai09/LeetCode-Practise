@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2596-check-knight-tour-configuration](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2596-check-knight-tour-configuration) |
 | [2751-robot-collisions](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
