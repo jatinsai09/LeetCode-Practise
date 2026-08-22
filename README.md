@@ -668,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3589-count-prime-gap-balanced-subarrays) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3666-minimum-operations-to-equalize-binary-string) |
