@@ -1,18 +1,23 @@
 class Solution {
 public:
     int numFriendRequests(vector<int>& a) {
-        int n = a.size();
-
-        unordered_map<int, int> mp;
+        vector<int> f(121);
         for (const auto& i : a) {
-            mp[i]++;
+            f[i]++;
         }
 
         int res = 0;
-        for (const auto& a : mp) {
-            for (const auto& b : mp) {
-                if (req(a.first, b.first)) {
-                    res += a.second * (b.second - (a.first == b.first));
+        for (int a = 1; a <= 120; a++) {
+            if (f[a] == 0) {
+                continue;
+            }
+            for (int b = 1; b <= 120; b++) {
+                if (f[b] == 0) {
+                    continue;
+                }
+                
+                if (req(a, b)) {
+                    res += f[a] * (f[b] - (a == b));
                 }
             }
         }
