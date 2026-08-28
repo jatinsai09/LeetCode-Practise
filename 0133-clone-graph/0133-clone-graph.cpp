@@ -25,7 +25,8 @@ public:
         if (!node) {
             return node;
         }
-        unordered_map<Node*, Node*> mp;
+        
+        unordered_map<Node*, Node*> mp; // og -> copy
 
         function<Node*(Node*)> dfs = [&](Node* cur) -> Node* {
             if (mp.count(cur)) {
@@ -34,7 +35,8 @@ public:
 
             Node* copy = new Node(cur->val);
             mp[cur] = copy;
-            for (auto &nbr: cur->neighbors) {
+
+            for (const auto &nbr: cur->neighbors) {
                 copy->neighbors.push_back(dfs(nbr));
             }
 
