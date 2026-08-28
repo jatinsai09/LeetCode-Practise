@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0778-swim-in-rising-water) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0825-friends-of-appropriate-ages](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0825-friends-of-appropriate-ages) |
 | [0840-magic-squares-in-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0840-magic-squares-in-grid) |
 | [0845-longest-mountain-in-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0845-longest-mountain-in-array) |
 | [0846-hand-of-straights](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0846-hand-of-straights) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0761-special-binary-string) |
+| [0825-friends-of-appropriate-ages](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0825-friends-of-appropriate-ages) |
 | [0846-hand-of-straights](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0853-car-fleet) |
 | [0912-sort-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0912-sort-an-array) |
@@ -1065,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0763-partition-labels](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0763-partition-labels) |
+| [0825-friends-of-appropriate-ages](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0825-friends-of-appropriate-ages) |
 | [0845-longest-mountain-in-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0845-longest-mountain-in-array) |
 | [0948-bag-of-tokens](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0948-bag-of-tokens) |
 | [0986-interval-list-intersections](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0986-interval-list-intersections) |
@@ -1704,6 +1707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0778-swim-in-rising-water) |
+| [0825-friends-of-appropriate-ages](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0825-friends-of-appropriate-ages) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0875-koko-eating-bananas) |
 | [0887-super-egg-drop](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0887-super-egg-drop) |
