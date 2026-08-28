@@ -28,11 +28,7 @@ public:
                 }
             }
 
-            if (ind != -1) {
-                dp[i] = max(dp[i], p + dp[ind]);
-            } else {
-                dp[i] = max(dp[i], p);
-            }
+            dp[i] = max(dp[i], p + (ind != -1 ? dp[ind] : 0));
         }
 
         return dp[n - 1];
