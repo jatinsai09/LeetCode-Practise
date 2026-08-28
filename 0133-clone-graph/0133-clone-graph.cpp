@@ -25,11 +25,11 @@ public:
         if (!node) {
             return node;
         }
-        
+
         unordered_map<Node*, Node*> mp; // og -> copy
 
         function<Node*(Node*)> dfs = [&](Node* cur) -> Node* {
-            if (mp.count(cur)) {
+            if (mp.find(cur) != mp.end()) {
                 return mp[cur];
             }
 
