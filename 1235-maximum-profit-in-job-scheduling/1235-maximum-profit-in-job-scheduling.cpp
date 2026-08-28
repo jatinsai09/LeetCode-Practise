@@ -16,19 +16,18 @@ public:
 
             dp[i] = dp[i - 1];
 
-            int ind = -1, l = 0, r = i - 1;
+            int l = 0, r = i - 1;
             while (l <= r) {
                 int m = l + (r - l) / 2;
 
                 if (s >= get<0>(jobs[m])) {
-                    ind = m;
                     l = m + 1;
                 } else {
                     r = m - 1;
                 }
             }
 
-            dp[i] = max(dp[i], p + (ind != -1 ? dp[ind] : 0));
+            dp[i] = max(dp[i], p + (r != -1 ? dp[r] : 0));
         }
 
         return dp[n - 1];
