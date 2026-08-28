@@ -1,8 +1,8 @@
 class Solution {
 public:
-    int numFriendRequests(vector<int>& a) {
+    int numFriendRequests(vector<int>& arr) {
         vector<int> f(121);
-        for (const auto& i : a) {
+        for (const auto& i : arr) {
             f[i]++;
         }
 
@@ -15,7 +15,7 @@ public:
                 if (f[b] == 0) {
                     continue;
                 }
-                
+
                 if (req(a, b)) {
                     res += f[a] * (f[b] - (a == b));
                 }
