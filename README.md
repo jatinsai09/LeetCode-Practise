@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1250-check-if-it-is-a-good-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1250-check-if-it-is-a-good-array) |
+| [1254-number-of-closed-islands](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1266-minimum-time-visiting-all-points) |
 | [1267-count-servers-that-communicate](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1267-count-servers-that-communicate) |
@@ -1311,6 +1312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -1605,6 +1607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -1825,6 +1828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1267-count-servers-that-communicate) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1306-jump-game-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1306-jump-game-iii) |
@@ -2171,6 +2175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0765-couples-holding-hands](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0765-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0778-swim-in-rising-water) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1254-number-of-closed-islands](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
