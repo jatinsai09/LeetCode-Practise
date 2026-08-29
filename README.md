@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0931-minimum-falling-path-sum) |
+| [0934-shortest-bridge](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0934-shortest-bridge) |
 | [0944-delete-columns-to-make-sorted](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-bag-of-tokens](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0948-bag-of-tokens) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -1308,6 +1309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-loud-and-rich](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0851-loud-and-rich) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0897-increasing-order-search-tree) |
+| [0934-shortest-bridge](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0934-shortest-bridge) |
 | [0938-range-sum-of-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0938-range-sum-of-bst) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0993-cousins-in-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0993-cousins-in-binary-tree) |
@@ -1607,6 +1609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0840-magic-squares-in-grid) |
 | [0909-snakes-and-ladders](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0909-snakes-and-ladders) |
 | [0931-minimum-falling-path-sum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0931-minimum-falling-path-sum) |
+| [0934-shortest-bridge](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1254-number-of-closed-islands) |
@@ -1825,6 +1828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0909-snakes-and-ladders](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0909-snakes-and-ladders) |
+| [0934-shortest-bridge](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0934-shortest-bridge) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [0993-cousins-in-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0994-rotting-oranges) |
