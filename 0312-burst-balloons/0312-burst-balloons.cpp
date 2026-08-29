@@ -1,4 +1,4 @@
-#define ll long long
+#define ll long long int
 class Solution {
 public:
     // ll dpp[313][313];
@@ -23,7 +23,7 @@ public:
         nums.push_back(1);
         nums.insert(begin(nums), 1);
 
-        long long dp[n + 3][n + 3];
+        ll dp[n + 3][n + 3];
         memset(dp, 0LL, sizeof(dp));
 
         for (int i = n; i > 0; i--) {
@@ -39,6 +39,6 @@ public:
             }
         }
 
-        return (int)dp[1][n];
+        return dp[1][n];
     }
 };
