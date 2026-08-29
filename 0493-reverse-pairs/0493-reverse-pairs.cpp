@@ -3,7 +3,7 @@ private:
     int merge(vector<int>& nums, int l, int m, int r) {
         int rpc = 0;
         for (int i = l, j = m + 1; i <= m; i++) {
-            while (j <= r && nums[i] > (long long)nums[j] * 2) {
+            while (j <= r && nums[i] > 2LL * nums[j]) {
                 j++;
             }
             rpc += j - (m + 1);
