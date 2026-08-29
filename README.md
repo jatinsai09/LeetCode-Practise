@@ -2432,4 +2432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0858-mirror-reflection](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0858-mirror-reflection) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
