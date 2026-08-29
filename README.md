@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1905-count-sub-islands) |
 | [1914-cyclically-rotating-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1914-cyclically-rotating-a-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1975-maximum-matrix-sum) |
@@ -1737,6 +1738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1649-create-sorted-array-through-instructions](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1649-create-sorted-array-through-instructions) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1901-find-a-peak-element-ii) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2054-two-best-non-overlapping-events) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -2071,6 +2073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1649-create-sorted-array-through-instructions](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1649-create-sorted-array-through-instructions) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 ## Merge Sort
 |  |
 | ------- |
@@ -2436,4 +2439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0493-reverse-pairs) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 <!---LeetCode Topics End-->
