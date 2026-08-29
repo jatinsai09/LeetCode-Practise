@@ -14,16 +14,13 @@ public:
 
             int j = i + 1;
             while (j < n && vp[j].first - vp[j - 1].first <= limit) {
-                vi.push_back(vp[j].second);
-                j++;
+                vi.push_back(vp[j++].second);
             }
             sort(begin(vi), end(vi));
 
             int k = 0;
             while (i < j) {
-                res[vi[k]] = vp[i].first;
-                k++;
-                i++;
+                res[vi[k++]] = vp[i++].first;
             }
         }
         return res;
