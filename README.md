@@ -2460,4 +2460,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0474-ones-and-zeroes) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
