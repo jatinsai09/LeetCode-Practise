@@ -11,6 +11,7 @@ public:
                 while (!st.empty() && st.back() > 0 && abs(ast[i]) > st.back()) {
                     st.pop_back();
                 }
+                
                 if (st.empty() || st.back() < 0) {
                     st.push_back(ast[i]);
                 } else if (!st.empty() && st.back() == abs(ast[i])) {
