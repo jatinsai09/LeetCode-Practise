@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1478-allocate-mailboxes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1478-allocate-mailboxes) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1539-kth-missing-positive-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1539-kth-missing-positive-number) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1478-allocate-mailboxes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1478-allocate-mailboxes) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1552-magnetic-force-between-two-balls) |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1406-stone-game-iii) |
+| [1478-allocate-mailboxes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1478-allocate-mailboxes) |
 | [1510-stone-game-iv](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1510-stone-game-iv) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1563-stone-game-v](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1563-stone-game-v) |
@@ -977,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1478-allocate-mailboxes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1478-allocate-mailboxes) |
 | [1510-stone-game-iv](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1563-stone-game-v) |
