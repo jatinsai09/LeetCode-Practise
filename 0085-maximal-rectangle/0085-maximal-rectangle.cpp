@@ -36,23 +36,23 @@ public:
 
         for (int i = 0; i < n; i++) {
             while (!st.empty() && arr[i] < arr[st.top()]) {
-                int e = arr[st.top()], nse = i;
+                int h = arr[st.top()], nse = i;
                 st.pop();
 
                 int pse = (st.empty() ? -1 : st.top());
 
-                maxi = max(maxi, e * (nse - pse - 1));
+                maxi = max(maxi, h * (nse - pse - 1));
             }
             st.push(i);
         }
 
         while (!st.empty()) {
-            int e = arr[st.top()], nse = n;
+            int h = arr[st.top()], nse = n;
             st.pop();
 
             int pse = (st.empty() ? -1 : st.top());
 
-            maxi = max(maxi, e * (nse - pse - 1));
+            maxi = max(maxi, h * (nse - pse - 1));
         }
 
         return maxi;
