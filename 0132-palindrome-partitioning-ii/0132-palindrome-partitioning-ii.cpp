@@ -3,8 +3,8 @@ public:
     int minCut(string s) {
         int n = s.size();
         vector<vector<bool>> pal(n, vector<bool>(n, false));
+        
         vector<int> dp(n + 1);
-
         for (int i = n - 1; i >= 0; i--) {
             int cost = INT_MAX;
             for (int j = i; j < n; j++) {
