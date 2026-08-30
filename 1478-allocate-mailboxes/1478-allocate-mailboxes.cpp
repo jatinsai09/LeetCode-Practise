@@ -4,15 +4,9 @@ public:
         sort(begin(houses), end(houses));
         int n = houses.size();
 
-        vector<vector<int>> cost(n, vector<int>(n));
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                int mh = houses[(i + j) / 2];
-
-                for (int p = i; p <= j; p++) {
-                    cost[i][j] += abs(houses[p] - mh);
-                }
-            }
+        vector<int> ps(n + 1);
+        for (int i = 1; i <= n; i++) {
+            ps[i] = ps[i - 1] + houses[i - 1];
         }
 
         int dp[100][100];
@@ -29,11 +23,21 @@ public:
 
             int res = INT_MAX;
             if (k == 1) {
-                return dp[i][k] = cost[i][n - 1];
+                int mi = (i + n - 1) / 2, mh = houses[mi];
+
+                int cost = (mi - i + 1) * mh - (ps[mi + 1] - ps[i]) +
+                    (ps[n - 1 + 1] - ps[mi + 1]) - (n - 1 - mi) * mh;
+
+                return dp[i][k] = cost;
             }
 
             for (int j = i; j + k <= n; j++) {
-                res = min(res, cost[i][j] + f(j + 1, k - 1));
+                int mi = (i + j) / 2, mh = houses[mi];
+
+                int cost = (mi - i + 1) * mh - (ps[mi + 1] - ps[i]) +
+                    (ps[j + 1] - ps[mi + 1]) - (j - mi) * mh;
+
+                res = min(res, cost + f(j + 1, k - 1));
             }
 
             return dp[i][k] = res;
