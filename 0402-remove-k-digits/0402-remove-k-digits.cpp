@@ -6,7 +6,7 @@ public:
         cout.tie(0);
 
         string res = "";
-        for (auto& c : num) {
+        for (const auto& c : num) {
             while (!res.empty() && k > 0 && res.back() > c) {
                 res.pop_back();
                 k--;
