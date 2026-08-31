@@ -12,7 +12,7 @@ class Solution {
 public:
     int getImportance(vector<Employee*> employees, int id) {
         unordered_map<int, Employee*> mp;
-        for (auto &e: employees) {
+        for (const auto &e: employees) {
             mp[e->id] = e;
         }
 
@@ -26,7 +26,7 @@ public:
             Employee* emp = mp[eid];
             res += emp->importance;
 
-            for (auto sid: emp->subordinates) {
+            for (const auto& sid: emp->subordinates) {
                 q.push(sid);
             }
         }
