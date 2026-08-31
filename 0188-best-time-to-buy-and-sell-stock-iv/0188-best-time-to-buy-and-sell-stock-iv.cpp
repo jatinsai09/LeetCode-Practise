@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxProfit(int k, vector<int>& prices) {
-
+        int n = prices.size();
         if (k >= prices.size() >> 1) {
             int profit = 0;
             for (int i = 1; i < prices.size(); i++) {
@@ -12,10 +12,7 @@ public:
             return profit;
         }
 
-        int n = prices.size();
-
-        vector<vector<int>> cur(2, vector<int>(k + 1, 0));
-        vector<vector<int>> next(2, vector<int>(k + 1, 0));
+        vector<vector<int>> cur(2, vector<int>(k + 1, 0)), next(cur);
 
         for (int i = n - 1; i >= 0; i--) { 
             for (int buy = 1; buy >= 0; buy--) {
