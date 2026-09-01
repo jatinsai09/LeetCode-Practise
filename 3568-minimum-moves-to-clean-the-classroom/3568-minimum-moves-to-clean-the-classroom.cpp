@@ -28,9 +28,8 @@ public:
         struct State {
             int r, c, mask, e;
         };
-
         queue<State> q;
-
+        
         best[sr][sc][0] = energy;
         q.push({sr, sc, 0, energy});
 
