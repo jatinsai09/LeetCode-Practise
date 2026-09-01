@@ -855,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2301-match-substring-after-replacement](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2301-match-substring-after-replacement) |
 | [2390-removing-stars-from-a-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2390-removing-stars-from-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -1002,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2463-minimum-total-distance-traveled) |
 | [2466-count-ways-to-build-good-strings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2466-count-ways-to-build-good-strings) |
