@@ -17,8 +17,7 @@ public:
         cout.tie(0);
 
         priority_queue<pil, vector<pil>, greater<>> pq;
-
-        for (auto& l : lists) {
+        for (const auto& l : lists) {
             if (l) {
                 pq.push({l->val, l});
             }
