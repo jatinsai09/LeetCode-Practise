@@ -2175,6 +2175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0547-number-of-provinces) |
@@ -2516,4 +2517,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0020-valid-parentheses) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
