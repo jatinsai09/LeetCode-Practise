@@ -1053,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0328-odd-even-linked-list) |
@@ -1428,6 +1429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0486-predict-the-winner) |
