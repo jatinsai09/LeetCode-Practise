@@ -1,44 +1,50 @@
 class Solution {
 public:
-    int n, m;
-    vector<vector<int>> res;
-    vector<vector<bool>> atlantic, pacific;
-    queue<pair<int, int>> q;
     vector<vector<int>> pacificAtlantic(vector<vector<int>>& heights) {
-        n = size(heights), m = size(heights[0]);
-        atlantic = pacific = vector<vector<bool>>(n, vector<bool>(m, false));
+        int n = heights.size(), m = heights[0].size();
+        vector<vector<int>> pacific(n, vector<int>(m)), atlantic(pacific), res;
+        
+        int dir[] = {1, 0, -1, 0, 1};
+        function<void(vector<vector<int>>&, int, int)> bfs = [&](auto& vis, int si, int sj) -> void {
+            queue<pair<int, int>> q;
+            q.push({si, sj});
+
+            while (!q.empty()) {
+                auto [i, j] = q.front();
+                q.pop();
+
+                if (vis[i][j]) {
+                    continue;
+                }
+                vis[i][j] = 1;
+
+                if(atlantic[i][j] && pacific[i][j]) {
+                    res.push_back({i, j});
+                } 
+
+                for (int k = 0; k < 4; k++) {
+                    int ni = i + dir[k], nj = j + dir[k + 1];
+
+                    if (ni < 0 || nj < 0 || ni >= n || nj >= m) {
+                        continue;
+                    }
+
+                    if (heights[ni][nj] >= heights[i][j]) {
+                        q.push({ni, nj});
+                    }
+                }
+            }
+        };
 
         for (int i = 0; i < n; i++) {
-            bfs(heights, pacific, i, 0);
-            bfs(heights, atlantic, i, m - 1);
+            bfs(pacific, i, 0);
+            bfs(atlantic, i, m - 1);
         }
-
         for (int j = 0; j < m; j++) {
-            bfs(heights, pacific, 0, j);
-            bfs(heights, atlantic, n - 1, j);
+            bfs(pacific, 0, j);
+            bfs(atlantic, n - 1, j);
         }
 
         return res;
     }
-
-    void bfs(auto& mat, auto& vis, int i, int j) {
-        q.push({i, j});
-        while(!q.empty()) {
-            auto [i, j] = q.front();
-            q.pop();
-            if(vis[i][j]) {
-                continue;
-            }
-            vis[i][j] = true;
-            if(atlantic[i][j] && pacific[i][j]) {
-                res.push_back({i, j});
-            }
-
-            if(i + 1 <  n && mat[i + 1][j] >= mat[i][j]) q.push({i + 1, j});
-            if(i - 1 >= 0 && mat[i - 1][j] >= mat[i][j]) q.push({i - 1, j});
-            if(j + 1 <  m && mat[i][j + 1] >= mat[i][j]) q.push({i, j + 1});
-            if(j - 1 >= 0 && mat[i][j - 1] >= mat[i][j]) q.push({i, j - 1});
-        }
-    }
-
 };
