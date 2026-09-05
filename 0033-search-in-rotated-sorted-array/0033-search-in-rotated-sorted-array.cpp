@@ -4,7 +4,7 @@ public:
         int n = a.size(), l = 0, r = n - 1, m;
 
         while (l <= r) {
-            m = (l + r) >> 1;
+            m = l + (r - l) / 2;
 
             if (a[m] == target) {
                 return m;
