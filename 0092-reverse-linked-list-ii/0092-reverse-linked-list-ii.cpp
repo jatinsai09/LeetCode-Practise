@@ -50,9 +50,9 @@ public:
 
         ListNode* th = reverse(l);
 
-        l->next = d2;
         d1->next = r;
+        l->next = d2;
         
-        return dummy->next;;
+        return dummy->next;
     }
 };
