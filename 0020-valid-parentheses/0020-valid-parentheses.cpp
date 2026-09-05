@@ -3,7 +3,7 @@ public:
     bool isValid(string s) {
         stack<char> st;
 
-        for (auto& c : s) {
+        for (const auto& c : s) {
             if (c == '(' || c == '[' || c == '{') {
                 st.push(c);
             } else {
