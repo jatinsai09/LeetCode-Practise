@@ -8,10 +8,10 @@ public:
             smn[i] = min(smn[i + 1], nums[i]);
         }
 
-        int mx = nums[0];
+        int pmx = nums[0];
         for (int i = 0; i < n; i++) {
-            mx = max(mx, nums[i]);
-            if (mx - smn[i] <= k) {
+            pmx = max(pmx, nums[i]);
+            if (pmx - smn[i] <= k) {
                 return i;
             }
         }
