@@ -6,23 +6,23 @@ public:
         cout.tie(0);
 
         unordered_map<int, int> mp;
-        vector<int> res;
         int mx = 0;
         for (const auto& i : nums) {
             mx = max(mx, ++mp[i]);
         }
 
         vector<vector<int>> b(mx + 1);
-        for (auto &[val, freq]: mp) {
+        for (const auto &[val, freq]: mp) {
             b[freq].push_back(val);
         }
 
-        for (int f = mx; f >= 0; f--) {
-            for (auto &i: b[f]) {
+        vector<int> res;
+        for (int f = mx; f > 0 && res.size() < k; f--) {
+            for (const auto &val: b[f]) {
+                res.push_back(val);
                 if (res.size() == k) {
                     break;
                 }
-                res.push_back(i);
             }
         }
 
