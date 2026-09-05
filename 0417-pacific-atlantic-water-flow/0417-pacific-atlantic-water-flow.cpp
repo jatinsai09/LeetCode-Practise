@@ -5,7 +5,7 @@ public:
         vector<vector<int>> pacific(n, vector<int>(m)), atlantic(pacific), res;
         
         int dir[] = {1, 0, -1, 0, 1};
-        function<void(vector<vector<int>>&, int, int)> bfs = [&](auto& vis, int si, int sj) -> void {
+        function<void(vector<vector<int>>&, int, int)> bfs = [&](auto& vis, int si, int sj) {
             queue<pair<int, int>> q;
             q.push({si, sj});
 
