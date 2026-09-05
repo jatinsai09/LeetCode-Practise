@@ -1060,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0355-design-twitter) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0707-design-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1019-next-greater-node-in-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -1108,6 +1109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0763-partition-labels) |
 | [0825-friends-of-appropriate-ages](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0825-friends-of-appropriate-ages) |
 | [0845-longest-mountain-in-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0845-longest-mountain-in-array) |
+| [0876-middle-of-the-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0876-middle-of-the-linked-list) |
 | [0948-bag-of-tokens](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0948-bag-of-tokens) |
 | [0986-interval-list-intersections](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0986-interval-list-intersections) |
 | [1048-longest-string-chain](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1048-longest-string-chain) |
