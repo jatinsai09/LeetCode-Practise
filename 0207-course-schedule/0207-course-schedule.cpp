@@ -4,7 +4,7 @@ public:
         vector<vector<int>> adj(num);
 
         for (const auto& p : pre) {
-            adj[p[0]].push_back(p[1]);
+            adj[p[1]].push_back(p[0]);
         }
 
         vector<int> indegree(num);
