@@ -22,11 +22,12 @@ public:
         }
 
         queue<int> q;
-        for (int u = 0; u < num; u++) {
-            if (!indegree[u]) {
-                q.push(u);
+        for (int v = 0; v < num; v++) {
+            if (!indegree[v]) {
+                q.push(v);
             }
         }
+        
         vector<int> topo;
         while (!q.empty()) {
             int u = q.front();
