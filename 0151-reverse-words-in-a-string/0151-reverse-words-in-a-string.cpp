@@ -1,10 +1,10 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        reverse(begin(s), end(s));
+        reverse(s.begin(), s.end());
 
         int n = s.size(), l = 0, r = 0;
-        for (int i = 0; i < n; i++, l = r) {
+        for (int i = 0; i < n; i++) {
             while (i < n && s[i] == ' ') {
                 i++;
             }
@@ -15,10 +15,13 @@ public:
             while (i < n && s[i] != ' ') {
                 s[r++] = s[i++];
             }
-            reverse(begin(s) + l, begin(s) + r);
+            reverse(s.begin() + l, s.begin() + r);
             s[r++] = ' ';
+
+            l = r;
         }
         s.resize(r - 1);
+        
         return s;
     }
 };
