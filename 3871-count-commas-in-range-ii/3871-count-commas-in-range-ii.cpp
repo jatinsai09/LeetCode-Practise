@@ -2,7 +2,7 @@ class Solution {
 #define ll long long int
 public:
     long long countCommas(long long n) {
-        ll s = 1, d = 1, e, res = 0;
+        ll s = 1000, d = 4, e, res = 0;
 
         while (s <= n) {
             e = s * 10 - 1;
@@ -12,6 +12,7 @@ public:
             if (c) {
                 res += (e - s + 1) * c;
             } 
+
             s *= 10;
             d++;
         }
