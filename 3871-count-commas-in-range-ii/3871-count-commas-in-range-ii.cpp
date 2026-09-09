@@ -5,13 +5,10 @@ public:
         ll s = 1000, d = 4, e, res = 0;
 
         while (s <= n) {
-            e = s * 10 - 1;
-            e = min(e, n);
+            e = min(s * 10 - 1, n);
 
-            ll c = (d - 1) / 3;
-            if (c) {
-                res += (e - s + 1) * c;
-            } 
+            ll c = (d - 1) / 3;    
+            res += (e - s + 1) * c; 
 
             s *= 10;
             d++;
