@@ -19,8 +19,8 @@ public:
                 f(i + 1, nums);
             }
         };
-
         f(0, nums);
+        
         return res;
     }
 
