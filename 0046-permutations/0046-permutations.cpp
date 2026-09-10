@@ -16,8 +16,8 @@ public:
                 swap(a[i], a[ind]);
             }
         };
-
         f(0);
+        
         return res;
     }
 };
