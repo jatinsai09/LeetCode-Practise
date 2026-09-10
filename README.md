@@ -787,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0257-binary-tree-paths](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -1246,6 +1247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0337-house-robber-iii) |
 | [0427-construct-quad-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0427-construct-quad-tree) |
@@ -1307,6 +1309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0337-house-robber-iii) |
@@ -1397,6 +1400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0437-path-sum-iii) |
@@ -1734,6 +1738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0282-expression-add-operators) |
 | [0401-binary-watch](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0494-target-sum) |
