@@ -22,8 +22,8 @@ public:
 
             int c = 1, sum = root->val;
             
-            pii l = dfs(root->left);
-            pii r = dfs(root->right);
+            auto l = dfs(root->left);
+            auto r = dfs(root->right);
 
             c += l.first + r.first;
             sum += l.second + r.second;
@@ -32,8 +32,8 @@ public:
 
             return {c, sum};
         };
-
         dfs(root);
+        
         return res;
     }
 };
