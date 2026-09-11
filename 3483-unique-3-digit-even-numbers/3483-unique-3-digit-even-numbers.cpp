@@ -1,8 +1,6 @@
 class Solution {
 public:
     int totalNumbers(vector<int>& digits) {
-        int n = digits.size();
-
         vector<int> f(10);
         for (const auto &i: digits) {
             f[i]++;
