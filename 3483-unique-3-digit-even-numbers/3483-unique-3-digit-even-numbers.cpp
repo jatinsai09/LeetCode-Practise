@@ -4,12 +4,12 @@ public:
         int n = digits.size();
 
         vector<int> f(10);
-        for (auto &i: digits) {
+        for (const auto &i: digits) {
             f[i]++;
         }
 
         int res = 0;
-        for (int i = 0; i < 10; i+=2) {
+        for (int i = 0; i < 10; i += 2) {
             if (!f[i]) {
                 continue;
             }
