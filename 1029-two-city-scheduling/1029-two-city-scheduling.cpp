@@ -3,7 +3,7 @@ public:
     int twoCitySchedCost(vector<vector<int>>& costs) {
         int n = costs.size(), res = 0;
 
-        sort(begin(costs), end(costs), [&](auto& a, auto& b){
+        sort(begin(costs), end(costs), [&](const auto& a, const auto& b){
             return (a[0] - a[1]) < (b[0] - b[1]);
         });
 
