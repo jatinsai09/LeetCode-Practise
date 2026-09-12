@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0778-swim-in-rising-water) |
+| [0781-rabbits-in-forest](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0781-rabbits-in-forest) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0825-friends-of-appropriate-ages](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0825-friends-of-appropriate-ages) |
 | [0840-magic-squares-in-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0840-magic-squares-in-grid) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0721-accounts-merge) |
 | [0756-pyramid-transition-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0756-pyramid-transition-matrix) |
 | [0763-partition-labels](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0763-partition-labels) |
+| [0781-rabbits-in-forest](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0781-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0840-magic-squares-in-grid) |
 | [0846-hand-of-straights](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0846-hand-of-straights) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0738-monotone-increasing-digits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0781-rabbits-in-forest](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0781-rabbits-in-forest) |
 | [0788-rotated-digits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0840-magic-squares-in-grid) |
 | [0858-mirror-reflection](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0858-mirror-reflection) |
@@ -2064,6 +2067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0738-monotone-increasing-digits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0738-monotone-increasing-digits) |
 | [0763-partition-labels](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0763-partition-labels) |
 | [0765-couples-holding-hands](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0765-couples-holding-hands) |
+| [0781-rabbits-in-forest](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0781-rabbits-in-forest) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0846-hand-of-straights](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0860-lemonade-change) |
