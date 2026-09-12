@@ -2,7 +2,7 @@
 SELECT name FROM Employee 
 WHERE id IN (
     SELECT managerId
-    FROM employee 
+    FROM Employee 
     GROUP BY managerId 
     HAVING count(id) > 4
 );
