@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0781-rabbits-in-forest) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0825-friends-of-appropriate-ages](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0825-friends-of-appropriate-ages) |
+| [0835-image-overlap](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0840-magic-squares-in-grid) |
 | [0845-longest-mountain-in-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0845-longest-mountain-in-array) |
 | [0846-hand-of-straights](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0846-hand-of-straights) |
@@ -1668,6 +1669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0778-swim-in-rising-water) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0835-image-overlap](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0840-magic-squares-in-grid) |
 | [0909-snakes-and-ladders](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0909-snakes-and-ladders) |
 | [0931-minimum-falling-path-sum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0931-minimum-falling-path-sum) |
