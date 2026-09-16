@@ -688,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1510-stone-game-iv) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1563-stone-game-v](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1622-fancy-sequence) |
 | [1690-stone-game-vii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1690-stone-game-vii) |
 | [1840-maximum-building-height](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1840-maximum-building-height) |
@@ -1019,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1563-stone-game-v) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1690-stone-game-vii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1690-stone-game-vii) |
 | [1871-jump-game-vii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1871-jump-game-vii) |
@@ -1958,6 +1960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1732-find-the-highest-altitude) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
@@ -2312,6 +2315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3312-sorted-gcd-pair-queries) |
 ## Quickselect
 |  |
