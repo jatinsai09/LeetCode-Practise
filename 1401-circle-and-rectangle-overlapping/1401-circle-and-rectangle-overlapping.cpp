@@ -20,7 +20,9 @@ public:
             yClose = yCenter;
         }
 
-        ll d2 = (xCenter - xClose) * (xCenter - xClose) + (yCenter - yClose) * (yCenter - yClose);
+        ll dx = xCenter - xClose, dy = yCenter - yClose;
+
+        ll d2 = dx * dx + dy * dy;
 
         return d2 <= 1LL * radius * radius;
     }
