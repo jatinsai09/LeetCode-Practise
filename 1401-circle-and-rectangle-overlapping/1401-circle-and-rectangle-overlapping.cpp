@@ -8,8 +8,7 @@ public:
         yClose = max(y1, min(y2, yCenter));
 
         ll dx = xCenter - xClose, dy = yCenter - yClose;
-        ll d2 = dx * dx + dy * dy;
 
-        return d2 <= 1LL * radius * radius;
+        return (dx * dx + dy * dy) <= 1LL * radius * radius;
     }
 };
