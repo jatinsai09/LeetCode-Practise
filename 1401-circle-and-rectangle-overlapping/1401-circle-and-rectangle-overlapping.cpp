@@ -4,24 +4,10 @@ public:
     bool checkOverlap(int radius, int xCenter, int yCenter, int x1, int y1, int x2, int y2) {
         int xClose, yClose;
 
-        if (xCenter > x2) {
-            xClose = x2;
-        } else if (xCenter < x1) {
-            xClose = x1;
-        } else {
-            xClose = xCenter;
-        }
-
-        if (yCenter > y2) {
-            yClose = y2;
-        } else if (yCenter < y1) {
-            yClose = y1;
-        } else {
-            yClose = yCenter;
-        }
+        xClose = max(x1, min(x2, xCenter));
+        yClose = max(y1, min(y2, yCenter));
 
         ll dx = xCenter - xClose, dy = yCenter - yClose;
-
         ll d2 = dx * dx + dy * dy;
 
         return d2 <= 1LL * radius * radius;
