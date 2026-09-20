@@ -8,13 +8,13 @@ public:
             vector<vector<int>> ndp;
             int cur = 0, f = 1;
 
-            for (auto &g: dp) {
+            for (const auto &g: dp) {
                 if (!f) {
                     ndp.push_back(g);
                 } else {
                     vector<int> p1, p0;
 
-                    for (auto &i: g) {
+                    for (const auto &i: g) {
                         if ((i >> bit) & 1) {
                             p1.push_back(i);
                         } else {
