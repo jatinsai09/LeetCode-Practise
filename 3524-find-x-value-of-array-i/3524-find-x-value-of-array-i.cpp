@@ -4,7 +4,7 @@ public:
         vector<long long> res(k, 0);
         vector<int> prev(k, 0);
 
-        for (auto &a : nums) {
+        for (const auto &a : nums) {
             vector<int> cur(k, 0);
 
             cur[a % k]++;
