@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3524-find-x-value-of-array-i) |
 | [3531-count-covered-buildings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3546-equal-sum-grid-partition-i) |
@@ -720,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3433-count-mentions-per-user) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3589-count-prime-gap-balanced-subarrays) |
@@ -1062,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3393-count-paths-with-the-given-xor-value](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3524-find-x-value-of-array-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3524-find-x-value-of-array-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3592-inverse-coin-change](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3592-inverse-coin-change) |
 | [3620-network-recovery-pathways](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3620-network-recovery-pathways) |
