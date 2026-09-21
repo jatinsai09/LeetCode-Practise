@@ -2,8 +2,8 @@ class Solution {
 public:
     vector<long long> resultArray(vector<int>& nums, int k) {
         vector<long long> res(k, 0);
+        
         vector<int> prev(k, 0);
-
         for (const auto &a : nums) {
             vector<int> cur(k, 0);
 
