@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1763-longest-nice-substring) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1980-find-unique-binary-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1980-find-unique-binary-string) |
 | [2080-range-frequency-queries](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2080-range-frequency-queries) |
 | [2121-intervals-between-identical-elements](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2121-intervals-between-identical-elements) |
@@ -885,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1871-jump-game-vii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1871-jump-game-vii) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1927-sum-game) |
@@ -1581,6 +1583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1763-longest-nice-substring](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1763-longest-nice-substring) |
 | [1871-jump-game-vii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1871-jump-game-vii) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2653-sliding-subarray-beauty](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2653-sliding-subarray-beauty) |
@@ -2034,6 +2037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1657-determine-if-two-strings-are-close) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2029-stone-game-ix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
