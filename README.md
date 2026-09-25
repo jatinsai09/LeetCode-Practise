@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0997-find-the-town-judge) |
 | [1048-longest-string-chain](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1048-longest-string-chain) |
+| [1096-brace-expansion-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1248-count-number-of-nice-subarrays) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0948-bag-of-tokens) |
 | [1029-two-city-scheduling](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1029-two-city-scheduling) |
 | [1048-longest-string-chain](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1048-longest-string-chain) |
+| [1096-brace-expansion-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -864,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1092-shortest-common-supersequence) |
+| [1096-brace-expansion-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1189-maximum-number-of-balloons) |
@@ -1219,6 +1222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1106-parsing-a-boolean-expression) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -1804,6 +1808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-ambiguous-coordinates](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0816-ambiguous-coordinates) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1096-brace-expansion-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1980-find-unique-binary-string) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
@@ -1939,6 +1944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1096-brace-expansion-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1096-brace-expansion-ii) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1254-number-of-closed-islands) |
