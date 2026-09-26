@@ -4,7 +4,7 @@ public:
         int n = s.size();
 
         unordered_map<string, string> mp;
-        for (auto &v: knowledge) {
+        for (const auto &v: knowledge) {
             mp[v[0]] = v[1];
         }
 
@@ -21,8 +21,9 @@ public:
                     key += s[j++];
                 }
 
-                if (mp.count(key)) {
-                    res += mp[key];
+                auto it = mp.find(key);
+                if (it != mp.end()) {
+                    res += it->second;
                 } else {
                     res += "?";
                 }
