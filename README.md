@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1732-find-the-highest-altitude) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1763-longest-nice-substring) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1980-find-unique-binary-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1980-find-unique-binary-string) |
 | [2080-range-frequency-queries](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2080-range-frequency-queries) |
@@ -888,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1763-longest-nice-substring) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1871-jump-game-vii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1871-jump-game-vii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
