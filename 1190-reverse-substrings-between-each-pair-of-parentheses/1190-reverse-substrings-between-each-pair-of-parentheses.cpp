@@ -5,7 +5,8 @@ public:
         cin.tie(0);
         cout.tie(0);
 
-        int n = s.length();
+        int n = s.size();
+        
         vector<int> open, pair(n);
         for (int i = 0; i < n; i++) {
             if (s[i] == '(') {
