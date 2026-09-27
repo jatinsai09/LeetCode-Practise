@@ -4,7 +4,7 @@ public:
         int n = s.size();
 
         string st = "";
-        for (auto &c: s) {
+        for (const auto &c: s) {
             if (c == ')') {
                 string rev = "";
 
