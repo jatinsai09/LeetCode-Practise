@@ -12,7 +12,6 @@ public:
         for (int i = 0; i < n; i++) {
             byEnd[i] = i;
         }
-
         sort(begin(byEnd), end(byEnd), [&](auto& i, auto &j){
             return mt[i][1] < mt[j][1];
         });
