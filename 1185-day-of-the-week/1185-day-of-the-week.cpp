@@ -1,7 +1,7 @@
 class Solution {
 public:
     string dayOfTheWeek(int day, int month, int year) {
-        vector<string> res = {"Sunday",   "Monday", "Tuesday", "Wednesday",
+        vector<string> res = {"Sunday", "Monday", "Tuesday", "Wednesday",
                               "Thursday", "Friday", "Saturday"};
 
         int days = 0;
@@ -19,8 +19,8 @@ public:
             days += md[i];
         }
 
-        days += day;
+        days += day - 1;
 
-        return res[(days + 4) % 7]; // Jan 1, 1971 = Friday (index 5)
+        return res[(days + 5) % 7]; // Jan 1, 1971 = Friday (index 5)
     }
 };
