@@ -16,7 +16,7 @@ public:
         }
 
         for (int i = 0; i < month - 1; i++) {
-            days += md[i] % 7;;
+            days += md[i] % 7;
         }
 
         days += (day - 1) % 7;
