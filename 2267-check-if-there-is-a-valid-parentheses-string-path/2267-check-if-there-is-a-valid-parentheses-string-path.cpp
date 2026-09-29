@@ -45,6 +45,6 @@ public:
             return dp[i][j][bal] = yes;
         };
 
-        return f(0, 0, (grid[0][0] == '(' ? 1 : -1));
+        return f(0, 0, 1);
     }
 };
