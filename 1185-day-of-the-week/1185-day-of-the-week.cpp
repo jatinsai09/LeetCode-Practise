@@ -16,10 +16,10 @@ public:
         }
 
         for (int i = 0; i < month - 1; i++) {
-            days += md[i];
+            days += md[i] % 7;;
         }
 
-        days += day - 1;
+        days += (day - 1) % 7;
 
         return res[(days + 5) % 7]; // Jan 1, 1971 = Friday (index 5)
     }
