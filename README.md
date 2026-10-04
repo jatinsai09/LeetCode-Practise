@@ -848,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0721-accounts-merge) |
 | [0730-count-different-palindromic-subsequences](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0730-count-different-palindromic-subsequences) |
@@ -1005,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0688-knight-probability-in-chessboard) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -1218,6 +1220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0654-maximum-binary-tree) |
+| [0678-valid-parenthesis-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0853-car-fleet) |
@@ -2122,6 +2125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0738-monotone-increasing-digits](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0738-monotone-increasing-digits) |
 | [0763-partition-labels](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0763-partition-labels) |
@@ -2623,6 +2627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
