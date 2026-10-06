@@ -5,15 +5,17 @@ public:
         cin.tie(0);
         cout.tie(0);
 
-        int b = 0, c = 0;
-        for (auto& ch : s) {
+        int b = 0, res = 0;
+        for (const auto& ch : s) {
             b += (ch == '(' ? 1 : -1);
 
             if (b < 0) {
-                c++;
+                res++;
                 b = 0;
             }
         }
-        return c + b;
+        res += b;
+
+        return res;
     }
 };
