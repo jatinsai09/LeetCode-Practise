@@ -5,15 +5,19 @@ public:
         cin.tie(0);
         cout.tie(0);
 
-        int cur = 0, c = 0;
+        int op = 0, cl = 0, c = 0;
         for (auto& ch : s) {
-            (ch == '(' ? cur++ : cur--);
-            if (cur < 0) {
+            (ch == '(' ? op++ : cl++);
+
+            if (cl > op) {
                 c++;
-                cur++;
+                op++;
             }
         }
-       
-        return c + cur;
+        if (op > cl) {
+            c += (op - cl);
+        }
+
+        return c;
     }
 };
