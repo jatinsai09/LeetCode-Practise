@@ -828,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0387-first-unique-character-in-a-string) |
@@ -1815,6 +1816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -1925,6 +1927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0407-trapping-rain-water-ii) |
