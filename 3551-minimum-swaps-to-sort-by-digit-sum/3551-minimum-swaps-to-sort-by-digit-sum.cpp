@@ -25,21 +25,12 @@ public:
             og[b[i]] = i;
         }
 
-
-        vector<bool> vis(n, 0);
         int swaps = 0;
         for (int i = 0; i < n; i++) {
-            if (vis[i]) {
-                continue;
+            while (i != og[a[i]]) {
+                swap(a[i], a[og[a[i]]]);
+                swaps++;
             }
-
-            int c = 0, j = i;
-            while (!vis[j]) {
-                vis[j] = 1;
-                c++;
-                j = og[a[j]];
-            }
-            swaps += (c - 1);
         }
         return swaps;
     }
