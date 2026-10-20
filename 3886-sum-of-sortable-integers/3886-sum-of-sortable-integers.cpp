@@ -4,7 +4,7 @@ public:
         int n = a.size(), res = 0;
 
         function<bool(int)> yes = [&](int k) {
-            int gmx = 0, mn, mx;
+            int pmx = 0, mn, mx;
 
             for (int i = 0; i < n; i += k) {
                 int fall = 0;
@@ -15,12 +15,12 @@ public:
                     mx = max(mx, a[j]);
                     mn = min(mn, a[j]);
                 }
-
                 fall += (a[i + k - 1] > a[i]);
-                if (fall > 1 || mn < gmx) {
+
+                if (fall > 1 || mn < pmx) {
                     return false;
                 }
-                gmx = mx;
+                pmx = mx;
             }
 
             return true;
