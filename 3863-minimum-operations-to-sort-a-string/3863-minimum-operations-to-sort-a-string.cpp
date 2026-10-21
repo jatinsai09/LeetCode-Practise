@@ -25,10 +25,12 @@ public:
             return 1;
         }
 
-        if (s[0] == t[n - 1] && s[n - 1] == t[0] && f[s[0] - 'a'] == 1 && f[s[n - 1] - 'a'] == 1) {
-            return 3;
+        for (int i = 1; i + 1 < n; i++) {
+            if (s[i] == t[0] || s[i] == t[n - 1]) {
+                return 2;
+            }
         }
-        
-        return 2;
+
+        return 3;
     }
 };
