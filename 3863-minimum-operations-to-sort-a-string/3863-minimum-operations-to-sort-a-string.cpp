@@ -2,15 +2,9 @@ class Solution {
 public:
     int minOperations(string s) {
         int n = s.size();
-        vector<int> f(26);
-        for (auto &c: s) {
-            f[c - 'a']++;
-        }
-
         if (n == 1) {
             return 0;
         }
-
         if (n == 2) {
             return (s[0] <= s[1] ? 0 : -1);
         }
