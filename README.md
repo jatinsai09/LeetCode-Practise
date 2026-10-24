@@ -736,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2409-count-days-spent-together](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2409-count-days-spent-together) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -932,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2301-match-substring-after-replacement](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2301-match-substring-after-replacement) |
 | [2390-removing-stars-from-a-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2483-minimum-penalty-for-a-shop) |
