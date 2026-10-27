@@ -20,7 +20,6 @@ public:
         int y1 = stoi(date1.substr(0, 4)), y2 = stoi(date2.substr(0, 4));
         for (int i = y1 + 1; i < y2; i++) {
             res += 365 + isLeap(i);
-            cout << i << "\n";
         }
 
         int m1 = stoi(date1.substr(5, 2)), m2 = stoi(date2.substr(5, 2));
