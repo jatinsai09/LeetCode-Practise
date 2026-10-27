@@ -36,6 +36,13 @@ public:
                     res += isLeap(y2);
                 }
             }
+        } else if (m1 != m2) {
+            for (int i = m1 - 1; i + 1 < m2; i++) {
+                res += days[i];
+                if (i == 1) {
+                    res += isLeap(y1);
+                }
+            }
         }
         
         int d1 = stoi(date1.substr(8, 2)), d2 = stoi(date2.substr(8, 2));
