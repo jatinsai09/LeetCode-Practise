@@ -4,7 +4,6 @@ public:
         int N = 1105;
         int n = grid.size(), m = grid[0].size();
         vector<vector<bool>> prev(m, vector<bool>(N, false));
-        prev[0][grid[0][0]] = true;
 
         for (int i = 0; i < n; i++) {
             vector<vector<bool>> cur(m, vector<bool>(N, false));
