@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3878-count-good-subarrays](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3878-count-good-subarrays) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3886-sum-of-sortable-integers) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 | [3903-smallest-stable-index-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3903-smallest-stable-index-i) |
@@ -1127,6 +1128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3742-maximum-path-score-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3877-minimum-removals-to-achieve-target-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Linked List
 |  |
@@ -1735,6 +1737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3878-count-good-subarrays](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3878-count-good-subarrays) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -1816,6 +1819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3643-flip-square-submatrix-vertically) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3905-multi-source-flood-fill](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3905-multi-source-flood-fill) |
 ## Monotonic Stack
 |  |
