@@ -984,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3838-weighted-word-mapping) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3889-mirror-frequency-distance](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3889-mirror-frequency-distance) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -2292,6 +2293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3620-network-recovery-pathways](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -2386,6 +2388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Union-Find
 |  |
 | ------- |
@@ -2554,6 +2557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Rolling Hash
 |  |
 | ------- |
