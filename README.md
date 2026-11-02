@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0456-132-pattern) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0474-ones-and-zeroes) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0472-concatenated-words](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0472-concatenated-words) |
 | [0621-task-scheduler](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0628-maximum-product-of-three-numbers) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0396-rotate-function) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/jatinsai09/LeetCode-Practise/tree/master/0509-fibonacci-number) |
