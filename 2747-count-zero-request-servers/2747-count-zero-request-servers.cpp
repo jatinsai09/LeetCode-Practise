@@ -22,17 +22,15 @@ public:
             int t1 = queries[ind[i]] - x, t2 = queries[ind[i]];
 
             while (r < m && logs[r][1] <= t2) {
-                if(++f[logs[r][0]] == 1) {
+                if(++f[logs[r++][0]] == 1) {
                     d++;
                 }
-                r++;
             }
             
             while (l < m && logs[l][1] < t1) {
-                if(--f[logs[l][0]] == 0) {
+                if(--f[logs[l++][0]] == 0) {
                     d--;
                 }
-                l++;
             }
 
             res[ind[i]] = n - d;
