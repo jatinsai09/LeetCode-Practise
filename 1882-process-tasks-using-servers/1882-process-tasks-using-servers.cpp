@@ -15,6 +15,9 @@ public:
         ll i, ind, st = 0;
         for (ll j = 0; j < m; j++) {
             st = max(st, j);
+            if (pq.empty()) {
+                st = cur.top().first;
+            }
 
             while (!cur.empty() && cur.top().first <= st) {
                 i = cur.top().second;
@@ -23,24 +26,7 @@ public:
                 pq.push({servers[i], i});
             }
             
-            if (!pq.empty()) {
-                ind = pq.top().second;
-                pq.pop();
-
-                res[j] = ind;
-
-                cur.push({st + tasks[j], ind});
-                continue;
-            }
-
-            st = cur.top().first;
-            while (!cur.empty() && cur.top().first == st) {
-                i = cur.top().second;
-                cur.pop();
-
-                pq.push({servers[i], i});
-            }
-
+            
             ind = pq.top().second;
             pq.pop();
 
