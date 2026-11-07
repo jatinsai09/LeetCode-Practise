@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1882-process-tasks-using-servers](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1882-process-tasks-using-servers) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1895-largest-magic-square) |
 | [1901-find-a-peak-element-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1901-find-a-peak-element-ii) |
@@ -2296,6 +2297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1642-furthest-building-you-can-reach](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1642-furthest-building-you-can-reach) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1882-process-tasks-using-servers](https://github.com/jatinsai09/LeetCode-Practise/tree/master/1882-process-tasks-using-servers) |
 | [2054-two-best-non-overlapping-events](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2054-two-best-non-overlapping-events) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2344-minimum-deletions-to-make-array-divisible) |
