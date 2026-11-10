@@ -7,7 +7,7 @@ public:
 
         for(int i = 1; i <= n; i++) {
             for(int j = i - 1; j >= max(0, i - 3); j--) {
-                dp[i] = min(dp[i], (ll)(dp[j] + costs[i - 1] + (i - j) * (i - j)));
+                dp[i] = min(dp[i], dp[j] + costs[i - 1] + (i - j) * (i - j));
             }
         }
         return (int)dp[n];
