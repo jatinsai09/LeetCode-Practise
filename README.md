@@ -822,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2352-equal-row-and-column-pairs](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2390-removing-stars-from-a-string) |
 | [2402-meeting-rooms-iii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2402-meeting-rooms-iii) |
@@ -964,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2301-match-substring-after-replacement](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2301-match-substring-after-replacement) |
 | [2390-removing-stars-from-a-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2409-count-days-spent-together) |
