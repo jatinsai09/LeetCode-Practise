@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3074-apple-redistribution-into-boxes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -1141,6 +1143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3148-maximum-difference-score-in-a-grid) |
