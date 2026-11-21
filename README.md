@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3312-sorted-gcd-pair-queries) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3364-minimum-positive-sum-subarray](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3364-minimum-positive-sum-subarray) |
 | [3379-transformed-array](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3379-transformed-array) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3312-sorted-gcd-pair-queries) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3488-closest-equal-element-queries) |
@@ -994,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3407-substring-matching-pattern](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3407-substring-matching-pattern) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3498-reverse-degree-of-a-string) |
@@ -1421,6 +1424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
@@ -1514,6 +1518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2596-check-knight-tour-configuration](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2596-check-knight-tour-configuration) |
 | [2685-count-the-number-of-complete-components](https://github.com/jatinsai09/LeetCode-Practise/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
