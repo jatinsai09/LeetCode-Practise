@@ -29,12 +29,10 @@ public:
             }
 
             prev[s[u] - 'a'] = og;
+
+            if (u) adj2[np[u]].push_back(u);
         };
         dfs(0, -1);
-
-        for (int i = 1; i < n; i++) {
-            adj2[np[i]].push_back(i);
-        }
 
         vector<int> res(n);
 
