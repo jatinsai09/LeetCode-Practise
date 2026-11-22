@@ -4,7 +4,7 @@ class Solution {
 public:
     vector<long long> earliestActivationTimes(int n, vector<vector<int>>& edges, vector<int>& rs) {
         vector<ll> res(n, -1);
-        rs[0] = 1;
+        res[0] = 0;
 
         vector<vector<pll>> adj(n);
         for (auto &e: edges) {
@@ -13,12 +13,14 @@ public:
         }
         
         priority_queue<pll, vector<pll>, greater<>> pq;
-        pq.push({0, 0});
+        for (auto &[v, wt]: adj[0]) {
+            pq.push({wt, v});
+        }
 
         while (!pq.empty()) {
             auto [time, u] = pq.top();
             pq.pop();
-            if (res[u] > -1) {
+            if (res[u] >= 0) {
                 continue;
             }
 
