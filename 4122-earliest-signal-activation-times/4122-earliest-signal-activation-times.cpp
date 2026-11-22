@@ -3,7 +3,7 @@ class Solution {
 #define pll pair<ll, ll>
 public:
     vector<long long> earliestActivationTimes(int n, vector<vector<int>>& edges, vector<int>& rs) {
-        vector<ll> res(n, -1), f(n);
+        vector<ll> res(n, -1);
         rs[0] = 1;
 
         vector<vector<pll>> adj(n);
