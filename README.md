@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3904-smallest-stable-index-ii) |
 | [3905-multi-source-flood-fill](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3905-multi-source-flood-fill) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -1177,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3891-minimum-increase-to-maximize-special-indices) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Linked List
 |  |
 | ------- |
@@ -2313,6 +2315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3891-minimum-increase-to-maximize-special-indices) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/jatinsai09/LeetCode-Practise/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
